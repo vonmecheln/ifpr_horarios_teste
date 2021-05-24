@@ -1,5 +1,5 @@
 ﻿Conflitos leves de exportacao_controleescolar.fet
-Gerado com FET 6.0.1 em 22/05/2021 23:54
+Gerado com FET 6.0.1 em 23/05/2021 21:53
 
 Número de restrições leves quebradas: 0
 Total de conflitos leves: 0

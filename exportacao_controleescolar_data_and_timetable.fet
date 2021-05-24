@@ -1310,17 +1310,17 @@
 <Activity_Tags_List>
 <Activity_Tag>
 	<Name>Matutino</Name>
-	<Printable>true</Printable>
+	<Printable>false</Printable>
 	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Vespertino</Name>
-	<Printable>true</Printable>
+	<Printable>false</Printable>
 	<Comments></Comments>
 </Activity_Tag>
 <Activity_Tag>
 	<Name>Noturno</Name>
-	<Printable>true</Printable>
+	<Printable>false</Printable>
 	<Comments></Comments>
 </Activity_Tag>
 </Activity_Tags_List>
@@ -2884,7 +2884,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Josiane Paula Maltauro Lopes</Teacher>
+	<Teacher>Celina de Oliveira Barbosa Gomes</Teacher>
 	<Subject>Artes I - 458</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Activity_Tag>Vespertino</Activity_Tag>
@@ -2897,7 +2897,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Josiane Paula Maltauro Lopes</Teacher>
+	<Teacher>Celina de Oliveira Barbosa Gomes</Teacher>
 	<Subject>Artes I - 458</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Activity_Tag>Vespertino</Activity_Tag>
@@ -4862,7 +4862,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Josiane Paula Maltauro Lopes</Teacher>
+	<Teacher>Celina de Oliveira Barbosa Gomes</Teacher>
 	<Subject>Arte III - 1448</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Students>IIN2019</Students>

@@ -3736,7 +3736,7 @@
      
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Subject name="Artes I - 458"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3889,7 +3889,7 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     
+     <Subject name="Arte III - 1448"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2019"></Students>
     </Hour>
     <Hour name="08:20 - 09:10">
      
@@ -3904,7 +3904,7 @@
      <Subject name="Língua Portuguesa III - 158"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2019"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Subject name="Artes I - 458"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -9482,7 +9482,7 @@
      
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Artes I - 458"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -9635,7 +9635,7 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Subject name="Arte III - 1448"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2019"></Students>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
      
@@ -9650,7 +9650,7 @@
      
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Artes I - 458"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      

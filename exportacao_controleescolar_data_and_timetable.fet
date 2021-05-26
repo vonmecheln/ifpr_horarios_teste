@@ -1002,6 +1002,10 @@
 	<Comments>Informática Instrumental</Comments>
 </Subject>
 <Subject>
+	<Name>Instrumentos de Medidas Elétricas - 139</Name>
+	<Comments>Instrumentos de Medidas Elétricas</Comments>
+</Subject>
+<Subject>
 	<Name>Processos de Fabricação I - 149</Name>
 	<Comments>Processos de Fabricação I</Comments>
 </Subject>
@@ -1019,6 +1023,10 @@
 </Subject>
 <Subject>
 	<Name>Eletricidade Básica - 595</Name>
+	<Comments>Eletricidade Básica</Comments>
+</Subject>
+<Subject>
+	<Name>Eletricidade Básica - 134</Name>
 	<Comments>Eletricidade Básica</Comments>
 </Subject>
 <Subject>
@@ -1304,6 +1312,18 @@
 <Subject>
 	<Name>Sociologia I - 1071</Name>
 	<Comments>Sociologia I</Comments>
+</Subject>
+<Subject>
+	<Name>Física Aplicada - 597/144</Name>
+	<Comments>Física Aplicada</Comments>
+</Subject>
+<Subject>
+	<Name>Eletricidade Básica - 595/134</Name>
+	<Comments>Eletricidade Básica</Comments>
+</Subject>
+<Subject>
+	<Name>Instrumentos de Medidas Elétricas - 139/1138</Name>
+	<Comments>Instrumentos de Medidas Elétricas</Comments>
 </Subject>
 </Subjects_List>
 
@@ -4390,7 +4410,7 @@
 	<Total_Duration>2</Total_Duration>
 	<Id>100001770</Id>
 	<Activity_Group_Id>597415</Activity_Group_Id>
-	<Active>true</Active>
+	<Active>false</Active>
 	<Comments></Comments>
 </Activity>
 <Activity>
@@ -4402,7 +4422,7 @@
 	<Total_Duration>2</Total_Duration>
 	<Id>100001601</Id>
 	<Activity_Group_Id>1138415</Activity_Group_Id>
-	<Active>true</Active>
+	<Active>false</Active>
 	<Comments></Comments>
 </Activity>
 <Activity>
@@ -4486,7 +4506,7 @@
 	<Total_Duration>4</Total_Duration>
 	<Id>100001597</Id>
 	<Activity_Group_Id>595415</Activity_Group_Id>
-	<Active>true</Active>
+	<Active>false</Active>
 	<Comments></Comments>
 </Activity>
 <Activity>
@@ -4498,7 +4518,7 @@
 	<Total_Duration>4</Total_Duration>
 	<Id>200001597</Id>
 	<Activity_Group_Id>595415</Activity_Group_Id>
-	<Active>true</Active>
+	<Active>false</Active>
 	<Comments></Comments>
 </Activity>
 <Activity>
@@ -4510,7 +4530,7 @@
 	<Total_Duration>2</Total_Duration>
 	<Id>100001706</Id>
 	<Activity_Group_Id>144421</Activity_Group_Id>
-	<Active>true</Active>
+	<Active>false</Active>
 	<Comments></Comments>
 </Activity>
 <Activity>
@@ -4583,6 +4603,30 @@
 	<Id>200001737</Id>
 	<Activity_Group_Id>132421</Activity_Group_Id>
 	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Tiago Henrique dos Santos</Teacher>
+	<Subject>Eletricidade Básica - 134</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>ELM2021</Students>
+	<Duration>4</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>100001845</Id>
+	<Activity_Group_Id>134421</Activity_Group_Id>
+	<Active>false</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Guilherme Masquetti Pelz</Teacher>
+	<Subject>Instrumentos de Medidas Elétricas - 139</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>ELM2021</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100001846</Id>
+	<Activity_Group_Id>139421</Activity_Group_Id>
+	<Active>false</Active>
 	<Comments></Comments>
 </Activity>
 <Activity>
@@ -6120,6 +6164,58 @@
 	<Total_Duration>6</Total_Duration>
 	<Id>300001588</Id>
 	<Activity_Group_Id>1483409</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Bruno Garcia Bonfim</Teacher>
+	<Subject>Física Aplicada - 597/144</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>ELE2021-1SEM</Students>
+	<Students>ELM2021</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>300001770</Id>
+	<Activity_Group_Id>597415</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments>Aula mista ELE2021-1SEM, ELM2021</Comments>
+</Activity>
+<Activity>
+	<Teacher>Tiago Henrique dos Santos</Teacher>
+	<Subject>Eletricidade Básica - 595/134</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>ELE2021-1SEM</Students>
+	<Students>ELM2021</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>300001597</Id>
+	<Activity_Group_Id>595415</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments>Aula mista ELE2021-1SEM, ELM2021</Comments>
+</Activity>
+<Activity>
+	<Teacher>Tiago Henrique dos Santos</Teacher>
+	<Subject>Eletricidade Básica - 595/134</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>ELE2021-1SEM</Students>
+	<Students>ELM2021</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>400001597</Id>
+	<Activity_Group_Id>595415</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments>Aula mista ELE2021-1SEM, ELM2021</Comments>
+</Activity>
+<Activity>
+	<Teacher>Guilherme Masquetti Pelz</Teacher>
+	<Subject>Instrumentos de Medidas Elétricas - 139/1138</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>ELE2021-1SEM</Students>
+	<Students>ELM2021</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>300001601</Id>
+	<Activity_Group_Id>139421</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -15457,7 +15553,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<First_Activity_Id>100001597</First_Activity_Id>
 	<Second_Activity_Id>200001597</Second_Activity_Id>
-	<Active>true</Active>
+	<Active>false</Active>
 	<Comments></Comments>
 </ConstraintTwoActivitiesOrderedIfSameDay>
 <ConstraintTwoActivitiesOrderedIfSameDay>
@@ -17466,7 +17562,7 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Mauro César de Souza Siena</Teacher>
-	<Number_of_Not_Available_Times>18</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>13</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -17518,26 +17614,6 @@
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>Intervalo (16:45 - 19:00)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>19:00 - 19:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>19:50 - 20:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (20:40 - 21:00)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>21:00 - 21:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>21:50 - 22:40</Hour>
 	</Not_Available_Time>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -23570,7 +23646,7 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100001770</Activity_Id>
+	<Activity_Id>300001770</Activity_Id>
 	<Preferred_Day>Terça-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
@@ -23579,9 +23655,9 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100001601</Activity_Id>
+	<Activity_Id>300001601</Activity_Id>
 	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -23590,15 +23666,6 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001599</Activity_Id>
 	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100001771</Activity_Id>
-	<Preferred_Day>Sexta-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -23606,8 +23673,17 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100001771</Activity_Id>
+	<Preferred_Day>Segunda-Feira</Preferred_Day>
+	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200001771</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Day>Quarta-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -23625,8 +23701,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001595</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
+	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -23634,8 +23710,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200001595</Activity_Id>
-	<Preferred_Day>Quarta-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -23646,14 +23722,14 @@
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
+	<Active>false</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>200001597</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Activity_Id>400001597</Activity_Id>
+	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -23661,17 +23737,17 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001706</Activity_Id>
-	<Preferred_Day>Sexta-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
+	<Active>false</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001689</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -23680,24 +23756,6 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001723</Activity_Id>
 	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100001728</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100001762</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -23705,7 +23763,16 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100001737</Activity_Id>
+	<Activity_Id>100001728</Activity_Id>
+	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100001762</Activity_Id>
 	<Preferred_Day>Terça-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
@@ -23714,9 +23781,18 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100001737</Activity_Id>
+	<Preferred_Day>Segunda-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200001737</Activity_Id>
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24842,6 +24918,15 @@
 	<Activity_Id>300001588</Activity_Id>
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
 	<Preferred_Hour>15:05 - 15:55</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>300001597</Activity_Id>
+	<Preferred_Day>Quarta-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>

@@ -3140,10 +3140,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Física Aplicada - 597"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
+     <Subject name="Física Aplicada - 597/144"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Física Aplicada - 597"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
+     <Subject name="Física Aplicada - 597/144"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -3317,10 +3317,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Física Aplicada - 144"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Física Aplicada - 144"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -7825,10 +7825,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Processos de Fabricação I - 149"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Processos de Fabricação I - 149"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -7984,10 +7984,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Processos de Fabricação I - 149"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Processos de Fabricação I - 149"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -8660,19 +8660,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Instrumentos de Medidas Elétricas - 1138"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Instrumentos de Medidas Elétricas - 1138"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Instrumentos de Medidas Elétricas - 139/1138"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Instrumentos de Medidas Elétricas - 139/1138"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students><Students name="ELM2021"></Students>
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -10858,19 +10858,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Comunicação e Expressão - 128"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     <Subject name="Comunicação e Expressão - 598"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Comunicação e Expressão - 128"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     <Subject name="Comunicação e Expressão - 598"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Comunicação e Expressão - 598"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
+     <Subject name="Comunicação e Expressão - 128"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Comunicação e Expressão - 598"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
+     <Subject name="Comunicação e Expressão - 128"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -12895,10 +12895,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Fundamentos da Matemática - 599"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Fundamentos da Matemática - 599"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -13007,10 +13007,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Fundamentos da Matemática - 599"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Fundamentos da Matemática - 599"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -13054,19 +13054,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Fundamentos de Matemática - 129"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Fundamentos de Matemática - 129"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Fundamentos da Matemática - 599"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Fundamentos da Matemática - 599"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -13110,19 +13110,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Fundamentos da Matemática - 599"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Fundamentos da Matemática - 599"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Fundamentos de Matemática - 129"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Fundamentos de Matemática - 129"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -14303,10 +14303,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Informática Instrumental - 153"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Informática Instrumental - 153"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -14415,10 +14415,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Informática Instrumental - 153"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Informática Instrumental - 153"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -17280,10 +17280,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Desenho Técnico - 594"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
+     <Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Desenho Técnico - 594"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
+     <Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -17345,10 +17345,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     <Subject name="Desenho Técnico - 594"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     <Subject name="Desenho Técnico - 594"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -17392,19 +17392,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Desenho Técnico - 594"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
+     <Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Desenho Técnico - 594"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
+     <Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -17448,10 +17448,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Desenho Técnico - 594"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Desenho Técnico - 594"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -18697,10 +18697,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Eletricidade Básica - 595"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Eletricidade Básica - 595"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
+     
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -18744,10 +18744,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Eletricidade Básica - 595"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
+     <Subject name="Eletricidade Básica - 595/134"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Eletricidade Básica - 595"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students>
+     <Subject name="Eletricidade Básica - 595/134"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -18856,10 +18856,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Eletricidade Básica - 595/134"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Eletricidade Básica - 595/134"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-1SEM"></Students><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      

@@ -8895,10 +8895,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Inteligência Artificial e Sistemas Neurais - 724"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Inteligência Artificial e Sistemas Neurais - 724"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -8998,10 +8998,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Inteligência Artificial e Sistemas Neurais - 724"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Inteligência Artificial e Sistemas Neurais - 724"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -11928,19 +11928,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -12040,19 +12040,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -14294,10 +14294,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Testes, Verificação e Validação de Sistemas - 723"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Testes, Verificação e Validação de Sistemas - 723"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -14415,10 +14415,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Testes, Verificação e Validação de Sistemas - 723"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Testes, Verificação e Validação de Sistemas - 723"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
     </Hour>
    </Day>
    <Day name="Sexta-Feira">

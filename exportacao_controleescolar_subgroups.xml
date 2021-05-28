@@ -42,10 +42,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Sanidade animal na agroecologia - 430"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Sanidade animal na agroecologia - 430"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -266,10 +266,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Sanidade animal na agroecologia - 430"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Cesar Gomes de Freitas"></Teacher><Subject name="Sociologia Rural e Cooperativismo - 853"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Sanidade animal na agroecologia - 430"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     <Teacher name="Cesar Gomes de Freitas"></Teacher><Subject name="Sociologia Rural e Cooperativismo - 853"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -1403,10 +1403,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Suinocultura - 1461"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Suinocultura - 1461"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -1627,10 +1627,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Suinocultura - 1461"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Suinocultura - 1461"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sábado">

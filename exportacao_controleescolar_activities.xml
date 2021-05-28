@@ -1,6 +1,12 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <Activities_Timetable>
 <Activity>
+	<Id>100001847</Id>
+	<Day>Sexta-Feira</Day>
+	<Hour>19:00 - 19:50</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
 	<Id>100001799</Id>
 	<Day>Quinta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
@@ -32,7 +38,7 @@
 </Activity>
 <Activity>
 	<Id>100001792</Id>
-	<Day>Sexta-Feira</Day>
+	<Day>Segunda-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room></Room>
 </Activity>
@@ -464,7 +470,7 @@
 </Activity>
 <Activity>
 	<Id>100001668</Id>
-	<Day>Sexta-Feira</Day>
+	<Day>Segunda-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room></Room>
 </Activity>

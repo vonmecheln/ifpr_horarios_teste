@@ -14,14 +14,14 @@
 </Activity>
 <Activity>
 	<Id>100001807</Id>
-	<Day>Sexta-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>200001807</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Day>Sexta-Feira</Day>
+	<Hour>21:50 - 22:40</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -50,8 +50,8 @@
 </Activity>
 <Activity>
 	<Id>200001808</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>21:50 - 22:40</Hour>
+	<Day>Sexta-Feira</Day>
+	<Hour>21:00 - 21:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>

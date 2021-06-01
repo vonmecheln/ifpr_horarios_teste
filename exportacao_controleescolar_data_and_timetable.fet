@@ -21344,13 +21344,6 @@
 	<Active>true</Active>
 	<Comments>Arranjo TGC: 2020 Plano de Marketing - 1498 e Gestão Estratégica de Pessoas - 1496</Comments>
 </ConstraintTwoActivitiesOrdered>
-<ConstraintTwoActivitiesOrdered>
-	<Weight_Percentage>100</Weight_Percentage>
-	<First_Activity_Id>100001560</First_Activity_Id>
-	<Second_Activity_Id>100001548</Second_Activity_Id>
-	<Active>true</Active>
-	<Comments>Arranjo TGC: 2020 Promoção e organização de eventos empresariais - 1495 e Técnicas de Vendas e Negociação - 1493</Comments>
-</ConstraintTwoActivitiesOrdered>
 <ConstraintActivitiesSameStartingDay>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Number_of_Activities>2</Number_of_Activities>
@@ -21358,14 +21351,6 @@
 	<Activity_Id>100001549</Activity_Id>
 	<Active>true</Active>
 	<Comments>Arranjo TGC: 2020  Plano de Marketing - 1498 e Gestão Estratégica de Pessoas - 1496</Comments>
-</ConstraintActivitiesSameStartingDay>
-<ConstraintActivitiesSameStartingDay>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Number_of_Activities>2</Number_of_Activities>
-	<Activity_Id>100001560</Activity_Id>
-	<Activity_Id>100001548</Activity_Id>
-	<Active>true</Active>
-	<Comments>Arranjo TGC: 2020 Promoção e organização de eventos empresariais - 1495 e Técnicas de Vendas e Negociação - 1493</Comments>
 </ConstraintActivitiesSameStartingDay>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
@@ -24115,8 +24100,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001548</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24142,8 +24127,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200001562</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>

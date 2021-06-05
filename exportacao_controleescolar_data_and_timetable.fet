@@ -31,7 +31,7 @@
 </Days_List>
 
 <Hours_List>
-<Number_of_Hours>18</Number_of_Hours>
+<Number_of_Hours>19</Number_of_Hours>
 <Hour>
 	<Name>07:30 - 08:20</Name>
 </Hour>
@@ -69,7 +69,10 @@
 	<Name>15:55 - 16:45</Name>
 </Hour>
 <Hour>
-	<Name>Intervalo (16:45 - 19:00)</Name>
+	<Name>Intervalo (16:45 - 18:10)</Name>
+</Hour>
+<Hour>
+	<Name>18:10 - 19:00</Name>
 </Hour>
 <Hour>
 	<Name>19:00 - 19:50</Name>
@@ -1328,6 +1331,22 @@
 <Subject>
 	<Name>Instrumentos de Medidas Elétricas - 139/1138</Name>
 	<Comments>Instrumentos de Medidas Elétricas</Comments>
+</Subject>
+<Subject>
+	<Name>Sistemas Operacionais - 8</Name>
+	<Comments>Sistemas Operacionais</Comments>
+</Subject>
+<Subject>
+	<Name>Introdução a Tecnologia da Computação - 7</Name>
+	<Comments>Introdução a Tecnologia da Computação</Comments>
+</Subject>
+<Subject>
+	<Name>Comportamento Organizacional e Empreendedorismo em TI - 1</Name>
+	<Comments>Comportamento Organizacional e Empreendedorismo em TI</Comments>
+</Subject>
+<Subject>
+	<Name>Computador, Sociedade e Ética Profissional - 2</Name>
+	<Comments>Computador, Sociedade e Ética Profissional</Comments>
 </Subject>
 </Subjects_List>
 
@@ -6095,6 +6114,66 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
+<Activity>
+	<Teacher>Olavo José Luiz Junior</Teacher>
+	<Subject>Sistemas Operacionais - 8</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>TADS2020/2021</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>100001858</Id>
+	<Activity_Group_Id>8430</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Rafael Gil Ferques</Teacher>
+	<Subject>Introdução a Tecnologia da Computação - 7</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>TADS2020/2021</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100001861</Id>
+	<Activity_Group_Id>7430</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Rafael Gil Ferques</Teacher>
+	<Subject>Introdução a Tecnologia da Computação - 7</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>TADS2020/2021</Students>
+	<Duration>1</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>200001861</Id>
+	<Activity_Group_Id>7430</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Alexandre José Schumacher</Teacher>
+	<Subject>Comportamento Organizacional e Empreendedorismo em TI - 1</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>TADS2020/2021</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>100001860</Id>
+	<Activity_Group_Id>1430</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Amilcar Machado Profeta Filho</Teacher>
+	<Subject>Computador, Sociedade e Ética Profissional - 2</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>TADS2020/2021</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>100001859</Id>
+	<Activity_Group_Id>2430</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
 </Activities_List>
 
 <Buildings_List>
@@ -6342,7 +6421,7 @@
 	</Break_Time>
 	<Break_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Break_Time>
 	<Break_Time>
 		<Day>Segunda-Feira</Day>
@@ -6362,7 +6441,7 @@
 	</Break_Time>
 	<Break_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Break_Time>
 	<Break_Time>
 		<Day>Terça-Feira</Day>
@@ -6382,7 +6461,7 @@
 	</Break_Time>
 	<Break_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Break_Time>
 	<Break_Time>
 		<Day>Quarta-Feira</Day>
@@ -6402,7 +6481,7 @@
 	</Break_Time>
 	<Break_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Break_Time>
 	<Break_Time>
 		<Day>Quinta-Feira</Day>
@@ -6422,7 +6501,7 @@
 	</Break_Time>
 	<Break_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Break_Time>
 	<Break_Time>
 		<Day>Sexta-Feira</Day>
@@ -6442,7 +6521,7 @@
 	</Break_Time>
 	<Break_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Break_Time>
 	<Break_Time>
 		<Day>Sábado</Day>
@@ -6454,7 +6533,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>IIN2018</Students>
-	<Number_of_Not_Available_Times>78</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>84</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>Intervalo (11:55 - 13:10)</Hour>
@@ -6481,7 +6560,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -6529,7 +6612,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -6577,7 +6664,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -6625,7 +6716,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -6673,7 +6768,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -6745,7 +6844,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -6773,7 +6876,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>BIO2018</Students>
-	<Number_of_Not_Available_Times>83</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>89</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -6824,7 +6927,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -6876,7 +6983,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -6928,7 +7039,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -6980,7 +7095,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -7032,7 +7151,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -7084,7 +7207,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -7112,7 +7239,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>EIN2018-4ANO</Students>
-	<Number_of_Not_Available_Times>78</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>84</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>Intervalo (11:55 - 13:10)</Hour>
@@ -7139,7 +7266,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -7187,7 +7318,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -7235,7 +7370,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -7283,7 +7422,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -7331,7 +7474,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -7403,7 +7550,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -7431,7 +7582,11 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>AGO2019</Students>
-	<Number_of_Not_Available_Times>48</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>54</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
+	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>19:00 - 19:50</Hour>
@@ -7451,6 +7606,10 @@
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>21:50 - 22:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -7494,7 +7653,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -7518,6 +7681,10 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
 		<Hour>19:00 - 19:50</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
@@ -7535,6 +7702,10 @@
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
 		<Hour>21:50 - 22:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -7602,7 +7773,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -7630,7 +7805,11 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>AGO2020</Students>
-	<Number_of_Not_Available_Times>49</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>55</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
+	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>19:00 - 19:50</Hour>
@@ -7650,6 +7829,10 @@
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>21:50 - 22:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -7693,7 +7876,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -7717,6 +7904,10 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
 		<Hour>19:00 - 19:50</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
@@ -7734,6 +7925,10 @@
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
 		<Hour>21:50 - 22:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -7805,7 +8000,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -7833,7 +8032,11 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>AGO2021</Students>
-	<Number_of_Not_Available_Times>48</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>54</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
+	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>19:00 - 19:50</Hour>
@@ -7853,6 +8056,10 @@
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>21:50 - 22:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -7896,7 +8103,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -7920,6 +8131,10 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
 		<Hour>19:00 - 19:50</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
@@ -7937,6 +8152,10 @@
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
 		<Hour>21:50 - 22:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -8004,7 +8223,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -8032,7 +8255,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>IIN2019</Students>
-	<Number_of_Not_Available_Times>78</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>84</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>Intervalo (11:55 - 13:10)</Hour>
@@ -8059,7 +8282,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -8107,7 +8334,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -8155,7 +8386,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -8203,7 +8438,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -8251,7 +8490,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -8323,7 +8566,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -8351,7 +8598,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>TADS2019</Students>
-	<Number_of_Not_Available_Times>83</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>89</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -8402,7 +8649,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -8454,7 +8705,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -8506,7 +8761,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -8558,7 +8817,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -8610,7 +8873,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -8662,7 +8929,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -8690,7 +8961,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>BIO2019</Students>
-	<Number_of_Not_Available_Times>83</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>89</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -8741,7 +9012,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -8793,7 +9068,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -8845,7 +9124,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -8897,7 +9180,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -8949,7 +9236,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -9001,7 +9292,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -9029,7 +9324,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>EIN2019-3ANO</Students>
-	<Number_of_Not_Available_Times>78</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>84</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>Intervalo (11:55 - 13:10)</Hour>
@@ -9056,7 +9351,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -9104,7 +9403,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -9152,7 +9455,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -9200,7 +9507,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -9248,7 +9559,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -9320,7 +9635,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -9348,7 +9667,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>BIO2020</Students>
-	<Number_of_Not_Available_Times>83</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>89</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -9399,7 +9718,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -9451,7 +9774,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -9503,7 +9830,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -9555,7 +9886,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -9607,7 +9942,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -9659,7 +9998,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -9687,7 +10030,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>EIN2020-2ANO</Students>
-	<Number_of_Not_Available_Times>78</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>84</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>Intervalo (11:55 - 13:10)</Hour>
@@ -9714,7 +10057,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -9762,7 +10109,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -9810,7 +10161,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -9858,7 +10213,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -9906,7 +10265,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -9978,7 +10341,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -10006,7 +10373,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>TADS2020</Students>
-	<Number_of_Not_Available_Times>83</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>89</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -10057,7 +10424,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -10109,7 +10480,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -10161,7 +10536,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -10213,7 +10592,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -10265,7 +10648,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -10317,7 +10704,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -10345,7 +10736,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>TGC2020</Students>
-	<Number_of_Not_Available_Times>83</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>89</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -10396,7 +10787,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -10448,7 +10843,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -10500,7 +10899,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -10552,7 +10955,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -10604,7 +11011,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -10656,7 +11067,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -10684,7 +11099,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>TDS2020-1-1SEM</Students>
-	<Number_of_Not_Available_Times>83</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>89</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -10735,7 +11150,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -10787,7 +11206,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -10839,7 +11262,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -10891,7 +11318,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -10943,7 +11374,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -10995,7 +11430,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -11023,7 +11462,11 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>IIW2020</Students>
-	<Number_of_Not_Available_Times>57</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>63</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
+	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>19:00 - 19:50</Hour>
@@ -11043,6 +11486,10 @@
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>21:50 - 22:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -11090,7 +11537,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -11111,6 +11562,10 @@
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
 		<Hour>21:50 - 22:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -11158,7 +11613,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -11230,7 +11689,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -11258,7 +11721,11 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>IIW2021</Students>
-	<Number_of_Not_Available_Times>49</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>55</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
+	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>19:00 - 19:50</Hour>
@@ -11278,6 +11745,10 @@
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>21:50 - 22:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -11321,7 +11792,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -11345,6 +11820,10 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
 		<Hour>19:00 - 19:50</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
@@ -11362,6 +11841,10 @@
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
 		<Hour>21:50 - 22:40</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -11433,7 +11916,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -11461,7 +11948,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>AGR2021</Students>
-	<Number_of_Not_Available_Times>83</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>89</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -11512,7 +11999,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -11564,7 +12055,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -11616,7 +12111,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -11668,7 +12167,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -11720,7 +12223,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -11772,7 +12279,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -11800,7 +12311,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>TGC2021</Students>
-	<Number_of_Not_Available_Times>83</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>89</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -11851,7 +12362,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -11903,7 +12418,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -11955,7 +12474,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -12007,7 +12530,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -12059,7 +12586,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -12111,7 +12642,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -12139,7 +12674,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>TPS2021-1</Students>
-	<Number_of_Not_Available_Times>73</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>79</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -12163,6 +12698,10 @@
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>11:05 - 11:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -12210,6 +12749,10 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
 		<Hour>19:00 - 19:50</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
@@ -12254,6 +12797,10 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
 		<Hour>19:00 - 19:50</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
@@ -12298,6 +12845,10 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
 		<Hour>19:00 - 19:50</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
@@ -12339,6 +12890,10 @@
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
 		<Hour>11:05 - 11:55</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -12410,7 +12965,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -12438,7 +12997,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>AGE 2017</Students>
-	<Number_of_Not_Available_Times>83</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>89</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -12489,7 +13048,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -12541,7 +13104,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -12593,7 +13160,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -12645,7 +13216,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -12697,7 +13272,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -12749,7 +13328,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -12777,7 +13360,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>ELE2021-1SEM</Students>
-	<Number_of_Not_Available_Times>83</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>89</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -12828,7 +13411,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -12880,7 +13467,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -12932,7 +13523,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -12984,7 +13579,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -13036,7 +13635,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -13088,7 +13691,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -13116,7 +13723,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>ELE2019-3SEM</Students>
-	<Number_of_Not_Available_Times>83</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>89</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -13167,7 +13774,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -13219,7 +13830,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -13271,7 +13886,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -13323,7 +13942,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -13375,7 +13998,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -13427,7 +14054,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -13455,7 +14086,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>ELM2021</Students>
-	<Number_of_Not_Available_Times>83</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>89</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -13506,7 +14137,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -13558,7 +14193,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -13610,7 +14249,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -13662,7 +14305,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -13714,7 +14361,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -13766,7 +14417,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -13794,7 +14449,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>EIN2021-1ANO</Students>
-	<Number_of_Not_Available_Times>78</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>84</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>Intervalo (11:55 - 13:10)</Hour>
@@ -13821,7 +14476,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -13869,7 +14528,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -13917,7 +14580,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -13965,7 +14632,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -14013,7 +14684,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -14085,7 +14760,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -14164,7 +14843,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -14216,7 +14895,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -14268,7 +14947,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -14320,7 +14999,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -14372,7 +15051,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
@@ -14424,7 +15103,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -14432,7 +15111,7 @@
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>TADS2019/2020</Students>
-	<Number_of_Not_Available_Times>103</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>109</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -14483,7 +15162,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -14555,7 +15238,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Terça-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -14627,7 +15314,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quarta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -14699,7 +15390,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Quinta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -14771,7 +15466,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sexta-Feira</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -14843,7 +15542,11 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Sábado</Day>
+		<Hour>18:10 - 19:00</Hour>
 	</Not_Available_Time>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -15300,7 +16003,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -15379,7 +16082,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -15451,7 +16154,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -15530,7 +16233,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -15609,7 +16312,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -15681,7 +16384,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -15760,7 +16463,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -15839,7 +16542,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -15911,7 +16614,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -15990,7 +16693,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -16062,7 +16765,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -16141,7 +16844,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -16213,7 +16916,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -16292,7 +16995,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -16371,7 +17074,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -16443,7 +17146,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -16597,7 +17300,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -16669,7 +17372,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -16748,7 +17451,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -16820,7 +17523,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -16899,7 +17602,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -16971,7 +17674,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -17050,7 +17753,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -17129,7 +17832,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -17188,7 +17891,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -17294,7 +17997,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -17362,7 +18065,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -17531,7 +18234,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -17603,7 +18306,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -17682,7 +18385,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -17754,7 +18457,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -17896,7 +18599,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -17975,7 +18678,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -18054,7 +18757,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -18126,7 +18829,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -18232,7 +18935,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -18291,7 +18994,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -18359,7 +19062,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -18438,7 +19141,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -18517,7 +19220,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -18596,7 +19299,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -18660,7 +19363,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -18842,7 +19545,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -18913,7 +19616,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -18985,7 +19688,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -19064,7 +19767,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -19136,7 +19839,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -19215,7 +19918,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -19401,7 +20104,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -19453,7 +20156,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -19525,7 +20228,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -19604,7 +20307,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -19683,7 +20386,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -19742,7 +20445,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -19821,7 +20524,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
@@ -19900,7 +20603,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -19972,7 +20675,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -20051,7 +20754,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -20123,7 +20826,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -20195,7 +20898,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -20267,7 +20970,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -20339,7 +21042,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -20398,7 +21101,7 @@
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 19:00)</Hour>
+		<Hour>Intervalo (16:45 - 18:10)</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -20743,8 +21446,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>AGO2019</Students>
 	<Interval_Start_Hour>Intervalo (11:55 - 13:10)</Interval_Start_Hour>
-	<Interval_End_Hour></Interval_End_Hour>
-	<!-- Interval_End_Hour void means the end of the day (which has no name) -->
+	<Interval_End_Hour>Intervalo (16:45 - 18:10)</Interval_End_Hour>
 	<Max_Days_Per_Week>4</Max_Days_Per_Week>
 	<Active>true</Active>
 	<Comments>Arranjo AGO: 2019</Comments>
@@ -20767,8 +21469,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>AGO2020</Students>
 	<Interval_Start_Hour>Intervalo (11:55 - 13:10)</Interval_Start_Hour>
-	<Interval_End_Hour></Interval_End_Hour>
-	<!-- Interval_End_Hour void means the end of the day (which has no name) -->
+	<Interval_End_Hour>Intervalo (16:45 - 18:10)</Interval_End_Hour>
 	<Max_Days_Per_Week>3</Max_Days_Per_Week>
 	<Active>true</Active>
 	<Comments>Arranjo AGO: 2020</Comments>
@@ -20806,8 +21507,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>AGO2021</Students>
 	<Interval_Start_Hour>Intervalo (11:55 - 13:10)</Interval_Start_Hour>
-	<Interval_End_Hour></Interval_End_Hour>
-	<!-- Interval_End_Hour void means the end of the day (which has no name) -->
+	<Interval_End_Hour>Intervalo (16:45 - 18:10)</Interval_End_Hour>
 	<Max_Days_Per_Week>4</Max_Days_Per_Week>
 	<Active>true</Active>
 	<Comments>Arranjo AGO: 2021</Comments>
@@ -21307,8 +22007,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>IIW2020</Students>
 	<Interval_Start_Hour>Intervalo (11:55 - 13:10)</Interval_Start_Hour>
-	<Interval_End_Hour></Interval_End_Hour>
-	<!-- Interval_End_Hour void means the end of the day (which has no name) -->
+	<Interval_End_Hour>Intervalo (16:45 - 18:10)</Interval_End_Hour>
 	<Max_Days_Per_Week>5</Max_Days_Per_Week>
 	<Active>true</Active>
 	<Comments>Arranjo IIW: 2020</Comments>
@@ -21331,8 +22030,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Students>IIW2021</Students>
 	<Interval_Start_Hour>Intervalo (11:55 - 13:10)</Interval_Start_Hour>
-	<Interval_End_Hour></Interval_End_Hour>
-	<!-- Interval_End_Hour void means the end of the day (which has no name) -->
+	<Interval_End_Hour>Intervalo (16:45 - 18:10)</Interval_End_Hour>
 	<Max_Days_Per_Week>4</Max_Days_Per_Week>
 	<Active>true</Active>
 	<Comments>Arranjo IIW: 2021</Comments>
@@ -24300,6 +24998,51 @@
 	<Activity_Id>300001601</Activity_Id>
 	<Preferred_Day>Quinta-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100001858</Activity_Id>
+	<Preferred_Day>Segunda-Feira</Preferred_Day>
+	<Preferred_Hour>18:10 - 19:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100001861</Activity_Id>
+	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Hour>18:10 - 19:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>200001861</Activity_Id>
+	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Hour>18:10 - 19:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100001860</Activity_Id>
+	<Preferred_Day>Quarta-Feira</Preferred_Day>
+	<Preferred_Hour>18:10 - 19:00</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100001859</Activity_Id>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
+	<Preferred_Hour>18:10 - 19:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>

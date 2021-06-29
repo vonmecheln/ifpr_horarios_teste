@@ -24439,7 +24439,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001591</Activity_Id>
 	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>15:05 - 15:55</Preferred_Hour>
+	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24457,7 +24457,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001772</Activity_Id>
 	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	<Preferred_Hour>15:05 - 15:55</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>

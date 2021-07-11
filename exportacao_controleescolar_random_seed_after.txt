@@ -4,4 +4,4 @@ A semente aleatória no final da geração é:
 	s10=3097777851, s11=462196257, s12=2148461637,
 	s20=466445388, s21=1630257883, s22=4097438296.
 
-Esse arquivo foi gerado automaticamente por FET 6.0.3.
+Esse arquivo foi gerado automaticamente por FET 6.1.0.

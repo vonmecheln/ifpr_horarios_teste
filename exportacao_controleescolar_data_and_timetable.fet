@@ -2591,7 +2591,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Elenice Josefa Kolancko Setti</Teacher>
+	<Teacher>Mauro César de Souza Siena</Teacher>
 	<Subject>Matemática II - 622</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Activity_Tag>Vespertino</Activity_Tag>
@@ -5105,7 +5105,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Elenice Josefa Kolancko Setti</Teacher>
+	<Teacher>Mauro César de Souza Siena</Teacher>
 	<Subject>Matemática II - 1231</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Activity_Tag>Vespertino</Activity_Tag>
@@ -5118,7 +5118,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Elenice Josefa Kolancko Setti</Teacher>
+	<Teacher>Mauro César de Souza Siena</Teacher>
 	<Subject>Matemática II - 1231</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Activity_Tag>Vespertino</Activity_Tag>
@@ -16182,7 +16182,15 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Elias Franco</Teacher>
-	<Number_of_Not_Available_Times>16</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>18</Number_of_Not_Available_Times>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>07:30 - 08:20</Hour>
+	</Not_Available_Time>
+	<Not_Available_Time>
+		<Day>Segunda-Feira</Day>
+		<Hour>08:20 - 09:10</Hour>
+	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>Intervalo (09:10 - 09:25)</Hour>
@@ -17773,59 +17781,7 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Mauro César de Souza Siena</Teacher>
-	<Number_of_Not_Available_Times>13</Number_of_Not_Available_Times>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>07:30 - 08:20</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>08:20 - 09:10</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (09:10 - 09:25)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>09:25 - 10:15</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>10:15 - 11:05</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>11:05 - 11:55</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (11:55 - 13:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>13:10 - 14:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>14:00 - 14:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (14:50 - 15:05)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>15:05 - 15:55</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>15:55 - 16:45</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 18:10)</Hour>
-	</Not_Available_Time>
+	<Number_of_Not_Available_Times>0</Number_of_Not_Available_Times>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTeacherNotAvailableTimes>
@@ -22360,8 +22316,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001657</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
+	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -22468,8 +22424,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001421</Activity_Id>
-	<Preferred_Day>Sexta-Feira</Preferred_Day>
-	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	<Preferred_Day>Segunda-Feira</Preferred_Day>
+	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24196,8 +24152,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001392</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24214,8 +24170,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001764</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
+	<Preferred_Day>Quarta-Feira</Preferred_Day>
+	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24259,8 +24215,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001436</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
+	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24268,8 +24224,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200001436</Activity_Id>
-	<Preferred_Day>Quarta-Feira</Preferred_Day>
-	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	<Preferred_Day>Segunda-Feira</Preferred_Day>
+	<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>

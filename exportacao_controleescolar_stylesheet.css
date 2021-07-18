@@ -10871,6 +10871,16 @@ textarea.form-control-lg {
 
 /*# sourceMappingURL=bootstrap.css.map */
 
+/* Folha de estilo CSS de customização pre script gerado por FET */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400&display=swap');
+
+body {
+  font-family: 'Roboto Condensed', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+
+
 
 /* Folha de estilo CSS de exportacao_controleescolar.fet
    Folha de estilos gerada por FET 6.1.0 em --/--/---- --:-- */
@@ -11331,8 +11341,8 @@ td.c_77 { /* Activity id: 100001820 (subject) */
 }
 
 td.c_78 { /* Activity id: 100001622 (subject) */
- background-color: rgb(191, 161, 18);
- color: black;
+ background-color: rgb(174, 30, 3);
+ color: white;
 }
 
 td.c_79 { /* Activity id: 100001625 (subject) */
@@ -12671,8 +12681,8 @@ td.c_345 { /* Activity id: 100001820 (subject+students) */
 }
 
 td.c_346 { /* Activity id: 100001622 (subject+students) */
- background-color: rgb(45, 73, 147);
- color: white;
+ background-color: rgb(251, 159, 205);
+ color: black;
 }
 
 td.c_347 { /* Activity id: 100001625 (subject+students) */

@@ -38,7 +38,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -94,7 +97,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -150,7 +156,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -206,7 +215,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -262,7 +274,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -318,7 +333,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -376,7 +394,10 @@
     <Hour name="15:55 - 16:45">
      <Teacher name="Milton Aparecido Azevedo"></Teacher><Subject name="História II - 1089"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -397,19 +418,19 @@
    </Day>
    <Day name="Terça-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Sociologia e extensão rural - 1087"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Sociologia e extensão rural - 1087"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Horticultura - 1090"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Horticultura - 1090"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
      <Teacher name="Leiliane Cristine de Souza"></Teacher><Subject name="Produção Animal II - 1093"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
@@ -432,7 +453,10 @@
     <Hour name="15:55 - 16:45">
      <Teacher name="Alexandre José Schumacher"></Teacher><Subject name="Gestão e Empreendedorismo Rural - 1095"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -488,7 +512,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -509,10 +536,10 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física III - 1084"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Elias Franco"></Teacher><Subject name="Sociologia e extensão rural - 1087"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física III - 1084"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     <Teacher name="Elias Franco"></Teacher><Subject name="Sociologia e extensão rural - 1087"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -544,7 +571,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -565,10 +595,10 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Tiago Amaral Silva"></Teacher><Subject name="Educação Física III - 1082"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Tiago Amaral Silva"></Teacher><Subject name="Educação Física III - 1082"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -586,21 +616,24 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Culturas II - 1091"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Culturas II - 1091"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Culturas II - 1091"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -656,7 +689,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -679,22 +715,22 @@
   <Subgroup name="AGO2020 Grupo Automático Subgrupo Automático">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Reginaldo Naves dos Reis"></Teacher><Subject name="Matemática II - 622"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Reginaldo Naves dos Reis"></Teacher><Subject name="Matemática II - 622"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Josiane Paula Maltauro Lopes"></Teacher><Subject name="Artes II - 614"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Meteorologia e Bioclimatologia na Agropecuária - 631"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Meteorologia e Bioclimatologia na Agropecuária - 631"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -714,7 +750,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -735,42 +774,45 @@
    </Day>
    <Day name="Terça-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Geografia II - 623"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Geografia II - 623"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Língua Portuguesa e Literatura II - 613"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Língua Portuguesa e Literatura II - 613"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Língua Portuguesa e Literatura II - 613"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Tiago Amaral Silva"></Teacher><Subject name="Educação Física II - 615"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Tiago Amaral Silva"></Teacher><Subject name="Educação Física II - 615"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia II - 624"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia II - 624"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -791,22 +833,22 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Culturas I - 627"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Culturas I - 627"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Culturas I - 627"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia Rural - 625"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia Rural - 625"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -826,7 +868,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -847,42 +892,45 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Produção Animal I - 628"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Produção Animal I - 628"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Produção Animal I - 628"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Sistemas Agroflorestais - 629"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Sistemas Agroflorestais - 629"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física II - 617"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física II - 617"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Milton Aparecido Azevedo"></Teacher><Subject name="Cultura e Cinema Nacional II - 1192"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -903,42 +951,45 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Ana Lucia da Silva Lima"></Teacher><Subject name="Biologia II - 616"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Ana Lucia da Silva Lima"></Teacher><Subject name="Biologia II - 616"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Construções e Instalações Rurais - 630"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Construções e Instalações Rurais - 630"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Josiane Paula Maltauro Lopes"></Teacher><Subject name="Artes II - 614"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Kathia Regina Kunzler Bechlin"></Teacher><Subject name="Química II - 618"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Kathia Regina Kunzler Bechlin"></Teacher><Subject name="Química II - 618"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Milton Aparecido Azevedo"></Teacher><Subject name="História I - 626"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Milton Aparecido Azevedo"></Teacher><Subject name="História I - 626"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -994,7 +1045,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -1017,42 +1071,45 @@
   <Subgroup name="AGO2021 Grupo Automático Subgrupo Automático">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Língua Portuguesa e Literatura I - 455"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Língua Portuguesa e Literatura I - 455"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia I - 464"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia I - 464"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Artes I - 458"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Eliana Peliçon Pereira Figueira"></Teacher><Subject name="Biologia I - 459"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Eliana Peliçon Pereira Figueira"></Teacher><Subject name="Biologia I - 459"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Adrian Lincoln Ferreira Clarindo"></Teacher><Subject name="Língua estrangeira - Inglês - 456"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Adrian Lincoln Ferreira Clarindo"></Teacher><Subject name="Língua estrangeira - Inglês - 456"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -1073,31 +1130,31 @@
    </Day>
    <Day name="Terça-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Agricultura geral - 466"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Agricultura geral - 466"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Desenho técnico e topografia - 469"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Desenho técnico e topografia - 469"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Educação postural e Segurança no trabalho - 471"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Informática instrumental e aplicada - 468"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Informática instrumental e aplicada - 468"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
@@ -1108,7 +1165,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -1129,22 +1189,22 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Geografia I - 463"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Geografia I - 463"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Língua Portuguesa e Literatura I - 455"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Leiliane Cristine de Souza"></Teacher><Subject name="Zootecnia Geral - 467"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Leiliane Cristine de Souza"></Teacher><Subject name="Zootecnia Geral - 467"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -1164,7 +1224,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -1185,42 +1248,45 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia I - 465"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia I - 465"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Química I - 461"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Química I - 461"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Artes I - 458"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Bruno Garcia Bonfim"></Teacher><Subject name="Física I - 460"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Bruno Garcia Bonfim"></Teacher><Subject name="Física I - 460"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Agroecologia e DRS - 470"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Agroecologia e DRS - 470"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -1241,19 +1307,19 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Elenice Josefa Kolancko Setti"></Teacher><Subject name="Matemática I - 462"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Elenice Josefa Kolancko Setti"></Teacher><Subject name="Matemática I - 462"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Tiago Amaral Silva"></Teacher><Subject name="Educação Física I - 457"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Tiago Amaral Silva"></Teacher><Subject name="Educação Física I - 457"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
      
@@ -1276,7 +1342,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -1321,7 +1390,7 @@
      
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Milton Aparecido Azevedo"></Teacher><Subject name="Cultura e Cinema Nacional I - 831"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
@@ -1332,7 +1401,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -1390,23 +1462,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Leiliane Cristine de Souza"></Teacher><Subject name="Nutrição e alimentação animal - 1457"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Leiliane Cristine de Souza"></Teacher><Subject name="Nutrição e alimentação animal - 1457"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Suinocultura - 1461"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Roberto Haruyoshi Ito"></Teacher><Subject name="Suinocultura - 1461"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -1446,23 +1521,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Horticultura - 1464"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Horticultura - 1464"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Desenho técnico e instalações agropecuárias - 1456"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Octavio Henrique Viana"></Teacher><Subject name="Desenho técnico e instalações agropecuárias - 1456"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -1502,23 +1580,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Gênese, Morfologia e Classificação dos Solos - 1465"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Gênese, Morfologia e Classificação dos Solos - 1465"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Horticultura - 1464"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Elias Franco"></Teacher><Subject name="Horticultura - 1464"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -1558,23 +1639,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Agroecologia e desenvolvimento rural sustentavel - 1462"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Tatiane Martinazo Portz"></Teacher><Subject name="Agroecologia e desenvolvimento rural sustentavel - 1462"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Gênese, Morfologia e Classificação dos Solos - 1465"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Sônia Maria Mandotti"></Teacher><Subject name="Gênese, Morfologia e Classificação dos Solos - 1465"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -1614,14 +1698,17 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Leiliane Cristine de Souza"></Teacher><Subject name="Nutrição e alimentação animal - 1457"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Leiliane Cristine de Souza"></Teacher><Subject name="Nutrição e alimentação animal - 1457"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -1670,7 +1757,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -1728,14 +1818,17 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Trabalho de conclusão de curso I - 484"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Trabalho de conclusão de curso I - 484"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -1784,23 +1877,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Eliana Peliçon Pereira Figueira"></Teacher><Subject name="Genética molecular - 85"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Eliana Peliçon Pereira Figueira"></Teacher><Subject name="Genética molecular - 85"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Eliana Peliçon Pereira Figueira"></Teacher><Subject name="Genética molecular - 85"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Eliana Peliçon Pereira Figueira"></Teacher><Subject name="Genética molecular - 85"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -1840,23 +1936,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Adan Santos Martens"></Teacher><Subject name="Bioestatística - 487"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Adan Santos Martens"></Teacher><Subject name="Bioestatística - 487"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Zoologia dos cordados II - 483"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Zoologia dos cordados II - 483"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -1896,23 +1995,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geologia e paleontologia - 491"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geologia e paleontologia - 491"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geologia e paleontologia - 491"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geologia e paleontologia - 491"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -1952,14 +2054,17 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="PCCC 7 - Temas transversais - 1549"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="PCCC 7 - Temas transversais - 1549"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -2008,7 +2113,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -2066,23 +2174,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Zoologia dos invertebrados II - 77"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Zoologia dos invertebrados II - 77"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Zoologia dos invertebrados II - 77"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Zoologia dos invertebrados II - 77"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -2122,23 +2233,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Educação ambiental e desenvolvimento sustentável - 1354"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Educação ambiental e desenvolvimento sustentável - 1354"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Educação ambiental e desenvolvimento sustentável - 1354"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Educação ambiental e desenvolvimento sustentável - 1354"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -2178,23 +2292,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Ana Lucia da Silva Lima"></Teacher><Subject name="Ecologia de populações e comunidades - 1183"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Ana Lucia da Silva Lima"></Teacher><Subject name="Ecologia de populações e comunidades - 1183"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Bruno Garcia Bonfim"></Teacher><Subject name="Biofísica - 82"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Bruno Garcia Bonfim"></Teacher><Subject name="Biofísica - 82"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -2234,23 +2351,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="PCCC 5  - Teoria e prática para o ensino de ciências e biologia - 1182"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="PCCC 5  - Teoria e prática para o ensino de ciências e biologia - 1182"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="PCCC 5  - Teoria e prática para o ensino de ciências e biologia - 1182"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="Estágio curricular supervisionado em ciências I - 84"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -2290,14 +2410,17 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Optativa 1 Energia Nuclear e Radiação - Aplicações da Tecnologia Nuclear - 1179"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Optativa 1 Energia Nuclear e Radiação - Aplicações da Tecnologia Nuclear - 1179"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -2346,7 +2469,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -2404,23 +2530,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Eliane Brunetto Pertile"></Teacher><Subject name="Diversidade e educação inclusiva - 657"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Eliane Brunetto Pertile"></Teacher><Subject name="Diversidade e educação inclusiva - 657"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Libras - 494"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Libras - 494"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -2460,23 +2589,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="Bioquímica - 71"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="Bioquímica - 71"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="Bioquímica - 71"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="Bioquímica - 71"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -2516,23 +2648,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Marcia Aparecida Barbosa"></Teacher><Subject name="Didática geral - 76"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Marcia Aparecida Barbosa"></Teacher><Subject name="Didática geral - 76"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Marcia Aparecida Barbosa"></Teacher><Subject name="Didática geral - 76"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Marcia Aparecida Barbosa"></Teacher><Subject name="Didática geral - 76"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -2572,23 +2707,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="PCCC 3 - Modalidades da educação e inclusão escolar - 655"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="PCCC 3 - Modalidades da educação e inclusão escolar - 655"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Marcia Aparecida Barbosa"></Teacher><Subject name="Psicologia da educação - 72"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Marcia Aparecida Barbosa"></Teacher><Subject name="Psicologia da educação - 72"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -2628,23 +2766,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Ana Lucia da Silva Lima"></Teacher><Subject name="Sistemática vegetal I - 660"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Ana Lucia da Silva Lima"></Teacher><Subject name="Sistemática vegetal I - 660"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Ana Lucia da Silva Lima"></Teacher><Subject name="Sistemática vegetal I - 660"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Ana Lucia da Silva Lima"></Teacher><Subject name="Sistemática vegetal I - 660"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -2684,7 +2825,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -2707,22 +2851,22 @@
   <Subgroup name="EIN2018-4ANO Grupo Automático Subgrupo Automático">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Geografia 4 - 227"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Geografia 4 - 227"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Manutenção Industrial e Gestão da Produção - 1592"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Lingua Portuguesa 4 - 232"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Lingua Portuguesa 4 - 232"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -2742,7 +2886,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -2763,22 +2910,22 @@
    </Day>
    <Day name="Terça-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Luiz Inácio Chaves"></Teacher><Subject name="Máquinas Térmicas e de Fluxo - 218"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Luiz Inácio Chaves"></Teacher><Subject name="Máquinas Térmicas e de Fluxo - 218"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Josiane Paula Maltauro Lopes"></Teacher><Subject name="Artes 3 - 221"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Amilcar Machado Profeta Filho"></Teacher><Subject name="História 4 - 229"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Amilcar Machado Profeta Filho"></Teacher><Subject name="História 4 - 229"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -2798,7 +2945,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -2819,22 +2969,22 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Bruno Garcia Bonfim"></Teacher><Subject name="Física 4 - 224"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Bruno Garcia Bonfim"></Teacher><Subject name="Física 4 - 224"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Processos de Fabr icação II I - 1590"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Processos de Fabr icação II I - 1590"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Grazielli Bueno"></Teacher><Subject name="Projeto Integrador - 1593"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -2854,7 +3004,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -2875,22 +3028,22 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="Biologia 4 - 222"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="Biologia 4 - 222"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Adrian Lincoln Ferreira Clarindo"></Teacher><Subject name="Lingua Estrangeira Moderna 3 - Inglês - 230"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia 4 - 238"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia 4 - 223"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -2910,7 +3063,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -2931,22 +3087,22 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Química 4 - 235"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Química 4 - 235"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Matemática 4 - 234"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Matemática 4 - 234"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Matemática 4 - 234"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -2966,7 +3122,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -3022,7 +3181,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -3045,22 +3207,22 @@
   <Subgroup name="EIN2019-3ANO Grupo Automático Subgrupo Automático">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Wylliam Salviano Gongora"></Teacher><Subject name="Elementos de Automação - 198"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Wylliam Salviano Gongora"></Teacher><Subject name="Elementos de Automação - 198"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Biologia 3 - 202"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Karina Dias Espartosa"></Teacher><Subject name="Biologia 3 - 202"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Wylliam Salviano Gongora"></Teacher><Subject name="Máquinas e Acionamentos - 1575"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3080,7 +3242,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -3101,22 +3266,22 @@
    </Day>
    <Day name="Terça-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Bruno Garcia Bonfim"></Teacher><Subject name="Física 3 - 205"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Bruno Garcia Bonfim"></Teacher><Subject name="Física 3 - 205"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia 3 - 204"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Geografia 3 - 206"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Química 3 - 211"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3136,7 +3301,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -3157,22 +3325,22 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Processos de Fabr icação II - 1573"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Processos de Fabr icação II - 1573"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Grazielli Bueno"></Teacher><Subject name="Projetos e Instalações Elétricas - 200"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Grazielli Bueno"></Teacher><Subject name="Projetos e Instalações Elétricas - 200"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Franciele Fernandes Baliero"></Teacher><Subject name="Educação Física 3 - 203"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3192,7 +3360,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -3213,22 +3384,22 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Wylliam Salviano Gongora"></Teacher><Subject name="Máquinas e Acionamentos - 1575"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Wylliam Salviano Gongora"></Teacher><Subject name="Máquinas e Acionamentos - 1575"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Matemática 3 - 210"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Matemática 3 - 210"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Amilcar Machado Profeta Filho"></Teacher><Subject name="História 3 - 207"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3248,7 +3419,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -3269,22 +3443,22 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Grazielli Bueno"></Teacher><Subject name="Segurança do Trabalho - 197"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia 3 - 212"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Lingua Portuguesa 3 - 209"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Lingua Portuguesa 3 - 209"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Adrian Lincoln Ferreira Clarindo"></Teacher><Subject name="Língua Estrangeira Moderna 2 - Ingles - 208"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3304,7 +3478,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -3360,7 +3537,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -3383,22 +3563,22 @@
   <Subgroup name="EIN2020-2ANO Grupo Automático Subgrupo Automático">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Josiane Paula Maltauro Lopes"></Teacher><Subject name="Artes 2 - 166"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia 2 - 173"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Geografia 2 - 177"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Processos de Fabr icação I - 1552"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Processos de Fabr icação I - 1552"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3418,7 +3598,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -3439,22 +3622,22 @@
    </Day>
    <Day name="Terça-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Franciele Fernandes Baliero"></Teacher><Subject name="Educação Física 2 - 170"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Metrologia - 1550"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Eliana Peliçon Pereira Figueira"></Teacher><Subject name="Biologia 2 - 168"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Língua Portuguesa 2 - 183"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Língua Portuguesa 2 - 183"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3474,7 +3657,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -3495,22 +3681,22 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Matemática 2 - 185"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Matemática 2 - 185"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia 2 - 189"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Guilherme Masquetti Pelz"></Teacher><Subject name="Sistemas Digi tais - 1553"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Guilherme Masquetti Pelz"></Teacher><Subject name="Sistemas Digi tais - 1553"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3530,7 +3716,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -3551,22 +3740,22 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Química 2 - 187"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Química 2 - 187"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletrônica - 1554"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletrônica - 1554"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletrônica - 1554"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3586,7 +3775,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -3607,22 +3799,22 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Adrian Lincoln Ferreira Clarindo"></Teacher><Subject name="Lingua Estrangeira Moderna 1- Inglês - 179"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Bruno Garcia Bonfim"></Teacher><Subject name="Física 2 - 175"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Amilcar Machado Profeta Filho"></Teacher><Subject name="História 2 - 178"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Luiz Inácio Chaves"></Teacher><Subject name="Cálculo Mecânico - 154"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Luiz Inácio Chaves"></Teacher><Subject name="Cálculo Mecânico - 154"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3642,7 +3834,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -3698,7 +3893,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -3721,22 +3919,22 @@
   <Subgroup name="EIN2021-1ANO Grupo Automático Subgrupo Automático">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Guilherme Masquetti Pelz"></Teacher><Subject name="Eletricidade e Medidas Elétricas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Guilherme Masquetti Pelz"></Teacher><Subject name="Eletricidade e Medidas Elétricas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Eliana Peliçon Pereira Figueira"></Teacher><Subject name="Biologia 1 - 122"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Amilcar Machado Profeta Filho"></Teacher><Subject name="História 1 - 131"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Alan Ricardo Costa"></Teacher><Subject name="Língua Estrangeira Moderna - Espanhol - 1540"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3756,7 +3954,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -3777,22 +3978,22 @@
    </Day>
    <Day name="Terça-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Química 1 - 143"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia 1 - 124"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 1529"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 1529"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 1529"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3812,7 +4013,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -3833,22 +4037,22 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia 1 - 146"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Guilherme Masquetti Pelz"></Teacher><Subject name="Eletricidade e Medidas Elétricas - 1530"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Geografia 1 - 126"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Matemática 1 - 142"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Matemática 1 - 142"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3868,7 +4072,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -3889,22 +4096,22 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Informática Instrumental - 1532"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Informática Instrumental - 1532"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Keyla Christina Almeida Portela"></Teacher><Subject name="Artes 1 - 121"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Lingua Portuguesa 1 - 138"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Lingua Portuguesa 1 - 138"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3924,7 +4131,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -3945,22 +4155,22 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Tecnologia dos Mater iais - 1531"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Tecnologia dos Mater iais - 1531"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Franciele Fernandes Baliero"></Teacher><Subject name="Educação Física 1 - 123"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Bruno Garcia Bonfim"></Teacher><Subject name="Física 1 - 125"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Bruno Garcia Bonfim"></Teacher><Subject name="Física 1 - 125"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3980,7 +4190,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -4036,7 +4249,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -4094,7 +4310,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -4107,10 +4326,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Alex Miyamoto Mussi"></Teacher><Subject name="Projetos Elétricos Residenciais e Prediais - 803"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Alex Miyamoto Mussi"></Teacher><Subject name="Projetos Elétricos Residenciais e Prediais - 803"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -4150,23 +4369,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletrônica Analógica - 690"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletrônica Analógica - 690"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Alex Miyamoto Mussi"></Teacher><Subject name="Projetos Elétricos Residenciais e Prediais - 803"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Alex Miyamoto Mussi"></Teacher><Subject name="Projetos Elétricos Residenciais e Prediais - 803"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -4206,7 +4428,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -4219,10 +4444,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletrônica Analógica - 690"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Tiago Henrique dos Santos"></Teacher><Subject name="Eletrônica Analógica - 690"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -4262,23 +4487,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Alex Miyamoto Mussi"></Teacher><Subject name="Sistemas Digitais - 688"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Alex Miyamoto Mussi"></Teacher><Subject name="Sistemas Digitais - 688"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Alex Miyamoto Mussi"></Teacher><Subject name="Sistemas Digitais - 688"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Alex Miyamoto Mussi"></Teacher><Subject name="Sistemas Digitais - 688"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -4318,23 +4546,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Novo Professor de Elétrica PSS - 40h"></Teacher><Subject name="Máquinas Elétricas - 797"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Novo Professor de Elétrica PSS - 40h"></Teacher><Subject name="Máquinas Elétricas - 797"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Novo Professor de Elétrica PSS - 40h"></Teacher><Subject name="Máquinas Elétricas - 797"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Novo Professor de Elétrica PSS - 40h"></Teacher><Subject name="Máquinas Elétricas - 797"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -4374,7 +4605,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -4432,23 +4666,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Comunicação e Expressão - 598"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Comunicação e Expressão - 598"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos da Matemática - 599"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos da Matemática - 599"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -4488,7 +4725,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -4501,10 +4741,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 594"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 594"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -4544,7 +4784,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -4557,10 +4800,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos da Matemática - 599"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos da Matemática - 599"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -4600,14 +4843,17 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 594"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 594"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -4656,7 +4902,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -4669,10 +4918,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Informática Instrumental - 596"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Informática Instrumental - 596"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -4712,7 +4961,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -4770,23 +5022,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Comunicação e Expressão - 128"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Kátia Cristiane Kobus Novaes"></Teacher><Subject name="Comunicação e Expressão - 128"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -4826,7 +5081,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -4839,10 +5097,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Informática Instrumental - 153"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Informática Instrumental - 153"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -4882,7 +5140,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -4895,10 +5156,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Sérgio Takahashi"></Teacher><Subject name="Desenho Técnico - 132"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -4938,14 +5199,17 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Processos de Fabricação I - 149"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Fábio Fernandes da Silva"></Teacher><Subject name="Processos de Fabricação I - 149"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -4994,7 +5258,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -5007,10 +5274,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos de Matemática - 129"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Mauro César de Souza Siena"></Teacher><Subject name="Fundamentos de Matemática - 129"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -5050,7 +5317,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -5073,22 +5343,22 @@
   <Subgroup name="IIN2018 Grupo Automático Subgrupo Automático">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Projeto e Análise de Sistemas - 182"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Projeto e Análise de Sistemas - 182"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Luis Eduardo Gazal"></Teacher><Subject name="Biologia IV - 196"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Jhones Donizetti Mendes"></Teacher><Subject name="Geografia III - 195"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Milton Aparecido Azevedo"></Teacher><Subject name="História III - 194"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -5108,7 +5378,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -5129,22 +5402,22 @@
    </Day>
    <Day name="Terça-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia IV - 193"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Kathia Regina Kunzler Bechlin"></Teacher><Subject name="Química IV - 191"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Alan Ricardo Costa"></Teacher><Subject name="Língua Portuguesa IV - 186"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Alan Ricardo Costa"></Teacher><Subject name="Língua Portuguesa IV - 186"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Alan Ricardo Costa"></Teacher><Subject name="Língua Portuguesa IV - 186"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -5164,7 +5437,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -5185,22 +5461,22 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Tópicos Especiais em Tecnologia - 35"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Tópicos Especiais em Tecnologia - 35"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Adan Santos Martens"></Teacher><Subject name="Matemática IV - 184"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Adan Santos Martens"></Teacher><Subject name="Matemática IV - 184"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Adan Santos Martens"></Teacher><Subject name="Matemática IV - 184"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -5220,7 +5496,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -5241,22 +5520,22 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Adrian Lincoln Ferreira Clarindo"></Teacher><Subject name="Língua Estrangeira Moderna II - Inglês - 545"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Adrian Lincoln Ferreira Clarindo"></Teacher><Subject name="Língua Estrangeira Moderna II - Inglês - 545"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia IV - 192"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física IV - 190"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física IV - 190"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -5276,7 +5555,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -5297,22 +5579,22 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Alex Vinicius Faria"></Teacher><Subject name="Tópicos Especiais em Linguagem de Programação - 36"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Alex Vinicius Faria"></Teacher><Subject name="Tópicos Especiais em Linguagem de Programação - 36"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Alex Vinicius Faria"></Teacher><Subject name="Tópicos Especiais em Linguagem de Programação - 36"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Projeto Final de Curso - 181"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Projeto Final de Curso - 181"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -5332,7 +5614,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -5388,7 +5673,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -5411,22 +5699,22 @@
   <Subgroup name="IIN2019 Grupo Automático Subgrupo Automático">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Programação Orientada a Objetos - 34"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Programação Orientada a Objetos - 34"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Alan Ricardo Costa"></Teacher><Subject name="Língua Estrang. Moderna I-Espanhol (Opc.) - 162"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Engenharia de Software - 32"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Engenharia de Software - 32"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -5446,7 +5734,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -5467,22 +5758,22 @@
    </Day>
    <Day name="Terça-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Eliana Peliçon Pereira Figueira"></Teacher><Subject name="Biologia III - 167"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Eliana Peliçon Pereira Figueira"></Teacher><Subject name="Biologia III - 167"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Franciele Fernandes Baliero"></Teacher><Subject name="Educação Física III - 169"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Programação Orientada a Objetos - 34"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Programação Orientada a Objetos - 34"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -5502,7 +5793,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -5523,22 +5817,22 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Adan Santos Martens"></Teacher><Subject name="Matemática III - 156"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Adan Santos Martens"></Teacher><Subject name="Matemática III - 156"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Rafael Gil Ferques"></Teacher><Subject name="Redes de Computadores - 33"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física III - 165"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física III - 165"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -5558,7 +5852,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -5579,22 +5876,22 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Arte III - 1448"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia III - 174"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Língua Portuguesa III - 158"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Celina de Oliveira Barbosa Gomes"></Teacher><Subject name="Língua Portuguesa III - 158"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Adrian Lincoln Ferreira Clarindo"></Teacher><Subject name="Lingua Estrangeira Moderna I - Inglês - 1256"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -5614,7 +5911,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -5635,22 +5935,22 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Kathia Regina Kunzler Bechlin"></Teacher><Subject name="Química III - 163"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Kathia Regina Kunzler Bechlin"></Teacher><Subject name="Química III - 163"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia III - 172"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Rafael Gil Ferques"></Teacher><Subject name="Redes de Computadores - 33"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Rafael Gil Ferques"></Teacher><Subject name="Redes de Computadores - 33"></Subject><Activity_Tag name="Matutino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -5670,7 +5970,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -5726,7 +6029,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -5749,10 +6055,10 @@
   <Subgroup name="IIW2020 Grupo Automático Subgrupo Automático">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geografia I - 1233"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Renato Lada Guerreiro"></Teacher><Subject name="Geografia I - 1233"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -5761,19 +6067,19 @@
      
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Reginaldo Naves dos Reis"></Teacher><Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Reginaldo Naves dos Reis"></Teacher><Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Alan Ricardo Costa"></Teacher><Subject name="Língua Portuguesa e Literatura II - 1226"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Alan Ricardo Costa"></Teacher><Subject name="Língua Portuguesa e Literatura II - 1226"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
@@ -5784,7 +6090,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -5805,42 +6114,45 @@
    </Day>
    <Day name="Terça-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Alan Ricardo Costa"></Teacher><Subject name="Língua Portuguesa e Literatura II - 1226"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Alan Ricardo Costa"></Teacher><Subject name="Língua Portuguesa e Literatura II - 1226"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Reginaldo Naves dos Reis"></Teacher><Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Reginaldo Naves dos Reis"></Teacher><Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Keyla Christina Almeida Portela"></Teacher><Subject name="Arte I - 1235"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física II - 1229"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física II - 1229"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Franciele Fernandes Baliero"></Teacher><Subject name="Educação Física II - 1227"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Franciele Fernandes Baliero"></Teacher><Subject name="Educação Física II - 1227"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -5861,22 +6173,22 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Administração de Sistemas Operacionais e Redes - 1236"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Administração de Sistemas Operacionais e Redes - 1236"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Laboratório de Banco de Dados - 1238"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Laboratório de Banco de Dados - 1238"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Keyla Christina Almeida Portela"></Teacher><Subject name="Arte I - 1235"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -5896,7 +6208,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -5917,42 +6232,45 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Kathia Regina Kunzler Bechlin"></Teacher><Subject name="Química II - 1230"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Kathia Regina Kunzler Bechlin"></Teacher><Subject name="Química II - 1230"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia II - 1232"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Projeto Integrador II - 1239"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Projeto Integrador II - 1239"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Ana Lucia da Silva Lima"></Teacher><Subject name="Biologia II - 1228"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Ana Lucia da Silva Lima"></Teacher><Subject name="Biologia II - 1228"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Amilcar Machado Profeta Filho"></Teacher><Subject name="História II - 1234"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Amilcar Machado Profeta Filho"></Teacher><Subject name="História II - 1234"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -5973,22 +6291,22 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Administração de Sistemas Operacionais e Redes - 1236"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Administração de Sistemas Operacionais e Redes - 1236"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Alan Ricardo Costa"></Teacher><Subject name="Língua Estrangeira Moderna - Espanhol - 1254"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Desenvolvimento WEB Orientado a Objetos - 1237"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Desenvolvimento WEB Orientado a Objetos - 1237"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -6008,7 +6326,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -6064,7 +6385,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -6087,22 +6411,22 @@
   <Subgroup name="IIW2021 Grupo Automático Subgrupo Automático">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Adrian Lincoln Ferreira Clarindo"></Teacher><Subject name="Lingua estrangeira: Inglês - 1225"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Adrian Lincoln Ferreira Clarindo"></Teacher><Subject name="Lingua estrangeira: Inglês - 1225"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Milton Aparecido Azevedo"></Teacher><Subject name="História I - 1224"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Fundamentos de informática - 1076"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -6122,7 +6446,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -6143,42 +6470,45 @@
    </Day>
    <Day name="Terça-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Adan Santos Martens"></Teacher><Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Adan Santos Martens"></Teacher><Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Rafael Gil Ferques"></Teacher><Subject name="Projeto integrador I - 1078"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Rafael Gil Ferques"></Teacher><Subject name="Projeto integrador I - 1078"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia I - 1139"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Alan Ricardo Costa"></Teacher><Subject name="Língua Portuguesa e Literatura I - 1069"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Alan Ricardo Costa"></Teacher><Subject name="Língua Portuguesa e Literatura I - 1069"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Rafael Gil Ferques"></Teacher><Subject name="Linguagens de apresentação e estruturação de conteúdos - 1074"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Rafael Gil Ferques"></Teacher><Subject name="Linguagens de apresentação e estruturação de conteúdos - 1074"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -6199,22 +6529,22 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física I - 1070"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Polyanna Guimarães e Miranda"></Teacher><Subject name="Física I - 1070"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Lógica de programação - 1075"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Lógica de programação - 1075"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Neomar Sandro Mignoni"></Teacher><Subject name="Filosofia I - 1139"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -6234,7 +6564,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -6255,22 +6588,22 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Eliana Peliçon Pereira Figueira"></Teacher><Subject name="Biologia I - 1073"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Eliana Peliçon Pereira Figueira"></Teacher><Subject name="Biologia I - 1073"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Adan Santos Martens"></Teacher><Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Adan Santos Martens"></Teacher><Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia I - 1071"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -6290,7 +6623,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -6311,42 +6647,45 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Teacher name="Alan Ricardo Costa"></Teacher><Subject name="Língua Portuguesa e Literatura I - 1069"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Teacher name="Alan Ricardo Costa"></Teacher><Subject name="Língua Portuguesa e Literatura I - 1069"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Química I - 1068"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Teacher name="Edvaldo Luis Rossini"></Teacher><Subject name="Química I - 1068"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Teacher name="Everaldo Lorensetti"></Teacher><Subject name="Sociologia I - 1071"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Rafael Gil Ferques"></Teacher><Subject name="Linguagens de apresentação e estruturação de conteúdos - 1074"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Rafael Gil Ferques"></Teacher><Subject name="Linguagens de apresentação e estruturação de conteúdos - 1074"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Franciele Fernandes Baliero"></Teacher><Subject name="Educação Física I - 1072"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Franciele Fernandes Baliero"></Teacher><Subject name="Educação Física I - 1072"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -6402,7 +6741,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -6460,23 +6802,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Telecomunicações e Geoprocessamento - 24"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Telecomunicações e Geoprocessamento - 24"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Desenvolvimento para Dispositivos Móveis - 19"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Desenvolvimento para Dispositivos Móveis - 19"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -6516,23 +6861,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Alex Vinicius Faria"></Teacher><Subject name="Programação para Sistemas Embarcados - 22"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Alex Vinicius Faria"></Teacher><Subject name="Programação para Sistemas Embarcados - 22"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Alex Vinicius Faria"></Teacher><Subject name="Segurança em Sistemas e Redes - 23"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Metodologia de Pesquisa Científica - 11"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -6572,23 +6920,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Programação Orientada a Objetos - 21"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Programação Orientada a Objetos - 21"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Programação Orientada a Objetos - 21"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Programação Orientada a Objetos - 21"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -6628,23 +6979,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Engenharia de Software - 20"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Engenharia de Software - 20"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Tópicos Especiais em Tecnologia da Informação - 25"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Tópicos Especiais em Tecnologia da Informação - 25"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -6684,23 +7038,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Alex Vinicius Faria"></Teacher><Subject name="Segurança em Sistemas e Redes - 23"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Alex Vinicius Faria"></Teacher><Subject name="Segurança em Sistemas e Redes - 23"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Alex Vinicius Faria"></Teacher><Subject name="Gestão de Projetos - 18"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Alex Vinicius Faria"></Teacher><Subject name="Gestão de Projetos - 18"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -6740,7 +7097,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -6798,7 +7158,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -6854,7 +7217,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -6910,7 +7276,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -6966,7 +7335,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -7022,7 +7394,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -7078,23 +7453,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Trabalho de Conclusão de Curso - 26"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Projeto Integrador - 15"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Análise de Requisitos e Modelagem de Sistemas - 12"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Análise de Requisitos e Modelagem de Sistemas - 12"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
   </Subgroup>
@@ -7136,7 +7514,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -7192,23 +7573,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Linguagem de Programação - 14"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Linguagem de Programação - 14"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Linguagem de Programação - 14"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Rafael Luis Bartz"></Teacher><Subject name="Linguagem de Programação - 14"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -7248,23 +7632,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Rafael Gil Ferques"></Teacher><Subject name="Redes de Computadores - 16"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Rafael Gil Ferques"></Teacher><Subject name="Redes de Computadores - 16"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Rafael Gil Ferques"></Teacher><Subject name="Redes de Computadores - 16"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Rafael Gil Ferques"></Teacher><Subject name="Redes de Computadores - 16"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -7304,23 +7691,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Adrian Lincoln Ferreira Clarindo"></Teacher><Subject name="Inglês Instrumental - 9"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Adrian Lincoln Ferreira Clarindo"></Teacher><Subject name="Inglês Instrumental - 9"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Banco de Dados II - 13"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Banco de Dados II - 13"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -7360,23 +7750,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Tecnologias WEB - 17"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Tecnologias WEB - 17"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Adan Santos Martens"></Teacher><Subject name="Matemática Aplicada - 10"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Adan Santos Martens"></Teacher><Subject name="Matemática Aplicada - 10"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -7416,7 +7809,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -7474,23 +7870,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Algoritmos e Estrutura de Dados - 4"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Algoritmos e Estrutura de Dados - 4"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Algoritmos e Estrutura de Dados - 4"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Douglas Barbosa Sousa"></Teacher><Subject name="Algoritmos e Estrutura de Dados - 4"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -7530,7 +7929,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -7586,7 +7988,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -7642,7 +8047,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -7698,7 +8106,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -7754,23 +8165,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Banco de Dados I - 5"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Alexandre Rodrigues Monge"></Teacher><Subject name="Banco de Dados I - 5"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Introdução à Programação Web - 6"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Introdução à Programação Web - 6"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
   </Subgroup>
@@ -7812,23 +8226,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Inteligência Artificial e Sistemas Neurais - 724"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Inteligência Artificial e Sistemas Neurais - 724"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Alex Vinicius Faria"></Teacher><Subject name="Programação para Sistemas Embarcados - 725"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Alex Vinicius Faria"></Teacher><Subject name="Programação para Sistemas Embarcados - 725"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -7868,23 +8285,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -7924,23 +8344,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Desenvolvimento para Dispositivos Móveis - 722"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Desenvolvimento para Dispositivos Móveis - 722"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Desenvolvimento para Dispositivos Móveis - 722"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Desenvolvimento para Dispositivos Móveis - 722"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -7980,23 +8403,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Inteligência Artificial e Sistemas Neurais - 724"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Inteligência Artificial e Sistemas Neurais - 724"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Testes, Verificação e Validação de Sistemas - 723"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Testes, Verificação e Validação de Sistemas - 723"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -8036,23 +8462,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Desenvolvimento Baseado em Padrões e Frameworks - 726"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Novo Professor de Informática PSS - 40h"></Teacher><Subject name="Desenvolvimento Baseado em Padrões e Frameworks - 726"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Luis Henrique Manosso Von Mecheln"></Teacher><Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -8092,7 +8521,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -8150,23 +8582,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Amilcar Machado Profeta Filho"></Teacher><Subject name="Ética e Responsabilidade Social e Ambiental - 1497"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Amilcar Machado Profeta Filho"></Teacher><Subject name="Ética e Responsabilidade Social e Ambiental - 1497"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Cesar Gomes de Freitas"></Teacher><Subject name="Contabilidade de Custos e Formação de Preços - 1492"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Cesar Gomes de Freitas"></Teacher><Subject name="Contabilidade de Custos e Formação de Preços - 1492"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -8206,23 +8641,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Cesar Gomes de Freitas"></Teacher><Subject name="Contabilidade de Custos e Formação de Preços - 1492"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Cesar Gomes de Freitas"></Teacher><Subject name="Contabilidade de Custos e Formação de Preços - 1492"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Cesar Gomes de Freitas"></Teacher><Subject name="Gestão de Compras e Estoques - 1491"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Cesar Gomes de Freitas"></Teacher><Subject name="Gestão de Compras e Estoques - 1491"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -8262,23 +8700,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Keyla Christina Almeida Portela"></Teacher><Subject name="Plano de Marketing - 1498"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Keyla Christina Almeida Portela"></Teacher><Subject name="Plano de Marketing - 1498"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Alexandre José Schumacher"></Teacher><Subject name="Gestão Estratégica de Pessoas - 1496"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Alexandre José Schumacher"></Teacher><Subject name="Gestão Estratégica de Pessoas - 1496"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -8318,23 +8759,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Keyla Christina Almeida Portela"></Teacher><Subject name="Promoção e organização de eventos empresariais - 1495"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Keyla Christina Almeida Portela"></Teacher><Subject name="Promoção e organização de eventos empresariais - 1495"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Alexandre José Schumacher"></Teacher><Subject name="Técnicas de Vendas e Negociação - 1493"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Alexandre José Schumacher"></Teacher><Subject name="Técnicas de Vendas e Negociação - 1493"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -8374,23 +8818,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Cícero José Albano"></Teacher><Subject name="Direito Empresarial e Tributário - 1494"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Cícero José Albano"></Teacher><Subject name="Direito Empresarial e Tributário - 1494"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Cícero José Albano"></Teacher><Subject name="Direito Empresarial e Tributário - 1494"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Cícero José Albano"></Teacher><Subject name="Direito Empresarial e Tributário - 1494"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -8430,7 +8877,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -8488,23 +8938,26 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Teacher name="Cassia Cristina Moretto da Silva"></Teacher><Subject name="Legislação Aplicada e Direito do Consumidor - 1509"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Teacher name="Cassia Cristina Moretto da Silva"></Teacher><Subject name="Legislação Aplicada e Direito do Consumidor - 1509"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Tecnologia e Automação comercial - 1512"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Tecnologia e Automação comercial - 1512"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -8544,7 +8997,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -8600,7 +9056,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -8613,10 +9072,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Cassia Cristina Moretto da Silva"></Teacher><Subject name="Legislação Aplicada e Direito do Consumidor - 1509"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Cassia Cristina Moretto da Silva"></Teacher><Subject name="Legislação Aplicada e Direito do Consumidor - 1509"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -8656,7 +9115,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -8669,10 +9131,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Tecnologia e Automação comercial - 1512"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Teacher name="Humberto Fioravante Ferro"></Teacher><Subject name="Tecnologia e Automação comercial - 1512"></Subject><Activity_Tag name="Noturno"></Activity_Tag>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -8712,7 +9174,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -8768,7 +9233,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -8826,7 +9294,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -8868,21 +9339,24 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Linguagem de Programação - 1484"></Subject><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Linguagem de Programação - 1484"></Subject><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Linguagem de Programação - 1484"></Subject><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Linguagem de Programação - 1484"></Subject><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -8924,21 +9398,24 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -8989,12 +9466,15 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Olavo José Luiz Junior"></Teacher><Subject name="Lógica de Programação - 1483"></Subject><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -9045,12 +9525,15 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Linguagem de Programação - 1484"></Subject><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Teacher name="Eduardo Alberto Felippsen"></Teacher><Subject name="Linguagem de Programação - 1484"></Subject><Activity_Tag name="Vespertino"></Activity_Tag>
+     
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">
@@ -9106,7 +9589,10 @@
     <Hour name="15:55 - 16:45">
      
     </Hour>
-    <Hour name="Intervalo (16:45 - 19:00)">
+    <Hour name="Intervalo (16:45 - 18:10)">
+     
+    </Hour>
+    <Hour name="18:10 - 19:00">
      
     </Hour>
     <Hour name="19:00 - 19:50">

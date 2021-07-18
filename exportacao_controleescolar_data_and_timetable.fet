@@ -233,8 +233,8 @@
 	<Comments>PCCC 3 - Modalidades da educação e inclusão escolar </Comments>
 </Subject>
 <Subject>
-	<Name>PCCC 5  - Teoria e prática para o ensino de ciências e biologia - 1182</Name>
-	<Comments>PCCC 5  - Teoria e prática para o ensino de ciências e biologia </Comments>
+	<Name>PCCC 5 - Teoria e prática para o ensino de ciências e biologia - 1182</Name>
+	<Comments>PCCC 5 - Teoria e prática para o ensino de ciências e biologia</Comments>
 </Subject>
 <Subject>
 	<Name>PCCC 7 - Temas transversais - 1549</Name>
@@ -1685,6 +1685,13 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>Paula Magalhães Souza Deccache</Name>
+	<Target_Number_of_Hours>20</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>Polyanna Guimarães e Miranda</Name>
 	<Target_Number_of_Hours>20</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -2370,7 +2377,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Tatiane Martinazo Portz</Teacher>
+	<Teacher>Elias Franco</Teacher>
 	<Subject>Horticultura - 1090</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Activity_Tag>Vespertino</Activity_Tag>
@@ -2877,7 +2884,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Tatiane Martinazo Portz</Teacher>
+	<Teacher>Sônia Maria Mandotti</Teacher>
 	<Subject>Agricultura geral - 466</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Activity_Tag>Vespertino</Activity_Tag>
@@ -2890,7 +2897,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Tatiane Martinazo Portz</Teacher>
+	<Teacher>Leiliane Cristine de Souza</Teacher>
 	<Subject>Agroecologia e DRS - 470</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Activity_Tag>Vespertino</Activity_Tag>
@@ -2903,7 +2910,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Tatiane Martinazo Portz</Teacher>
+	<Teacher>Roberto Haruyoshi Ito</Teacher>
 	<Subject>Educação postural e Segurança no trabalho - 471</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Activity_Tag>Vespertino</Activity_Tag>
@@ -3025,7 +3032,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Tatiane Martinazo Portz</Teacher>
+	<Teacher>Leiliane Cristine de Souza</Teacher>
 	<Subject>Agroecologia e desenvolvimento rural sustentavel - 1462</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>AGR2021</Students>
@@ -3085,7 +3092,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Karina Dias Espartosa</Teacher>
+	<Teacher>Paula Magalhães Souza Deccache</Teacher>
 	<Subject>Zoologia dos cordados II - 483</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>BIO2018</Students>
@@ -3169,8 +3176,8 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Jhones Donizetti Mendes</Teacher>
-	<Subject>PCCC 5  - Teoria e prática para o ensino de ciências e biologia - 1182</Subject>
+	<Teacher>Paula Magalhães Souza Deccache</Teacher>
+	<Subject>PCCC 5 - Teoria e prática para o ensino de ciências e biologia - 1182</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>BIO2019</Students>
 	<Duration>2</Duration>
@@ -3181,8 +3188,8 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Jhones Donizetti Mendes</Teacher>
-	<Subject>PCCC 5  - Teoria e prática para o ensino de ciências e biologia - 1182</Subject>
+	<Teacher>Paula Magalhães Souza Deccache</Teacher>
+	<Subject>PCCC 5 - Teoria e prática para o ensino de ciências e biologia - 1182</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>BIO2019</Students>
 	<Duration>1</Duration>
@@ -3241,7 +3248,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Luis Eduardo Gazal</Teacher>
+	<Teacher>Paula Magalhães Souza Deccache</Teacher>
 	<Subject>Estágio curricular supervisionado em ciências I - 84</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>BIO2019</Students>
@@ -3817,7 +3824,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Eliana Peliçon Pereira Figueira</Teacher>
+	<Teacher>Paula Magalhães Souza Deccache</Teacher>
 	<Subject>Biologia 2 - 168</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Students>EIN2020-2ANO</Students>
@@ -4645,7 +4652,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Luis Eduardo Gazal</Teacher>
+	<Teacher>Paula Magalhães Souza Deccache</Teacher>
 	<Subject>Biologia IV - 196</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Students>IIN2018</Students>
@@ -5222,7 +5229,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Eliana Peliçon Pereira Figueira</Teacher>
+	<Teacher>Paula Magalhães Souza Deccache</Teacher>
 	<Subject>Biologia I - 1073</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Activity_Tag>Vespertino</Activity_Tag>
@@ -17551,7 +17558,7 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Sônia Maria Mandotti</Teacher>
-	<Number_of_Not_Available_Times>36</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>34</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -17623,14 +17630,6 @@
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>21:50 - 22:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>07:30 - 08:20</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>08:20 - 09:10</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -17702,7 +17701,7 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Leiliane Cristine de Souza</Teacher>
-	<Number_of_Not_Available_Times>18</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>13</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -17742,26 +17741,6 @@
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
 		<Hour>Intervalo (14:50 - 15:05)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>15:05 - 15:55</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>15:55 - 16:45</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 18:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>19:00 - 19:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>19:50 - 20:40</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quinta-Feira</Day>
@@ -22631,7 +22610,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001645</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
 	<Preferred_Hour>15:05 - 15:55</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -23090,7 +23069,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001823</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
 	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -23099,7 +23078,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001741</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
+	<Preferred_Day>Quinta-Feira</Preferred_Day>
 	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -24243,7 +24222,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001838</Activity_Id>
 	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24297,7 +24276,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001453</Activity_Id>
 	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
+	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24995,6 +24974,13 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
+<ConstraintTeacherNotAvailableTimes>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Teacher>Paula Magalhães Souza Deccache</Teacher>
+	<Number_of_Not_Available_Times>0</Number_of_Not_Available_Times>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTeacherNotAvailableTimes>
 </Time_Constraints_List>
 
 <Space_Constraints_List>

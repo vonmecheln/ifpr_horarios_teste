@@ -1370,13 +1370,6 @@
 
 <Teachers_List>
 <Teacher>
-	<Name>Adan Santos Martens</Name>
-	<Target_Number_of_Hours>20</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
 	<Name>Adrian Lincoln Ferreira Clarindo</Name>
 	<Target_Number_of_Hours>20</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -1707,13 +1700,6 @@
 </Teacher>
 <Teacher>
 	<Name>Rafael Luis Bartz</Name>
-	<Target_Number_of_Hours>20</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>Reginaldo Naves dos Reis</Name>
 	<Target_Number_of_Hours>20</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -3044,7 +3030,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Adan Santos Martens</Teacher>
+	<Teacher>Elenice Josefa Kolancko Setti</Teacher>
 	<Subject>Bioestatística - 487</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>BIO2018</Students>
@@ -4532,7 +4518,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Adan Santos Martens</Teacher>
+	<Teacher>Elenice Josefa Kolancko Setti</Teacher>
 	<Subject>Matemática IV - 184</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Students>IIN2018</Students>
@@ -4712,7 +4698,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Adan Santos Martens</Teacher>
+	<Teacher>Elenice Josefa Kolancko Setti</Teacher>
 	<Subject>Matemática III - 156</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Students>IIN2019</Students>
@@ -5151,7 +5137,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Adan Santos Martens</Teacher>
+	<Teacher>Elenice Josefa Kolancko Setti</Teacher>
 	<Subject>Matemática I - 1064</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Activity_Tag>Vespertino</Activity_Tag>
@@ -5164,7 +5150,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Adan Santos Martens</Teacher>
+	<Teacher>Elenice Josefa Kolancko Setti</Teacher>
 	<Subject>Matemática I - 1064</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Activity_Tag>Vespertino</Activity_Tag>
@@ -5566,7 +5552,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Adan Santos Martens</Teacher>
+	<Teacher>Elenice Josefa Kolancko Setti</Teacher>
 	<Subject>Matemática Aplicada - 10</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>TADS2020</Students>
@@ -16268,7 +16254,7 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Elenice Josefa Kolancko Setti</Teacher>
-	<Number_of_Not_Available_Times>36</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>34</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -16340,14 +16326,6 @@
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>21:50 - 22:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>07:30 - 08:20</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>08:20 - 09:10</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -19317,109 +19295,6 @@
 </ConstraintTeacherNotAvailableTimes>
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Teacher>Adan Santos Martens</Teacher>
-	<Number_of_Not_Available_Times>24</Number_of_Not_Available_Times>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>07:30 - 08:20</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>08:20 - 09:10</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (09:10 - 09:25)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>09:25 - 10:15</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>10:15 - 11:05</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>11:05 - 11:55</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (11:55 - 13:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>13:10 - 14:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>14:00 - 14:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (14:50 - 15:05)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>15:05 - 15:55</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>15:55 - 16:45</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>07:30 - 08:20</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>08:20 - 09:10</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (09:10 - 09:25)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>09:25 - 10:15</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>10:15 - 11:05</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>11:05 - 11:55</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (11:55 - 13:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>13:10 - 14:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>14:00 - 14:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (14:50 - 15:05)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>15:05 - 15:55</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>15:55 - 16:45</Hour>
-	</Not_Available_Time>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintTeacherNotAvailableTimes>
-<ConstraintTeacherNotAvailableTimes>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Celina de Oliveira Barbosa Gomes</Teacher>
 	<Number_of_Not_Available_Times>18</Number_of_Not_Available_Times>
 	<Not_Available_Time>
@@ -19846,113 +19721,6 @@
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>
 		<Hour>Intervalo (16:45 - 18:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>19:00 - 19:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>19:50 - 20:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (20:40 - 21:00)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>21:00 - 21:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>21:50 - 22:40</Hour>
-	</Not_Available_Time>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintTeacherNotAvailableTimes>
-<ConstraintTeacherNotAvailableTimes>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Teacher>Reginaldo Naves dos Reis</Teacher>
-	<Number_of_Not_Available_Times>25</Number_of_Not_Available_Times>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>19:00 - 19:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>19:50 - 20:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (20:40 - 21:00)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>21:00 - 21:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>21:50 - 22:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>19:00 - 19:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>19:50 - 20:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (20:40 - 21:00)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>21:00 - 21:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>21:50 - 22:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>19:00 - 19:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>19:50 - 20:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (20:40 - 21:00)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>21:00 - 21:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>21:50 - 22:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>19:00 - 19:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>19:50 - 20:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (20:40 - 21:00)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>21:00 - 21:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>21:50 - 22:40</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Sexta-Feira</Day>

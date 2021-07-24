@@ -3038,7 +3038,7 @@
 	<Total_Duration>2</Total_Duration>
 	<Id>100001631</Id>
 	<Activity_Group_Id>48788</Activity_Group_Id>
-	<Active>true</Active>
+	<Active>false</Active>
 	<Comments></Comments>
 </Activity>
 <Activity>
@@ -5560,7 +5560,7 @@
 	<Total_Duration>2</Total_Duration>
 	<Id>100001473</Id>
 	<Activity_Group_Id>10279</Activity_Group_Id>
-	<Active>true</Active>
+	<Active>false</Active>
 	<Comments></Comments>
 </Activity>
 <Activity>
@@ -20855,7 +20855,7 @@
 	<Activity_Id>100001577</Activity_Id>
 	<Activity_Id>100001473</Activity_Id>
 	<MinDays>1</MinDays>
-	<Active>true</Active>
+	<Active>false</Active>
 	<Comments>Arranjo de TADS 20/21: Algoritmos e Estrutura de Dados - 4 e Matemática Aplicada - 10</Comments>
 </ConstraintMinDaysBetweenActivities>
 <ConstraintMinDaysBetweenActivities>
@@ -22489,7 +22489,7 @@
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
+	<Active>false</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
@@ -24289,7 +24289,7 @@
 	<Preferred_Day>Sexta-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
+	<Active>false</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>

@@ -1517,14 +1517,14 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>Franciele Fernandes Baliero</Name>
+	<Name>Fábio Fernandes da Silva</Name>
 	<Target_Number_of_Hours>20</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>Fábio Fernandes da Silva</Name>
+	<Name>Franciele Fernandes Baliero</Name>
 	<Target_Number_of_Hours>20</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -1580,14 +1580,14 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>Keyla Christina Almeida Portela</Name>
+	<Name>Kátia Cristiane Kobus Novaes</Name>
 	<Target_Number_of_Hours>20</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>Kátia Cristiane Kobus Novaes</Name>
+	<Name>Keyla Christina Almeida Portela</Name>
 	<Target_Number_of_Hours>20</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -1657,13 +1657,6 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>Novo Professor de Informática PSS - 40h</Name>
-	<Target_Number_of_Hours>20</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
 	<Name>Octavio Henrique Viana</Name>
 	<Target_Number_of_Hours>20</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -1672,6 +1665,13 @@
 </Teacher>
 <Teacher>
 	<Name>Olavo José Luiz Junior</Name>
+	<Target_Number_of_Hours>20</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Paula Letícia Santos Lima</Name>
 	<Target_Number_of_Hours>20</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -4158,7 +4158,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Novo Professor de Informática PSS - 40h</Teacher>
+	<Teacher>Paula Letícia Santos Lima</Teacher>
 	<Subject>Informática Instrumental - 1532</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Students>EIN2021-1ANO</Students>
@@ -4322,7 +4322,7 @@
 	<Total_Duration>2</Total_Duration>
 	<Id>100001599</Id>
 	<Activity_Group_Id>598415</Activity_Group_Id>
-	<Active>true</Active>
+	<Active>false</Active>
 	<Comments></Comments>
 </Activity>
 <Activity>
@@ -4350,13 +4350,25 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Novo Professor de Informática PSS - 40h</Teacher>
+	<Teacher>Paula Letícia Santos Lima</Teacher>
 	<Subject>Informática Instrumental - 596</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>ELE2021-1SEM</Students>
 	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
+	<Total_Duration>4</Total_Duration>
 	<Id>100001761</Id>
+	<Activity_Group_Id>596415</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Paula Letícia Santos Lima</Teacher>
+	<Subject>Informática Instrumental - 596</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>ELE2021-1SEM</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>200001761</Id>
 	<Activity_Group_Id>596415</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -4458,7 +4470,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Novo Professor de Informática PSS - 40h</Teacher>
+	<Teacher>Paula Letícia Santos Lima</Teacher>
 	<Subject>Informática Instrumental - 153</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>ELM2021</Students>
@@ -4830,7 +4842,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Novo Professor de Informática PSS - 40h</Teacher>
+	<Teacher>Paula Letícia Santos Lima</Teacher>
 	<Subject>Programação Orientada a Objetos - 34</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Students>IIN2019</Students>
@@ -4842,7 +4854,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Novo Professor de Informática PSS - 40h</Teacher>
+	<Teacher>Paula Letícia Santos Lima</Teacher>
 	<Subject>Programação Orientada a Objetos - 34</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Students>IIN2019</Students>
@@ -5033,7 +5045,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Novo Professor de Informática PSS - 40h</Teacher>
+	<Teacher>Paula Letícia Santos Lima</Teacher>
 	<Subject>Laboratório de Banco de Dados - 1238</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Activity_Tag>Vespertino</Activity_Tag>
@@ -5792,7 +5804,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Novo Professor de Informática PSS - 40h</Teacher>
+	<Teacher>Paula Letícia Santos Lima</Teacher>
 	<Subject>Desenvolvimento Baseado em Padrões e Frameworks - 726</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>TDS2020-1-1SEM</Students>
@@ -5804,7 +5816,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Novo Professor de Informática PSS - 40h</Teacher>
+	<Teacher>Paula Letícia Santos Lima</Teacher>
 	<Subject>Testes, Verificação e Validação de Sistemas - 723</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>TDS2020-1-1SEM</Students>
@@ -15859,7 +15871,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<First_Activity_Id>100001642</First_Activity_Id>
 	<Second_Activity_Id>200001642</Second_Activity_Id>
-	<Active>true</Active>
+	<Active>false</Active>
 	<Comments></Comments>
 </ConstraintTwoActivitiesConsecutive>
 <ConstraintTwoActivitiesConsecutive>
@@ -17823,28 +17835,8 @@
 </ConstraintTeacherNotAvailableTimes>
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Teacher>Novo Professor de Informática PSS - 40h</Teacher>
-	<Number_of_Not_Available_Times>5</Number_of_Not_Available_Times>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>19:00 - 19:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>19:50 - 20:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (20:40 - 21:00)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>21:00 - 21:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>21:50 - 22:40</Hour>
-	</Not_Available_Time>
+	<Teacher>Paula Letícia Santos Lima</Teacher>
+	<Number_of_Not_Available_Times>0</Number_of_Not_Available_Times>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTeacherNotAvailableTimes>
@@ -23430,7 +23422,7 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100001599</Activity_Id>
+	<Activity_Id>200001761</Activity_Id>
 	<Preferred_Day>Segunda-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
@@ -24286,8 +24278,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001473</Activity_Id>
-	<Preferred_Day>Sexta-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Preferred_Day>Quarta-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>false</Active>
 	<Comments></Comments>
@@ -24323,7 +24315,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001642</Activity_Id>
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24331,7 +24323,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200001642</Activity_Id>
-	<Preferred_Day>Quarta-Feira</Preferred_Day>
+	<Preferred_Day>Sexta-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>

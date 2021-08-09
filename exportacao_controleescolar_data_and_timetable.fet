@@ -3450,7 +3450,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Grazielli Bueno</Teacher>
+	<Teacher>Guilherme Masquetti Pelz</Teacher>
 	<Subject>Projeto Integrador - 1593</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Students>EIN2018-4ANO</Students>
@@ -3643,6 +3643,7 @@
 </Activity>
 <Activity>
 	<Teacher>Grazielli Bueno</Teacher>
+	<Teacher>Alex Miyamoto Mussi</Teacher>
 	<Subject>Projetos e Instalações Elétricas - 200</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Students>EIN2019-3ANO</Students>
@@ -18080,7 +18081,7 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Alex Miyamoto Mussi</Teacher>
-	<Number_of_Not_Available_Times>36</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>33</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -18092,18 +18093,6 @@
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
 		<Hour>Intervalo (09:10 - 09:25)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>09:25 - 10:15</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>10:15 - 11:05</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>11:05 - 11:55</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
@@ -22785,7 +22774,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001748</Activity_Id>
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
-	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -22794,7 +22783,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100001745</Activity_Id>
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
-	<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
+	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>

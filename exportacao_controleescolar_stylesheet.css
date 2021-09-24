@@ -10883,7 +10883,7 @@ body {
 
 
 /* Folha de estilo CSS de exportacao_controleescolar.fet
-   Folha de estilos gerada por FET 6.1.6 em 24/09/2021 15:24 */
+   Folha de estilos gerada por FET 6.1.6 em 24/09/2021 16:30 */
 
 /* Para que as páginas sejam separadas a cada duas tabelas, delete "page-break-before: always;" em "table.even_table". */
 /* Excluir "page-break-before: always;" em "table.even_table" e em "table.odd_table" para pular as quebras de página. */
@@ -11420,63 +11420,63 @@ td.c_93 { /* Activity id: 100002490 (subject) */
  color: black;
 }
 
-td.c_94 { /* Activity id: 100002429 (subject) */
- background-color: rgb(164, 138, 77);
- color: black;
-}
-
-td.c_95 { /* Activity id: 100002431 (subject) */
+td.c_94 { /* Activity id: 100002431 (subject) */
  background-color: rgb(248, 248, 0);
  color: black;
 }
 
-td.c_96 { /* Activity id: 100002385 (subject) */
+td.c_95 { /* Activity id: 100002385 (subject) */
  background-color: rgb(14, 114, 21);
  color: white;
 }
 
-td.c_97 { /* Activity id: 100002325 (subject) */
+td.c_96 { /* Activity id: 100002325 (subject) */
  background-color: rgb(43, 174, 42);
  color: white;
 }
 
-td.c_98 { /* Activity id: 100002557 (subject) */
+td.c_97 { /* Activity id: 100002557 (subject) */
  background-color: rgb(0, 239, 173);
  color: black;
 }
 
-td.c_99 { /* Activity id: 100002342 (subject) */
+td.c_98 { /* Activity id: 100002342 (subject) */
  background-color: rgb(54, 87, 85);
  color: white;
 }
 
-td.c_100 { /* Activity id: 100002391 (subject) */
+td.c_99 { /* Activity id: 100002391 (subject) */
  background-color: rgb(39, 229, 229);
  color: black;
 }
 
-td.c_101 { /* Activity id: 100002370 (subject) */
+td.c_100 { /* Activity id: 100002370 (subject) */
  background-color: rgb(106, 87, 138);
  color: white;
 }
 
-td.c_102 { /* Activity id: 100002352 (subject) */
+td.c_101 { /* Activity id: 100002352 (subject) */
  background-color: rgb(249, 102, 152);
  color: black;
 }
 
-td.c_103 { /* Activity id: 100002337 (subject) */
+td.c_102 { /* Activity id: 100002337 (subject) */
  background-color: rgb(52, 94, 161);
  color: white;
 }
 
-td.c_104 { /* Activity id: 100002302 (subject) */
+td.c_103 { /* Activity id: 100002302 (subject) */
  background-color: rgb(51, 146, 215);
  color: white;
 }
 
-td.c_105 { /* Activity id: 100002396 (subject) */
+td.c_104 { /* Activity id: 100002396 (subject) */
  background-color: rgb(239, 200, 176);
+ color: black;
+}
+
+td.c_105 { /* Activity id: 100002429 (subject) */
+ background-color: rgb(164, 138, 77);
  color: black;
 }
 
@@ -11690,28 +11690,28 @@ td.c_147 { /* Activity id: 100002525 (subject) */
  color: white;
 }
 
-td.c_148 { /* Activity id: 100002516 (subject) */
- background-color: rgb(2, 14, 128);
- color: white;
-}
-
-td.c_149 { /* Activity id: 100002519 (subject) */
- background-color: rgb(237, 240, 131);
- color: black;
-}
-
-td.c_150 { /* Activity id: 100002520 (subject) */
+td.c_148 { /* Activity id: 100002520 (subject) */
  background-color: rgb(238, 186, 50);
  color: black;
 }
 
-td.c_151 { /* Activity id: 100002517 (subject) */
+td.c_149 { /* Activity id: 100002516 (subject) */
+ background-color: rgb(2, 14, 128);
+ color: white;
+}
+
+td.c_150 { /* Activity id: 100002517 (subject) */
  background-color: rgb(71, 186, 164);
  color: black;
 }
 
-td.c_152 { /* Activity id: 100002523 (subject) */
+td.c_151 { /* Activity id: 100002523 (subject) */
  background-color: rgb(119, 158, 45);
+ color: black;
+}
+
+td.c_152 { /* Activity id: 100002519 (subject) */
+ background-color: rgb(237, 240, 131);
  color: black;
 }
 
@@ -12775,64 +12775,64 @@ td.c_364 { /* Activity id: 100002490 (subject+students) */
  color: white;
 }
 
-td.c_365 { /* Activity id: 100002429 (subject+students) */
- background-color: rgb(148, 109, 222);
- color: black;
-}
-
-td.c_366 { /* Activity id: 100002431 (subject+students) */
+td.c_365 { /* Activity id: 100002431 (subject+students) */
  background-color: rgb(49, 74, 29);
  color: white;
 }
 
-td.c_367 { /* Activity id: 100002385 (subject+students) */
+td.c_366 { /* Activity id: 100002385 (subject+students) */
  background-color: rgb(60, 61, 143);
  color: white;
 }
 
-td.c_368 { /* Activity id: 100002325 (subject+students) */
+td.c_367 { /* Activity id: 100002325 (subject+students) */
  background-color: rgb(243, 183, 65);
  color: black;
 }
 
-td.c_369 { /* Activity id: 100002557 (subject+students) */
+td.c_368 { /* Activity id: 100002557 (subject+students) */
  background-color: rgb(246, 155, 229);
  color: black;
 }
 
-td.c_370 { /* Activity id: 100002342 (subject+students) */
+td.c_369 { /* Activity id: 100002342 (subject+students) */
  background-color: rgb(211, 219, 189);
  color: black;
 }
 
-td.c_371 { /* Activity id: 100002391 (subject+students) */
+td.c_370 { /* Activity id: 100002391 (subject+students) */
  background-color: rgb(29, 102, 83);
  color: white;
 }
 
-td.c_372 { /* Activity id: 100002370 (subject+students) */
+td.c_371 { /* Activity id: 100002370 (subject+students) */
  background-color: rgb(177, 224, 37);
  color: black;
 }
 
-td.c_373 { /* Activity id: 100002352 (subject+students) */
+td.c_372 { /* Activity id: 100002352 (subject+students) */
  background-color: rgb(159, 143, 189);
  color: black;
 }
 
-td.c_374 { /* Activity id: 100002337 (subject+students) */
+td.c_373 { /* Activity id: 100002337 (subject+students) */
  background-color: rgb(226, 9, 104);
  color: white;
 }
 
-td.c_375 { /* Activity id: 100002302 (subject+students) */
+td.c_374 { /* Activity id: 100002302 (subject+students) */
  background-color: rgb(76, 216, 99);
  color: black;
 }
 
-td.c_376 { /* Activity id: 100002396 (subject+students) */
+td.c_375 { /* Activity id: 100002396 (subject+students) */
  background-color: rgb(30, 100, 166);
  color: white;
+}
+
+td.c_376 { /* Activity id: 100002429 (subject+students) */
+ background-color: rgb(148, 109, 222);
+ color: black;
 }
 
 td.c_377 { /* Activity id: 100002374 (subject+students) */
@@ -13045,28 +13045,28 @@ td.c_418 { /* Activity id: 100002525 (subject+students) */
  color: white;
 }
 
-td.c_419 { /* Activity id: 100002516 (subject+students) */
- background-color: rgb(51, 243, 54);
- color: black;
-}
-
-td.c_420 { /* Activity id: 100002519 (subject+students) */
- background-color: rgb(152, 120, 167);
- color: black;
-}
-
-td.c_421 { /* Activity id: 100002520 (subject+students) */
+td.c_419 { /* Activity id: 100002520 (subject+students) */
  background-color: rgb(137, 179, 87);
  color: black;
 }
 
-td.c_422 { /* Activity id: 100002517 (subject+students) */
+td.c_420 { /* Activity id: 100002516 (subject+students) */
+ background-color: rgb(51, 243, 54);
+ color: black;
+}
+
+td.c_421 { /* Activity id: 100002517 (subject+students) */
  background-color: rgb(240, 113, 146);
  color: black;
 }
 
-td.c_423 { /* Activity id: 100002523 (subject+students) */
+td.c_422 { /* Activity id: 100002523 (subject+students) */
  background-color: rgb(219, 132, 139);
+ color: black;
+}
+
+td.c_423 { /* Activity id: 100002519 (subject+students) */
+ background-color: rgb(152, 120, 167);
  color: black;
 }
 

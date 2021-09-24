@@ -113,10 +113,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Instalações Elétricas - 691"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
+     <Subject name="Sistemas Digitais (PPC2020) - 1771"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-2SEM"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Instalações Elétricas - 691"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
+     <Subject name="Sistemas Digitais (PPC2020) - 1771"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-2SEM"></Students>
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -163,19 +163,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Segurança do Trabalho - 693"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-2SEM"></Students>
+     <Subject name="Projetos Elétricos Industriais - 794"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Segurança do Trabalho - 693"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-2SEM"></Students>
+     <Subject name="Projetos Elétricos Industriais - 794"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Sistemas Digitais (PPC2020) - 1771"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-2SEM"></Students>
+     <Subject name="Sistemas Digitais - 342"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Sistemas Digitais (PPC2020) - 1771"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-2SEM"></Students>
+     <Subject name="Sistemas Digitais - 342"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -231,10 +231,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Sistemas Digitais - 342"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     <Subject name="Instalações Elétricas - 691"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Sistemas Digitais - 342"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     <Subject name="Instalações Elétricas - 691"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -825,10 +825,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Gestão Empresarial - 1508"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
+     <Subject name="Plano de Negócio - 1506"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Gestão Empresarial - 1508"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
+     <Subject name="Plano de Negócio - 1506"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -884,10 +884,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Planejamento e Gestão estratégica - 1500"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
+     <Subject name="Gestão Empresarial - 1508"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Planejamento e Gestão estratégica - 1500"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
+     <Subject name="Gestão Empresarial - 1508"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -934,7 +934,7 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Comportamento Organizacional e Empreendedorismo em TI - 1"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TADS2020/2021"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
      
@@ -943,10 +943,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Plano de Negócio - 1506"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
+     <Subject name="Planejamento e Gestão estratégica - 1500"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Plano de Negócio - 1506"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
+     <Subject name="Planejamento e Gestão estratégica - 1500"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -1172,10 +1172,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Análise de Requisitos e Modelagem de Sistemas - 12"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TADS2019/2020"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Análise de Requisitos e Modelagem de Sistemas - 12"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TADS2019/2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -1478,10 +1478,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Política educacional: organização da educação brasileira - 90"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Política educacional: organização da educação brasileira - 90"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -1596,10 +1596,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Política educacional: organização da educação brasileira - 90"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Política educacional: organização da educação brasileira - 90"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -1705,19 +1705,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Sociedade, Educação, Ética Profissional e o Mundo do Trabalho - 702"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Sociedade, Educação, Ética Profissional e o Mundo do Trabalho - 702"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Sociedade, Educação, Ética Profissional e o Mundo do Trabalho - 702"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2021-2"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Sociedade, Educação, Ética Profissional e o Mundo do Trabalho - 702"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2021-2"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -1884,10 +1884,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Fisiologia vegetal - 504"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
+     <Subject name="Sistemática vegetal II - 800"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Fisiologia vegetal - 504"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
+     <Subject name="Sistemática vegetal II - 800"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -1943,10 +1943,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Anatomia e morfologia vegetal - 63"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Anatomia e morfologia vegetal - 63"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -2002,16 +2002,16 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Fisiologia vegetal - 504"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Fisiologia vegetal - 504"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Sistemática vegetal II - 800"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
+     <Subject name="Anatomia e morfologia vegetal - 63"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
      <Subject name="Anatomia e morfologia vegetal - 63"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
@@ -2061,19 +2061,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Fisiologia vegetal - 504"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Fisiologia vegetal - 504"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Sistemática vegetal II - 800"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
+     <Subject name="Fisiologia vegetal - 504"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Sistemática vegetal II - 800"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
+     <Subject name="Fisiologia vegetal - 504"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -2525,10 +2525,10 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     
+     <Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="15:55 - 16:45">
-     
+     <Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -2554,31 +2554,31 @@
    </Day>
    <Day name="Terça-Feira">
     <Hour name="07:30 - 08:20">
-     
+     <Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="08:20 - 09:10">
-     
+     <Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Subject name="Matemática IV - 184"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2018"></Students>
+     <Subject name="Matemática III - 1086"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Matemática IV - 184"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2018"></Students>
+     <Subject name="Matemática III - 1086"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Matemática IV - 184"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2018"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
@@ -2613,40 +2613,40 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     <Subject name="Matemática III - 156"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2019"></Students>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Subject name="Matemática III - 156"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2019"></Students>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     
+     <Subject name="Matemática IV - 184"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2018"></Students>
     </Hour>
     <Hour name="10:15 - 11:05">
-     
+     <Subject name="Matemática IV - 184"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2018"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Subject name="Matemática IV - 184"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2018"></Students>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Subject name="Matemática I - 462"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Subject name="Matemática I - 462"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Subject name="Matemática I - 1064"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -2681,13 +2681,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Subject name="Matemática III - 1086"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Matemática III - 1086"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
+     <Subject name="Matemática III - 156"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2019"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Subject name="Matemática III - 156"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2019"></Students>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -2702,10 +2702,10 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     
+     <Subject name="Matemática I - 462"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
     </Hour>
     <Hour name="15:55 - 16:45">
-     
+     <Subject name="Matemática I - 462"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -2902,10 +2902,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Legislação Aplicada e Direito do Consumidor - 1509"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Legislação Aplicada e Direito do Consumidor - 1509"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -3129,10 +3129,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Legislação Aplicada e Direito do Consumidor - 1509"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Legislação Aplicada e Direito do Consumidor - 1509"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -3207,16 +3207,16 @@
   <Teacher name="Celina de Oliveira Barbosa Gomes">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Subject name="Lingua Estrangeira Moderna 1 - Inglês - 179"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2020-2ANO"></Students>
+     <Subject name="Língua Portuguesa e Literatura III - 1081"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
     </Hour>
     <Hour name="08:20 - 09:10">
-     
+     <Subject name="Língua Portuguesa e Literatura III - 1081"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Subject name="Lingua Estrangeira Moderna I - Inglês - 1256"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2019"></Students>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
      
@@ -3228,10 +3228,10 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     
+     <Subject name="Língua estrangeira - Inglês - 456"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
     </Hour>
     <Hour name="14:00 - 14:50">
-     
+     <Subject name="Língua estrangeira - Inglês - 456"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
@@ -3266,10 +3266,10 @@
    </Day>
    <Day name="Terça-Feira">
     <Hour name="07:30 - 08:20">
-     <Subject name="Língua estrangeira - Inglês - 456"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Subject name="Língua estrangeira - Inglês - 456"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -3281,7 +3281,7 @@
      
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Lingua Estrangeira Moderna 2 - Ingles - 208"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2019-3ANO"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -3355,10 +3355,10 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Subject name="Língua Portuguesa e Literatura III - 1081"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Subject name="Língua Portuguesa e Literatura III - 1081"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -3393,7 +3393,7 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Subject name="Lingua Estrangeira Moderna 3 - Inglês - 230"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2018-4ANO"></Students>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
      
@@ -3405,19 +3405,19 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     
+     <Subject name="Lingua estrangeira - Inglês - 1225"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Subject name="Língua Portuguesa e Literatura III - 1081"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
+     <Subject name="Lingua estrangeira - Inglês - 1225"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Subject name="Lingua estrangeira - Inglês - 1225"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Subject name="Lingua estrangeira - Inglês - 1225"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -3605,19 +3605,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Comércio Eletrônico e Mídias Digitais - 1499"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
+     <Subject name="Logística aplicada - 1503"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Comércio Eletrônico e Mídias Digitais - 1499"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
+     <Subject name="Logística aplicada - 1503"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Logística aplicada - 1503"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
+     <Subject name="Comércio Eletrônico e Mídias Digitais - 1499"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Logística aplicada - 1503"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
+     <Subject name="Comércio Eletrônico e Mídias Digitais - 1499"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -3664,10 +3664,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Logística aplicada - 1503"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
+     <Subject name="Gestão de Produção - 795"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Logística aplicada - 1503"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
+     <Subject name="Gestão de Produção - 795"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -3702,10 +3702,10 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Subject name="Gestão e Empreendedorismo Rural - 1095"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Subject name="Gestão e Empreendedorismo Rural - 1095"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
@@ -3749,10 +3749,10 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     
+     <Subject name="Gestão e Empreendedorismo Rural - 1095"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
     </Hour>
     <Hour name="10:15 - 11:05">
-     
+     <Subject name="Gestão e Empreendedorismo Rural - 1095"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
      
@@ -3782,19 +3782,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Métodos e Técnicas de Pesquisa Aplicada - 1513"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
+     <Subject name="Logística aplicada - 1503"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Métodos e Técnicas de Pesquisa Aplicada - 1513"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
+     <Subject name="Logística aplicada - 1503"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Gestão de Produção - 795"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
+     <Subject name="Métodos e Técnicas de Pesquisa Aplicada - 1513"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Gestão de Produção - 795"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
+     <Subject name="Métodos e Técnicas de Pesquisa Aplicada - 1513"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -4317,19 +4317,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Programação Orientada a Objetos - 719"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Programação Orientada a Objetos - 719"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Linguagem de Programação - 718"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Linguagem de Programação - 718"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -4376,10 +4376,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Linguagem de Programação - 718"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Linguagem de Programação - 718"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -4432,10 +4432,10 @@
      
     </Hour>
     <Hour name="18:10 - 19:00">
-     <Subject name="Linguagem de Programação - 718"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Linguagem de Programação - 718"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
      
@@ -4444,10 +4444,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Programação Orientada a Objetos - 719"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Programação Orientada a Objetos - 719"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -4752,7 +4752,7 @@
      
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Subject name="Química 1 - 143"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2021-1ANO"></Students>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -4829,10 +4829,10 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Subject name="Química I - 1068"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Subject name="Química I - 1068"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
@@ -4867,10 +4867,10 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     
+     <Subject name="Química I - 1068"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="08:20 - 09:10">
-     
+     <Subject name="Química I - 1068"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -5097,10 +5097,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Genética básica e humana - 1304"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Genética básica e humana - 1304"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
+     
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -5156,10 +5156,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Genética básica e humana - 1304"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Genética básica e humana - 1304"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -5206,19 +5206,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Genética básica e humana - 1304"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Genética básica e humana - 1304"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Genética básica e humana - 1304"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Genética básica e humana - 1304"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -5343,10 +5343,10 @@
   <Teacher name="Eliane Brunetto Pertile">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     
+     <Subject name="Atendimento Educacional Especializado AGO 2S - 1948"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
     </Hour>
     <Hour name="08:20 - 09:10">
-     
+     <Subject name="Atendimento Educacional Especializado AGO 2S - 1948"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -5373,10 +5373,10 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Subject name="Atendimento Educacional Especializado AGO 2S - 1948"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Subject name="Atendimento Educacional Especializado AGO 2S - 1948"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -6647,7 +6647,7 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Subject name="Educação Física 2 - 170"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2020-2ANO"></Students>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
      
@@ -6776,13 +6776,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Subject name="Manutenção Industrial e Gestão da Produção - 1592"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2018-4ANO"></Students>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Processos de Fabricação 1 - 1552"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2020-2ANO"></Students>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Processos de Fabricação 1 - 1552"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2020-2ANO"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -6809,10 +6809,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Processos de Fabricação II - 344"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Processos de Fabricação II - 344"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -6885,10 +6885,10 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     <Subject name="Processos de Fabricação 2 - 1573"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2019-3ANO"></Students>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Subject name="Processos de Fabricação 2 - 1573"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2019-3ANO"></Students>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -6897,10 +6897,10 @@
      
     </Hour>
     <Hour name="10:15 - 11:05">
-     
+     <Subject name="Processos de Fabricação 1 - 1552"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2020-2ANO"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Subject name="Processos de Fabricação 1 - 1552"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2020-2ANO"></Students>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -6927,27 +6927,27 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Processos de Fabricação II - 344"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     <Subject name="Elementos de Máquinas - 349"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2020"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Processos de Fabricação II - 344"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     <Subject name="Elementos de Máquinas - 349"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2020"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Elementos de Máquinas - 349"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2020"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Elementos de Máquinas - 349"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2020"></Students>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     
+     <Subject name="Processos de Fabricação 2 - 1573"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2019-3ANO"></Students>
     </Hour>
     <Hour name="08:20 - 09:10">
-     
+     <Subject name="Processos de Fabricação 2 - 1573"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2019-3ANO"></Students>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -7165,10 +7165,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Projetos Elétricos Residenciais e Prediais - 803"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-2SEM"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Projetos Elétricos Residenciais e Prediais - 803"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-2SEM"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -7359,7 +7359,7 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Subject name="Segurança do Trabalho - 197"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2019-3ANO"></Students>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
      
@@ -7401,10 +7401,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Projetos Elétricos Residenciais e Prediais - 803"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-2SEM"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Projetos Elétricos Residenciais e Prediais - 803"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-2SEM"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -7612,7 +7612,7 @@
      
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Projeto Integrador - 1593"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2018-4ANO"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -7639,19 +7639,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Geração, Transmissão e Distribuição de Energia - 796"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
+     <Subject name="Análise de Circuitos - 341"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Geração, Transmissão e Distribuição de Energia - 796"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
+     <Subject name="Análise de Circuitos - 341"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Análise de Circuitos - 341"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     <Subject name="Geração, Transmissão e Distribuição de Energia - 796"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Análise de Circuitos - 341"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     <Subject name="Geração, Transmissão e Distribuição de Energia - 796"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -7698,10 +7698,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Análise de Circuitos - 341"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     <Subject name="Geração, Transmissão e Distribuição de Energia - 796"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Análise de Circuitos - 341"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     <Subject name="Geração, Transmissão e Distribuição de Energia - 796"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -7757,10 +7757,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Geração, Transmissão e Distribuição de Energia - 796"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
+     <Subject name="Análise de Circuitos - 341"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Geração, Transmissão e Distribuição de Energia - 796"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
+     <Subject name="Análise de Circuitos - 341"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -7877,19 +7877,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Tecnologia e Automação comercial - 1512"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Tecnologia e Automação comercial - 1512"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Tecnologia e Automação comercial - 1512"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Tecnologia e Automação comercial - 1512"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -7936,10 +7936,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Inteligência Artificial e Sistemas Neurais - 724"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2019-2-2SEM"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Inteligência Artificial e Sistemas Neurais - 724"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2019-2-2SEM"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -7995,19 +7995,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Inteligência Artificial e Sistemas Neurais - 724"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2019-2-2SEM"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Inteligência Artificial e Sistemas Neurais - 724"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2019-2-2SEM"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Tecnologia e Automação comercial - 1512"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Tecnologia e Automação comercial - 1512"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -8054,10 +8054,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Tecnologia e Automação comercial - 1512"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Tecnologia e Automação comercial - 1512"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -8292,7 +8292,7 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Trabalho de conclusão de curso II - 1420"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
      
@@ -8589,10 +8589,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="PCCC 6 - Feira de ciências - 1301"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
+     <Subject name="Zoologia dos invertebrados I - 70"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="PCCC 6 - Feira de ciências - 1301"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
+     <Subject name="Zoologia dos invertebrados I - 70"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -8648,19 +8648,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Zoologia dos invertebrados I - 70"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
+     <Subject name="Zoologia dos cordados I - 92"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Zoologia dos invertebrados I - 70"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
+     <Subject name="Zoologia dos cordados I - 92"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Zoologia dos cordados I - 92"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Zoologia dos cordados I - 92"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -8707,19 +8707,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Zoologia dos cordados I - 92"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
+     <Subject name="PCCC 6 - Feira de ciências - 1301"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Zoologia dos cordados I - 92"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
+     <Subject name="PCCC 6 - Feira de ciências - 1301"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Zoologia dos cordados I - 92"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Zoologia dos cordados I - 92"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -8825,19 +8825,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Zoologia dos invertebrados I - 70"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Zoologia dos invertebrados I - 70"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Zoologia dos invertebrados I - 70"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Zoologia dos invertebrados I - 70"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -9360,19 +9360,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Elaboração de Projetos - 1505"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Elaboração de Projetos - 1505"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Elaboração de Projetos - 1505"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
+     <Subject name="Marketing e Comportamento do Consumidor - 1511"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Elaboração de Projetos - 1505"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
+     <Subject name="Marketing e Comportamento do Consumidor - 1511"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -9428,10 +9428,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Gestão da Informação e documentação - 1502"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Gestão da Informação e documentação - 1502"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -9478,19 +9478,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Gestão da Informação e documentação - 1502"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Gestão da Informação e documentação - 1502"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Marketing e Comportamento do Consumidor - 1511"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Marketing e Comportamento do Consumidor - 1511"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -10022,10 +10022,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Forragicultura e pastagens - 1470"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Forragicultura e pastagens - 1470"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -10119,10 +10119,10 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     
+     <Subject name="Zootecnia Geral - 467"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
     </Hour>
     <Hour name="15:55 - 16:45">
-     
+     <Subject name="Zootecnia Geral - 467"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -10140,10 +10140,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Parasitologia, higiene e saúde - 886"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Parasitologia, higiene e saúde - 886"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -10178,10 +10178,10 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Subject name="Zootecnia Geral - 467"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Subject name="Zootecnia Geral - 467"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -10190,10 +10190,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Forragicultura e pastagens - 1470"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Forragicultura e pastagens - 1470"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -10249,10 +10249,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Parasitologia, higiene e saúde - 886"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Parasitologia, higiene e saúde - 886"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2020"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -10487,19 +10487,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="PCCC 8 - Origem e evolução da vida - 2037"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
+     <Subject name="Genética de populações e evolução - 505"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="PCCC 8 - Origem e evolução da vida - 2037"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
+     <Subject name="Genética de populações e evolução - 505"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="PCCC 8 - Origem e evolução da vida - 2037"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="PCCC 8 - Origem e evolução da vida - 2037"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -10593,10 +10593,10 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Subject name="Biologia I - 459"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Subject name="Biologia I - 459"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -10614,10 +10614,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Genética de populações e evolução - 505"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Genética de populações e evolução - 505"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -10734,10 +10734,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2019-2-2SEM"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2019-2-2SEM"></Students>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -10970,10 +10970,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2019-2-2SEM"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Desenvolvimento WEB - 721"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2019-2-2SEM"></Students>
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -11048,10 +11048,10 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     
+     <Subject name="Artes II - 614"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
     </Hour>
     <Hour name="10:15 - 11:05">
-     
+     <Subject name="Artes II - 614"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
      
@@ -11060,10 +11060,10 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Subject name="Arte I - 1235"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Subject name="Arte I - 1235"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
@@ -11107,7 +11107,7 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Subject name="Artes 3 - 221"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2018-4ANO"></Students>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
      
@@ -11178,10 +11178,10 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Subject name="Artes II - 614"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
+     <Subject name="Artes I - 458"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Subject name="Artes II - 614"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
+     <Subject name="Artes I - 458"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
@@ -11216,7 +11216,7 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Subject name="Artes 2 - 166"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2020-2ANO"></Students>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
      
@@ -11225,13 +11225,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Subject name="Arte III - 1448"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2019"></Students>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Artes I - 458"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Artes I - 458"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -11296,10 +11296,10 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     
+     <Subject name="Arte I - 1235"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="14:00 - 14:50">
-     
+     <Subject name="Arte I - 1235"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
@@ -11564,10 +11564,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Máquinas Elétricas e Acionamentos - 110"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2020"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Máquinas Elétricas e Acionamentos - 110"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2020"></Students>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -11623,10 +11623,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Máquinas Elétricas e Acionamentos - 110"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2020"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Máquinas Elétricas e Acionamentos - 110"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2020"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -11763,10 +11763,10 @@
      
     </Hour>
     <Hour name="10:15 - 11:05">
-     
+     <Subject name="Matemática 2 - 185"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2020-2ANO"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Subject name="Matemática 2 - 185"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2020-2ANO"></Students>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -11869,10 +11869,10 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     
+     <Subject name="Matemática 3 - 210"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2019-3ANO"></Students>
     </Hour>
     <Hour name="08:20 - 09:10">
-     
+     <Subject name="Matemática 3 - 210"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2019-3ANO"></Students>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -11881,10 +11881,10 @@
      
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Matemática 2 - 185"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2020-2ANO"></Students>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Matemática 2 - 185"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2020-2ANO"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -11928,10 +11928,10 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Subject name="Matemática 3 - 210"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2019-3ANO"></Students>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Subject name="Matemática 3 - 210"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2019-3ANO"></Students>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -12029,19 +12029,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Matemática Financeira - 1510"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Matemática Financeira - 1510"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Matemática Financeira - 1510"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Matemática Financeira - 1510"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TGC2021"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -12122,25 +12122,25 @@
      
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Lingua Estrangeira Moderna - Espanhol - 1540"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2021-1ANO"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     
+     <Subject name="Língua Portuguesa e Literatura II - 1226"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="14:00 - 14:50">
-     
+     <Subject name="Língua Portuguesa e Literatura II - 1226"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Subject name="Língua Portuguesa e Literatura I - 1069"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Subject name="Língua Portuguesa e Literatura I - 1069"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -12175,22 +12175,22 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     
+     <Subject name="Língua Portuguesa IV - 186"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2018"></Students>
     </Hour>
     <Hour name="10:15 - 11:05">
-     
+     <Subject name="Língua Portuguesa IV - 186"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2018"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Subject name="Língua Portuguesa IV - 186"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2018"></Students>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     
+     <Subject name="Língua Portuguesa e Literatura I - 1069"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="14:00 - 14:50">
-     
+     <Subject name="Língua Portuguesa e Literatura I - 1069"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
@@ -12225,7 +12225,7 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     <Subject name="Língua Estrangeira Moderna - Espanhol - 1254"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
      
@@ -12234,22 +12234,22 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Subject name="Língua Portuguesa IV - 186"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2018"></Students>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Língua Portuguesa IV - 186"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2018"></Students>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Língua Portuguesa IV - 186"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2018"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Subject name="Língua Portuguesa e Literatura II - 1226"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Subject name="Língua Portuguesa e Literatura II - 1226"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
@@ -12284,7 +12284,7 @@
    </Day>
    <Day name="Quinta-Feira">
     <Hour name="07:30 - 08:20">
-     <Subject name="Língua Estrang. Moderna I-Espanhol (Opc.) - 162"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2019"></Students>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
      
@@ -12296,10 +12296,10 @@
      
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Língua Portuguesa e Literatura II - 1226"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Língua Portuguesa e Literatura II - 1226"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -12343,19 +12343,19 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Subject name="Língua Portuguesa e Literatura I - 1069"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Subject name="Língua Portuguesa e Literatura I - 1069"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     
+     <Subject name="Língua Portuguesa e Literatura I - 1069"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="10:15 - 11:05">
-     
+     <Subject name="Língua Portuguesa e Literatura I - 1069"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
      
@@ -12373,10 +12373,10 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     
+     <Subject name="Língua Portuguesa e Literatura II - 1226"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="15:55 - 16:45">
-     
+     <Subject name="Língua Portuguesa e Literatura II - 1226"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -12463,10 +12463,10 @@
   <Teacher name="Milton Aparecido Azevedo">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Subject name="História I - 626"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Subject name="História I - 626"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -12682,7 +12682,7 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Ética profissional, cidadania e direitos humanos - 87"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
      
@@ -12691,18 +12691,18 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Ética profissional, cidadania e direitos humanos - 87"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Ética profissional, cidadania e direitos humanos - 87"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     
+     <Subject name="História I - 626"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
     </Hour>
     <Hour name="08:20 - 09:10">
-     
+     <Subject name="História I - 626"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -12741,19 +12741,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Sociologia da educação - 1303"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Sociologia da educação - 1303"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Sociologia da educação - 1303"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Sociologia da educação - 1303"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -12834,7 +12834,7 @@
      <Subject name="Filosofia I - 464"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Filosofia 3 - 204"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2019-3ANO"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -13217,19 +13217,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Projetos Elétricos Industriais - 346"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2020"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Projetos Elétricos Industriais - 346"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Eletrônica de Potência - 793"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Eletrônica de Potência - 793"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -13276,10 +13276,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Projetos Elétricos Industriais - 794"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Projetos Elétricos Industriais - 794"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -13335,19 +13335,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Robótica Aplicada - 350"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2020"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Robótica Aplicada - 350"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Acionamentos Elétricos - 1132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Acionamentos Elétricos - 1132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -13394,10 +13394,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Eletrônica de Potência - 793"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Eletrônica de Potência - 793"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -13453,19 +13453,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Projetos Elétricos Industriais - 346"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2020"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Projetos Elétricos Industriais - 346"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Acionamentos Elétricos - 1132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Acionamentos Elétricos - 1132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -13531,10 +13531,10 @@
   <Teacher name="Octavio Henrique Viana">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Subject name="Mecanização Agrícola, Irrigação e Drenagem - 1096"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Subject name="Mecanização Agrícola, Irrigação e Drenagem - 1096"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -13561,10 +13561,10 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Subject name="Desenho técnico e topografia - 469"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Subject name="Desenho técnico e topografia - 469"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -13602,7 +13602,7 @@
      
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Orientação de estágio supervisionado - 1097"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
      
@@ -13620,10 +13620,10 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     
+     <Subject name="Desenho técnico e topografia - 469"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
     </Hour>
     <Hour name="15:55 - 16:45">
-     
+     <Subject name="Desenho técnico e topografia - 469"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -13649,10 +13649,10 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     
+     <Subject name="Mecanização Agrícola, Irrigação e Drenagem - 1096"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
     </Hour>
     <Hour name="08:20 - 09:10">
-     
+     <Subject name="Mecanização Agrícola, Irrigação e Drenagem - 1096"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -14076,10 +14076,10 @@
      
     </Hour>
     <Hour name="10:15 - 11:05">
-     
+     <Subject name="Administração de Sistemas Operacionais e Redes - 1236"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
-     
+     <Subject name="Administração de Sistemas Operacionais e Redes - 1236"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -14106,10 +14106,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Projeto Integrador - 720"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Projeto Integrador - 720"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -14144,10 +14144,10 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     <Subject name="Administração de Sistemas Operacionais e Redes - 1236"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="14:00 - 14:50">
-     <Subject name="Administração de Sistemas Operacionais e Redes - 1236"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
@@ -14165,7 +14165,7 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Apresentação do Projeto Integrador - 729"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2019-2-2SEM"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
      
@@ -14174,10 +14174,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Projeto Integrador - 720"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Projeto Integrador - 720"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2020-1-1SEM"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -14252,10 +14252,10 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Subject name="Laboratório de Banco de Dados - 1238"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Laboratório de Banco de Dados - 1238"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
      
@@ -14471,18 +14471,18 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Informática Instrumental e Sistemas de Informação - 696"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2021-2"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Informática Instrumental e Sistemas de Informação - 696"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TDS2021-2"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     
+     <Subject name="Laboratório de Banco de Dados - 1238"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="08:20 - 09:10">
-     
+     <Subject name="Laboratório de Banco de Dados - 1238"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -14641,19 +14641,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Estágio curricular supervisionado em ciências II - 2039"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Estágio curricular supervisionado em ciências II - 2039"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Estágio curricular supervisionado em biologia II - 1421"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Estágio curricular supervisionado em biologia II - 1421"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
+     
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -14700,19 +14700,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Estágio curricular supervisionado em biologia II - 1421"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Estágio curricular supervisionado em biologia II - 1421"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Fisiologia animal comparada - 506"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Fisiologia animal comparada - 506"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
+     
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -14768,10 +14768,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Fisiologia animal comparada - 506"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Fisiologia animal comparada - 506"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -14818,19 +14818,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Fisiologia animal comparada - 506"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Fisiologia animal comparada - 506"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Estágio curricular supervisionado em ciências II - 2039"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
+     <Subject name="Fisiologia animal comparada - 506"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Estágio curricular supervisionado em ciências II - 2039"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2019"></Students>
+     <Subject name="Fisiologia animal comparada - 506"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="BIO2018"></Students>
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -14964,13 +14964,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Subject name="Língua Portuguesa e Literatura II - 613"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Língua Portuguesa e Literatura II - 613"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Língua Portuguesa e Literatura II - 613"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -15023,13 +15023,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Subject name="Língua Portuguesa e Literatura I - 455"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
+     <Subject name="Língua Portuguesa e Literatura II - 613"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Língua Portuguesa e Literatura I - 455"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
+     <Subject name="Língua Portuguesa e Literatura II - 613"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Língua Portuguesa e Literatura I - 455"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
+     <Subject name="Língua Portuguesa e Literatura II - 613"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -15073,10 +15073,10 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     
+     <Subject name="Língua Portuguesa III - 158"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2019"></Students>
     </Hour>
     <Hour name="08:20 - 09:10">
-     
+     <Subject name="Língua Portuguesa III - 158"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2019"></Students>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -15141,13 +15141,13 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     
+     <Subject name="Língua Portuguesa e Literatura I - 455"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Língua Portuguesa III - 158"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2019"></Students>
+     <Subject name="Língua Portuguesa e Literatura I - 455"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Língua Portuguesa III - 158"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="IIN2019"></Students>
+     <Subject name="Língua Portuguesa e Literatura I - 455"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -15726,19 +15726,19 @@
    </Day>
    <Day name="Terça-Feira">
     <Hour name="07:30 - 08:20">
-     <Subject name="Linguagens de apresentação e estruturação de conteúdos - 1074"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Subject name="Linguagens de apresentação e estruturação de conteúdos - 1074"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Subject name="Linguagens de apresentação e estruturação de conteúdos - 1074"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Linguagens de apresentação e estruturação de conteúdos - 1074"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
      
@@ -15806,19 +15806,19 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     
+     <Subject name="Linguagens de apresentação e estruturação de conteúdos - 1074"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="14:00 - 14:50">
-     
+     <Subject name="Linguagens de apresentação e estruturação de conteúdos - 1074"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     
+     <Subject name="Linguagens de apresentação e estruturação de conteúdos - 1074"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="15:55 - 16:45">
-     
+     <Subject name="Linguagens de apresentação e estruturação de conteúdos - 1074"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2021"></Students>
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -16388,10 +16388,10 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     
+     <Subject name="Geografia I - 1233"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="10:15 - 11:05">
-     
+     <Subject name="Geografia I - 1233"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="11:05 - 11:55">
      
@@ -16615,10 +16615,10 @@
    </Day>
    <Day name="Sexta-Feira">
     <Hour name="07:30 - 08:20">
-     <Subject name="Geografia I - 1233"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Subject name="Geografia I - 1233"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -16777,19 +16777,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Piscicultura e Apicultura - 1471"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Piscicultura e Apicultura - 1471"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Piscicultura e Apicultura - 1471"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Piscicultura e Apicultura - 1471"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -16836,10 +16836,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Piscicultura e Apicultura - 1471"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Piscicultura e Apicultura - 1471"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -16963,10 +16963,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Piscicultura e Apicultura - 1471"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Piscicultura e Apicultura - 1471"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -17001,10 +17001,10 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Subject name="Meteorologia e Bioclimatologia na Agropecuária - 631"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Subject name="Meteorologia e Bioclimatologia na Agropecuária - 631"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -17091,10 +17091,10 @@
   <Teacher name="Sérgio Augusto Dias Castro">
    <Day name="Segunda-Feira">
     <Hour name="07:30 - 08:20">
-     <Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -17162,10 +17162,10 @@
      
     </Hour>
     <Hour name="10:15 - 11:05">
-     <Subject name="Matemática II - 622"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
+     
     </Hour>
     <Hour name="11:05 - 11:55">
-     <Subject name="Matemática II - 622"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
+     
     </Hour>
     <Hour name="Intervalo (11:55 - 13:10)">
      
@@ -17209,10 +17209,10 @@
    </Day>
    <Day name="Quarta-Feira">
     <Hour name="07:30 - 08:20">
-     
+     <Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="08:20 - 09:10">
-     
+     <Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -17357,10 +17357,10 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     <Subject name="Matemática II - 622"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Subject name="Matemática II - 1231"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="IIW2020"></Students>
+     <Subject name="Matemática II - 622"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2020"></Students>
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -17378,10 +17378,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Matemática Aplicada - 10"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TADS2020"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Matemática Aplicada - 10"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="TADS2020"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -17489,10 +17489,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Tecnologia dos Materiais - 343"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Tecnologia dos Materiais - 343"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -17627,7 +17627,7 @@
      
     </Hour>
     <Hour name="08:20 - 09:10">
-     <Subject name="Metrologia - 1550"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Students name="EIN2020-2ANO"></Students>
+     
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -17666,10 +17666,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Tecnologia dos Materiais - 343"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Tecnologia dos Materiais - 343"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -17972,10 +17972,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Culturas I - 1472"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Culturas I - 1472"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
+     
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -18031,10 +18031,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Culturas I - 1472"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Culturas I - 1472"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -18081,19 +18081,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Culturas I - 1472"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Culturas I - 1472"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Culturas I - 1472"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
+     
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Culturas I - 1472"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
+     
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -18218,10 +18218,10 @@
    </Day>
    <Day name="Terça-Feira">
     <Hour name="07:30 - 08:20">
-     
+     <Subject name="Agroecologia e DRS - 470"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
     </Hour>
     <Hour name="08:20 - 09:10">
-     
+     <Subject name="Agroecologia e DRS - 470"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
     </Hour>
     <Hour name="Intervalo (09:10 - 09:25)">
      
@@ -18248,10 +18248,10 @@
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Subject name="Horticultura - 1090"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Subject name="Horticultura - 1090"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -18298,19 +18298,19 @@
      
     </Hour>
     <Hour name="13:10 - 14:00">
-     
+     <Subject name="Horticultura - 1090"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
     </Hour>
     <Hour name="14:00 - 14:50">
-     
+     <Subject name="Horticultura - 1090"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2019"></Students>
     </Hour>
     <Hour name="Intervalo (14:50 - 15:05)">
      
     </Hour>
     <Hour name="15:05 - 15:55">
-     <Subject name="Agroecologia e DRS - 470"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
+     
     </Hour>
     <Hour name="15:55 - 16:45">
-     <Subject name="Agroecologia e DRS - 470"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (16:45 - 18:10)">
      
@@ -18328,10 +18328,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Fertilidade, Manejo e Conservação dos Solos - 1473"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Fertilidade, Manejo e Conservação dos Solos - 1473"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -18345,7 +18345,7 @@
      
     </Hour>
     <Hour name="09:25 - 10:15">
-     <Subject name="Educação postural e Segurança no trabalho - 471"></Subject><Activity_Tag name="Matutino"></Activity_Tag><Activity_Tag name="Vespertino"></Activity_Tag><Students name="AGO2021"></Students>
+     
     </Hour>
     <Hour name="10:15 - 11:05">
      
@@ -18378,10 +18378,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Fertilidade, Manejo e Conservação dos Solos - 1473"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Fertilidade, Manejo e Conservação dos Solos - 1473"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -18437,19 +18437,19 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Fertilidade, Manejo e Conservação dos Solos - 1473"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Fertilidade, Manejo e Conservação dos Solos - 1473"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Fertilidade, Manejo e Conservação dos Solos - 1473"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Fertilidade, Manejo e Conservação dos Solos - 1473"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
     </Hour>
    </Day>
    <Day name="Sábado">
@@ -18557,10 +18557,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     
+     <Subject name="Metodologia Científica e Técnicas de Apresentação de Trabalhos - 1466"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     
+     <Subject name="Metodologia Científica e Técnicas de Apresentação de Trabalhos - 1466"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -18616,10 +18616,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Metodologia Científica e Técnicas de Apresentação de Trabalhos - 1466"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
+     
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Metodologia Científica e Técnicas de Apresentação de Trabalhos - 1466"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="AGR2021"></Students>
+     
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -18981,10 +18981,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     <Subject name="Eletrônica Analógica (PPC2020) - 1766"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-2SEM"></Students>
+     <Subject name="Eletrônica de Potência - 793"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     <Subject name="Eletrônica Analógica (PPC2020) - 1766"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-2SEM"></Students>
+     <Subject name="Eletrônica de Potência - 793"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
     </Hour>
    </Day>
    <Day name="Quarta-Feira">
@@ -19040,10 +19040,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Eletrônica Analógica (PPC2020) - 1766"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-2SEM"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Eletrônica Analógica (PPC2020) - 1766"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2021-2SEM"></Students>
     </Hour>
    </Day>
    <Day name="Quinta-Feira">
@@ -19099,10 +19099,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Eletrônica Analógica - 339"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Eletrônica Analógica - 339"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
     </Hour>
    </Day>
    <Day name="Sexta-Feira">
@@ -19149,10 +19149,10 @@
      
     </Hour>
     <Hour name="19:00 - 19:50">
-     <Subject name="Eletrônica Analógica - 339"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     <Subject name="Eletrônica de Potência - 793"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
     </Hour>
     <Hour name="19:50 - 20:40">
-     <Subject name="Eletrônica Analógica - 339"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELM2021"></Students>
+     <Subject name="Eletrônica de Potência - 793"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
     </Hour>
     <Hour name="Intervalo (20:40 - 21:00)">
      
@@ -19278,10 +19278,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Acionamentos Elétricos - 1132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Acionamentos Elétricos - 1132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
     </Hour>
    </Day>
    <Day name="Terça-Feira">
@@ -19514,10 +19514,10 @@
      
     </Hour>
     <Hour name="21:00 - 21:50">
-     
+     <Subject name="Acionamentos Elétricos - 1132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
     </Hour>
     <Hour name="21:50 - 22:40">
-     
+     <Subject name="Acionamentos Elétricos - 1132"></Subject><Activity_Tag name="Noturno"></Activity_Tag><Students name="ELE2019-4SEM"></Students>
     </Hour>
    </Day>
    <Day name="Sábado">

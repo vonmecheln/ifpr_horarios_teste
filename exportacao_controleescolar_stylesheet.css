@@ -10883,7 +10883,7 @@ body {
 
 
 /* Folha de estilo CSS de exportacao_controleescolar.fet
-   Folha de estilos gerada por FET 6.1.6 em 24/09/2021 19:47 */
+   Folha de estilos gerada por FET 6.1.6 em 24/09/2021 23:21 */
 
 /* Para que as páginas sejam separadas a cada duas tabelas, delete "page-break-before: always;" em "table.even_table". */
 /* Excluir "page-break-before: always;" em "table.even_table" e em "table.odd_table" para pular as quebras de página. */
@@ -12210,14 +12210,14 @@ td.c_251 { /* Activity id: 100002581 (subject) */
  color: white;
 }
 
-td.c_252 { /* Activity id: 100002580 (subject) */
- background-color: rgb(63, 23, 48);
- color: white;
-}
-
-td.c_253 { /* Activity id: 100002578 (subject) */
+td.c_252 { /* Activity id: 100002593 (subject) */
  background-color: rgb(45, 175, 253);
  color: black;
+}
+
+td.c_253 { /* Activity id: 100002580 (subject) */
+ background-color: rgb(63, 23, 48);
+ color: white;
 }
 
 td.c_254 { /* Activity id: 100002586 (subject) */
@@ -13565,14 +13565,14 @@ td.c_522 { /* Activity id: 100002581 (subject+students) */
  color: white;
 }
 
-td.c_523 { /* Activity id: 100002580 (subject+students) */
- background-color: rgb(25, 60, 111);
- color: white;
-}
-
-td.c_524 { /* Activity id: 100002578 (subject+students) */
+td.c_523 { /* Activity id: 100002593 (subject+students) */
  background-color: rgb(211, 202, 138);
  color: black;
+}
+
+td.c_524 { /* Activity id: 100002580 (subject+students) */
+ background-color: rgb(25, 60, 111);
+ color: white;
 }
 
 td.c_525 { /* Activity id: 100002586 (subject+students) */

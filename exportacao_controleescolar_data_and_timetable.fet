@@ -19579,13 +19579,6 @@
 </ConstraintTeacherNotAvailableTimes>
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Teacher>Mauro César de Souza Siena</Teacher>
-	<Number_of_Not_Available_Times>0</Number_of_Not_Available_Times>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintTeacherNotAvailableTimes>
-<ConstraintTeacherNotAvailableTimes>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Milton Aparecido Azevedo</Teacher>
 	<Number_of_Not_Available_Times>38</Number_of_Not_Available_Times>
 	<Not_Available_Time>
@@ -20182,13 +20175,6 @@
 		<Day>Sexta-Feira</Day>
 		<Hour>21:50 - 22:40</Hour>
 	</Not_Available_Time>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintTeacherNotAvailableTimes>
-<ConstraintTeacherNotAvailableTimes>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Teacher>Paula Letícia Santos Lima</Teacher>
-	<Number_of_Not_Available_Times>0</Number_of_Not_Available_Times>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTeacherNotAvailableTimes>

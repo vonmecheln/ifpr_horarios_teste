@@ -1,4 +1,4 @@
-﻿Geração iniciada em: 26/09/2021 00:31
+﻿Geração iniciada em: 26/09/2021 12:28
 
 A semente aleatória no início da geração é:
 	s10=0, s11=1, s12=2,

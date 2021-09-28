@@ -5855,13 +5855,13 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Celina de Oliveira Barbosa Gomes</Teacher>
+	<Teacher>Keyla Christina Almeida Portela</Teacher>
 	<Subject>Inglês Instrumental - 9</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>TADS2020</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
-	<Id>100002562</Id>
+	<Id>100002598</Id>
 	<Activity_Group_Id>9279</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -21672,7 +21672,7 @@
 	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
 	<Number_of_Activities>2</Number_of_Activities>
 	<Activity_Id>100002259</Activity_Id>
-	<Activity_Id>100002562</Activity_Id>
+	<Activity_Id>100002598</Activity_Id>
 	<MinDays>1</MinDays>
 	<Active>true</Active>
 	<Comments>Arranjo de TADS 20/21: Algoritmos e Estrutura de Dados - 4 e Inglês Instrumental - 9</Comments>
@@ -24534,9 +24534,9 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002562</Activity_Id>
+	<Activity_Id>100002598</Activity_Id>
 	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24590,7 +24590,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002472</Activity_Id>
 	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>

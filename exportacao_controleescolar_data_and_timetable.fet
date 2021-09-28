@@ -357,10 +357,6 @@
 	<Comments>Apresentação do Projeto Integrador</Comments>
 </Subject>
 <Subject>
-	<Name>Desenvolvimento WEB - 721</Name>
-	<Comments>Desenvolvimento WEB</Comments>
-</Subject>
-<Subject>
 	<Name>Desenvolvimento para Dispositivos Móveis - 722</Name>
 	<Comments>Desenvolvimento para Dispositivos Móveis</Comments>
 </Subject>
@@ -383,10 +379,6 @@
 <Subject>
 	<Name>Programação para Sistemas Embarcados - 725</Name>
 	<Comments>Programação para Sistemas Embarcados</Comments>
-</Subject>
-<Subject>
-	<Name>Projeto Integrador - 720</Name>
-	<Comments>Projeto Integrador</Comments>
 </Subject>
 <Subject>
 	<Name>Sociedade, Educação, Ética Profissional e o Mundo do Trabalho - 702</Name>
@@ -1812,6 +1804,13 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
+	<Name>Marcia Aparecida Barbosa</Name>
+	<Target_Number_of_Hours>20</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
 	<Name>Mauro César de Souza Siena</Name>
 	<Target_Number_of_Hours>20</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -3058,6 +3057,18 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
+	<Teacher>Marcia Aparecida Barbosa</Teacher>
+	<Subject>Metodologia Científica e Técnicas de Apresentação de Trabalhos - 1466</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>AGR2021</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100002596</Id>
+	<Activity_Group_Id>1466395</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
 	<Teacher>Octavio Henrique Viana</Teacher>
 	<Subject>Topografia e Geoprocessamento - 1467</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
@@ -3138,18 +3149,6 @@
 	<Total_Duration>4</Total_Duration>
 	<Id>200002192</Id>
 	<Activity_Group_Id>1473395</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Tiago Amaral Silva</Teacher>
-	<Subject>Metodologia Científica e Técnicas de Apresentação de Trabalhos - 1466</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>AGR2021</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>100002215</Id>
-	<Activity_Group_Id>1466395</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -3466,18 +3465,6 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Cesar Gomes de Freitas</Teacher>
-	<Subject>Metodologia da pesquisa - 73</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>BIO2020</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>100002047</Id>
-	<Activity_Group_Id>73270</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
 	<Teacher>Douglas Barbosa Sousa</Teacher>
 	<Subject>PCCC 4 - Tecnologia da informação e comunicação na educação - 783</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
@@ -3522,6 +3509,18 @@
 	<Total_Duration>2</Total_Duration>
 	<Id>100002043</Id>
 	<Activity_Group_Id>886270</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Marcia Aparecida Barbosa</Teacher>
+	<Subject>Metodologia da pesquisa - 73</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>BIO2020</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100002597</Id>
+	<Activity_Group_Id>73270</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -6073,42 +6072,6 @@
 </Activity>
 <Activity>
 	<Teacher>Luis Henrique Manosso Von Mecheln</Teacher>
-	<Subject>Desenvolvimento WEB - 721</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>TDS2019-2-2SEM</Students>
-	<Duration>2</Duration>
-	<Total_Duration>6</Total_Duration>
-	<Id>100002581</Id>
-	<Activity_Group_Id>721205</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Luis Henrique Manosso Von Mecheln</Teacher>
-	<Subject>Desenvolvimento WEB - 721</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>TDS2019-2-2SEM</Students>
-	<Duration>2</Duration>
-	<Total_Duration>6</Total_Duration>
-	<Id>200002581</Id>
-	<Activity_Group_Id>721205</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Luis Henrique Manosso Von Mecheln</Teacher>
-	<Subject>Desenvolvimento WEB - 721</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>TDS2019-2-2SEM</Students>
-	<Duration>2</Duration>
-	<Total_Duration>6</Total_Duration>
-	<Id>300002581</Id>
-	<Activity_Group_Id>721205</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Luis Henrique Manosso Von Mecheln</Teacher>
 	<Subject>Desenvolvimento para Dispositivos Móveis - 722</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>TDS2019-2-2SEM</Students>
@@ -6200,18 +6163,6 @@
 	<Total_Duration>4</Total_Duration>
 	<Id>200002584</Id>
 	<Activity_Group_Id>719290</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Olavo José Luiz Junior</Teacher>
-	<Subject>Projeto Integrador - 720</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>TDS2020-1-1SEM</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>100002585</Id>
-	<Activity_Group_Id>720290</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -17148,13 +17099,6 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTwoActivitiesConsecutive>
-<ConstraintTwoActivitiesOrderedIfSameDay>
-	<Weight_Percentage>100</Weight_Percentage>
-	<First_Activity_Id>100002581</First_Activity_Id>
-	<Second_Activity_Id>200002581</Second_Activity_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintTwoActivitiesOrderedIfSameDay>
 <ConstraintTwoActivitiesConsecutive>
 	<Weight_Percentage>100</Weight_Percentage>
 	<First_Activity_Id>100002593</First_Activity_Id>
@@ -21713,14 +21657,6 @@
 	<Active>true</Active>
 	<Comments>Arranjo TADS: 2021</Comments>
 </ConstraintTwoActivitiesConsecutive>
-<ConstraintActivitiesSameStartingDay>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Number_of_Activities>2</Number_of_Activities>
-	<Activity_Id>100002581</Activity_Id>
-	<Activity_Id>200002581</Activity_Id>
-	<Active>true</Active>
-	<Comments>Arranjo TADS: 2021</Comments>
-</ConstraintActivitiesSameStartingDay>
 <ConstraintMinDaysBetweenActivities>
 	<Weight_Percentage>95</Weight_Percentage>
 	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
@@ -21959,12 +21895,9 @@
 </ConstraintTwoActivitiesConsecutive>
 <ConstraintActivitiesNotOverlapping>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Number_of_Activities>8</Number_of_Activities>
+	<Number_of_Activities>5</Number_of_Activities>
 	<Activity_Id>100002255</Activity_Id>
 	<Activity_Id>100002262</Activity_Id>
-	<Activity_Id>100002581</Activity_Id>
-	<Activity_Id>200002581</Activity_Id>
-	<Activity_Id>300002581</Activity_Id>
 	<Activity_Id>100002578</Activity_Id>
 	<Activity_Id>200002578</Activity_Id>
 	<Activity_Id>100002257</Activity_Id>
@@ -22612,15 +22545,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002215</Activity_Id>
-	<Preferred_Day>Sexta-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002056</Activity_Id>
 	<Preferred_Day>Quinta-Feira</Preferred_Day>
 	<Preferred_Hour>19:50 - 20:40</Preferred_Hour>
@@ -22848,15 +22772,6 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200002040</Activity_Id>
 	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002047</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -24781,33 +24696,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002581</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>200002581</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>300002581</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002593</Activity_Id>
 	<Preferred_Day>Terça-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
@@ -24874,15 +24762,6 @@
 	<Activity_Id>200002584</Activity_Id>
 	<Preferred_Day>Terça-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002585</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -25081,6 +24960,24 @@
 	<Activity_Id>100002377</Activity_Id>
 	<Preferred_Day>Terça-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002596</Activity_Id>
+	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002597</Activity_Id>
+	<Preferred_Day>Segunda-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>

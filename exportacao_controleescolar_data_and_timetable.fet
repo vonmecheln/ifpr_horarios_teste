@@ -20928,7 +20928,7 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Sônia Maria Mandotti</Teacher>
-	<Number_of_Not_Available_Times>36</Number_of_Not_Available_Times>
+	<Number_of_Not_Available_Times>34</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>07:30 - 08:20</Hour>
@@ -20996,14 +20996,6 @@
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>Intervalo (20:40 - 21:00)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>21:00 - 21:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>21:50 - 22:40</Hour>
 	</Not_Available_Time>
 	<Not_Available_Time>
 		<Day>Terça-Feira</Day>
@@ -22222,8 +22214,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002210</Activity_Id>
-	<Preferred_Day>Sexta-Feira</Preferred_Day>
-	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
+	<Preferred_Hour>13:10 - 14:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -22276,8 +22268,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002179</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>13:10 - 14:00</Preferred_Hour>
+	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -22501,7 +22493,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200002212</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
+	<Preferred_Day>Quinta-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -22519,7 +22511,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200002203</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Day>Segunda-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>

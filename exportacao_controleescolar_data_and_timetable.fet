@@ -153,6 +153,10 @@
 	<Comments>Anatomia e morfologia vegetal</Comments>
 </Subject>
 <Subject>
+	<Name>Biofísica - 2096</Name>
+	<Comments>Biofísica</Comments>
+</Subject>
+<Subject>
 	<Name>Biogeografia - 492</Name>
 	<Comments>Biogeografia</Comments>
 </Subject>
@@ -191,6 +195,10 @@
 <Subject>
 	<Name>Metodologia da pesquisa - 73</Name>
 	<Comments>Metodologia da pesquisa</Comments>
+</Subject>
+<Subject>
+	<Name>Microbiologia e Imunologia - 2100</Name>
+	<Comments>Microbiologia e Imunologia</Comments>
 </Subject>
 <Subject>
 	<Name>Optativa 1 - 1179</Name>
@@ -3561,6 +3569,18 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
+	<Teacher>Cesar Gomes de Freitas</Teacher>
+	<Subject>Manutenção Industrial e Gestão da Produção - 1592</Subject>
+	<Activity_Tag>Matutino</Activity_Tag>
+	<Students>EIN2018-4ANO</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>100002602</Id>
+	<Activity_Group_Id>159289</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
 	<Teacher>Edvaldo Luis Rossini</Teacher>
 	<Subject>Química 4 - 235</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
@@ -3581,18 +3601,6 @@
 	<Total_Duration>1</Total_Duration>
 	<Id>100002392</Id>
 	<Activity_Group_Id>23889</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Fábio Fernandes da Silva</Teacher>
-	<Subject>Manutenção Industrial e Gestão da Produção - 1592</Subject>
-	<Activity_Tag>Matutino</Activity_Tag>
-	<Students>EIN2018-4ANO</Students>
-	<Duration>1</Duration>
-	<Total_Duration>1</Total_Duration>
-	<Id>100002348</Id>
-	<Activity_Group_Id>159289</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -16989,6 +16997,13 @@
 </ConstraintTwoActivitiesOrderedIfSameDay>
 <ConstraintTwoActivitiesOrderedIfSameDay>
 	<Weight_Percentage>100</Weight_Percentage>
+	<First_Activity_Id>100002276</First_Activity_Id>
+	<Second_Activity_Id>200002276</Second_Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTwoActivitiesOrderedIfSameDay>
+<ConstraintTwoActivitiesOrderedIfSameDay>
+	<Weight_Percentage>100</Weight_Percentage>
 	<First_Activity_Id>100002094</First_Activity_Id>
 	<Second_Activity_Id>200002094</Second_Activity_Id>
 	<Active>true</Active>
@@ -21456,8 +21471,485 @@
 	<Activity_Id>100002467</Activity_Id>
 	<MinDays>1</MinDays>
 	<Active>true</Active>
-	<Comments></Comments>
+	<Comments>Arranjo TDS</Comments>
 </ConstraintMinDaysBetweenActivities>
+<ConstraintActivityPreferredTimeSlots>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002583</Activity_Id>
+	<Number_of_Preferred_Time_Slots>38</Number_of_Preferred_Time_Slots>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (09:10 - 09:25)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (11:55 - 13:10)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>13:10 - 14:00</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>14:00 - 14:50</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (14:50 - 15:05)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>15:05 - 15:55</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>15:55 - 16:45</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (16:45 - 18:10)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>18:10 - 19:00</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>19:50 - 20:40</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (20:40 - 21:00)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>21:50 - 22:40</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (09:10 - 09:25)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (11:55 - 13:10)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>13:10 - 14:00</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>14:00 - 14:50</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (14:50 - 15:05)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>15:05 - 15:55</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>15:55 - 16:45</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (16:45 - 18:10)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>18:10 - 19:00</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>19:50 - 20:40</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (20:40 - 21:00)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>21:50 - 22:40</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Active>true</Active>
+	<Comments>Arranjo TDS</Comments>
+</ConstraintActivityPreferredTimeSlots>
+<ConstraintActivityPreferredTimeSlots>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>200002583</Activity_Id>
+	<Number_of_Preferred_Time_Slots>38</Number_of_Preferred_Time_Slots>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (09:10 - 09:25)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (11:55 - 13:10)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>13:10 - 14:00</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>14:00 - 14:50</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (14:50 - 15:05)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>15:05 - 15:55</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>15:55 - 16:45</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (16:45 - 18:10)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>18:10 - 19:00</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>19:50 - 20:40</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (20:40 - 21:00)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>21:50 - 22:40</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (09:10 - 09:25)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (11:55 - 13:10)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>13:10 - 14:00</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>14:00 - 14:50</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (14:50 - 15:05)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>15:05 - 15:55</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>15:55 - 16:45</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (16:45 - 18:10)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>18:10 - 19:00</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>19:50 - 20:40</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (20:40 - 21:00)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>21:50 - 22:40</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Active>true</Active>
+	<Comments>Arranjo TDS</Comments>
+</ConstraintActivityPreferredTimeSlots>
+<ConstraintActivityPreferredTimeSlots>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>300002583</Activity_Id>
+	<Number_of_Preferred_Time_Slots>38</Number_of_Preferred_Time_Slots>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (09:10 - 09:25)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (11:55 - 13:10)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>13:10 - 14:00</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>14:00 - 14:50</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (14:50 - 15:05)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>15:05 - 15:55</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>15:55 - 16:45</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (16:45 - 18:10)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>18:10 - 19:00</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>19:50 - 20:40</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (20:40 - 21:00)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Terça-Feira</Preferred_Day>
+		<Preferred_Hour>21:50 - 22:40</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (09:10 - 09:25)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (11:55 - 13:10)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>13:10 - 14:00</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>14:00 - 14:50</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (14:50 - 15:05)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>15:05 - 15:55</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>15:55 - 16:45</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (16:45 - 18:10)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>18:10 - 19:00</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>19:50 - 20:40</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>Intervalo (20:40 - 21:00)</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Preferred_Time_Slot>
+		<Preferred_Day>Quinta-Feira</Preferred_Day>
+		<Preferred_Hour>21:50 - 22:40</Preferred_Hour>
+	</Preferred_Time_Slot>
+	<Active>true</Active>
+	<Comments>Arranjo TDS</Comments>
+</ConstraintActivityPreferredTimeSlots>
 <ConstraintActivitiesSameStartingDay>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Number_of_Activities>2</Number_of_Activities>
@@ -21472,14 +21964,6 @@
 	<Activity_Id>100002258</Activity_Id>
 	<Activity_Id>100002264</Activity_Id>
 	<Active>true</Active>
-	<Comments>Arranjo TADS: 2021</Comments>
-</ConstraintActivitiesSameStartingDay>
-<ConstraintActivitiesSameStartingDay>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Number_of_Activities>2</Number_of_Activities>
-	<Activity_Id>100002584</Activity_Id>
-	<Activity_Id>200002584</Activity_Id>
-	<Active>false</Active>
 	<Comments>Arranjo TADS: 2021</Comments>
 </ConstraintActivitiesSameStartingDay>
 <ConstraintTwoActivitiesConsecutive>
@@ -22005,6 +22489,17 @@
 	<Active>true</Active>
 	<Comments>Arranjo TADS: Afastamento Bartz - Telecomunicações e Geoprocessamento - 24 X Desenvolvimento para Dispositivos Móveis - 19</Comments>
 </ConstraintTwoActivitiesConsecutive>
+<ConstraintMinDaysBetweenActivities>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
+	<Number_of_Activities>3</Number_of_Activities>
+	<Activity_Id>100002256</Activity_Id>
+	<Activity_Id>100002246</Activity_Id>
+	<Activity_Id>100002257</Activity_Id>
+	<MinDays>1</MinDays>
+	<Active>true</Active>
+	<Comments>Arranjo TADS: Afastamento Bartz</Comments>
+</ConstraintMinDaysBetweenActivities>
 <ConstraintActivitiesNotOverlapping>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Number_of_Activities>5</Number_of_Activities>
@@ -22594,6 +23089,15 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002596</Activity_Id>
+	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002198</Activity_Id>
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
@@ -22927,6 +23431,15 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002597</Activity_Id>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002388</Activity_Id>
 	<Preferred_Day>Sexta-Feira</Preferred_Day>
 	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
@@ -22965,15 +23478,6 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002392</Activity_Id>
 	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002348</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
 	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -24521,10 +25025,10 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002249</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
-	<Active>false</Active>
+	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
@@ -24539,10 +25043,10 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200002250</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Hour>19:50 - 20:40</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
-	<Active>false</Active>
+	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
@@ -24566,10 +25070,10 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002263</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>19:50 - 20:40</Preferred_Hour>
+	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
-	<Active>false</Active>
+	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
@@ -24584,28 +25088,28 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002257</Activity_Id>
-	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Day>Quinta-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
-	<Active>false</Active>
+	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002246</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Day>Segunda-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
-	<Active>false</Active>
+	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200002246</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Day>Segunda-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
-	<Active>false</Active>
+	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
@@ -24648,9 +25152,9 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002598</Activity_Id>
 	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
-	<Active>false</Active>
+	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
@@ -24701,10 +25205,10 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002472</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
+	<Preferred_Day>Segunda-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
-	<Active>false</Active>
+	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
@@ -24737,19 +25241,19 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002259</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
-	<Active>false</Active>
+	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200002259</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
-	<Active>false</Active>
+	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
@@ -24821,7 +25325,7 @@
 	<Preferred_Day>Terça-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
-	<Active>false</Active>
+	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
@@ -24839,7 +25343,7 @@
 	<Preferred_Day>Quinta-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
-	<Active>false</Active>
+	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
@@ -24854,10 +25358,10 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>300002583</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
-	<Active>false</Active>
+	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
@@ -25076,625 +25580,11 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredTimeSlots>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002583</Activity_Id>
-	<Number_of_Preferred_Time_Slots>38</Number_of_Preferred_Time_Slots>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (09:10 - 09:25)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (11:55 - 13:10)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>13:10 - 14:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>14:00 - 14:50</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (14:50 - 15:05)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>15:05 - 15:55</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>15:55 - 16:45</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (16:45 - 18:10)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>18:10 - 19:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>19:50 - 20:40</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (20:40 - 21:00)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>21:50 - 22:40</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (09:10 - 09:25)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (11:55 - 13:10)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>13:10 - 14:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>14:00 - 14:50</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (14:50 - 15:05)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>15:05 - 15:55</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>15:55 - 16:45</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (16:45 - 18:10)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>18:10 - 19:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>19:50 - 20:40</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (20:40 - 21:00)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>21:50 - 22:40</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredTimeSlots>
-<ConstraintActivityPreferredTimeSlots>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>200002583</Activity_Id>
-	<Number_of_Preferred_Time_Slots>38</Number_of_Preferred_Time_Slots>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (09:10 - 09:25)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (11:55 - 13:10)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>13:10 - 14:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>14:00 - 14:50</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (14:50 - 15:05)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>15:05 - 15:55</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>15:55 - 16:45</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (16:45 - 18:10)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>18:10 - 19:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>19:50 - 20:40</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (20:40 - 21:00)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>21:50 - 22:40</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (09:10 - 09:25)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (11:55 - 13:10)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>13:10 - 14:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>14:00 - 14:50</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (14:50 - 15:05)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>15:05 - 15:55</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>15:55 - 16:45</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (16:45 - 18:10)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>18:10 - 19:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>19:50 - 20:40</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (20:40 - 21:00)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>21:50 - 22:40</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredTimeSlots>
-<ConstraintActivityPreferredTimeSlots>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>300002583</Activity_Id>
-	<Number_of_Preferred_Time_Slots>38</Number_of_Preferred_Time_Slots>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (09:10 - 09:25)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (11:55 - 13:10)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>13:10 - 14:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>14:00 - 14:50</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (14:50 - 15:05)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>15:05 - 15:55</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>15:55 - 16:45</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (16:45 - 18:10)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>18:10 - 19:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>19:50 - 20:40</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (20:40 - 21:00)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Terça-Feira</Preferred_Day>
-		<Preferred_Hour>21:50 - 22:40</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (09:10 - 09:25)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (11:55 - 13:10)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>13:10 - 14:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>14:00 - 14:50</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (14:50 - 15:05)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>15:05 - 15:55</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>15:55 - 16:45</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (16:45 - 18:10)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>18:10 - 19:00</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>19:50 - 20:40</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>Intervalo (20:40 - 21:00)</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Preferred_Time_Slot>
-		<Preferred_Day>Quinta-Feira</Preferred_Day>
-		<Preferred_Hour>21:50 - 22:40</Preferred_Hour>
-	</Preferred_Time_Slot>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredTimeSlots>
-<ConstraintMinDaysBetweenActivities>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
-	<Number_of_Activities>3</Number_of_Activities>
-	<Activity_Id>100002256</Activity_Id>
-	<Activity_Id>100002246</Activity_Id>
-	<Activity_Id>100002257</Activity_Id>
-	<MinDays>1</MinDays>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintMinDaysBetweenActivities>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002597</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002596</Activity_Id>
-	<Preferred_Day>Sexta-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002249</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>200002250</Activity_Id>
-	<Preferred_Day>Sexta-Feira</Preferred_Day>
-	<Preferred_Hour>19:50 - 20:40</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002263</Activity_Id>
-	<Preferred_Day>Sexta-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002257</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002246</Activity_Id>
+	<Activity_Id>100002602</Activity_Id>
 	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>200002246</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002598</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002472</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002259</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>200002259</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>200002593</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002583</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>300002583</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>

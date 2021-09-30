@@ -10883,7 +10883,7 @@ body {
 
 
 /* Folha de estilo CSS de exportacao_controleescolar.fet
-   Folha de estilos gerada por FET 6.1.6 em 29/09/2021 19:16 */
+   Folha de estilos gerada por FET 6.1.6 em 30/09/2021 02:19 */
 
 /* Para que as páginas sejam separadas a cada duas tabelas, delete "page-break-before: always;" em "table.even_table". */
 /* Excluir "page-break-before: always;" em "table.even_table" e em "table.odd_table" para pular as quebras de página. */
@@ -13786,4 +13786,24 @@ body {
 
 th.xAxis {
     white-space: nowrap !important;
+}
+
+div.studentsset a {
+	color: inherit;
+	text-decoration: none;
+}
+
+div.studentsset a:hover {
+	color: #0d6efd;
+	text-decoration: underline;
+}
+
+div.teacher a {
+	color: inherit;
+	text-decoration: none;
+}
+
+div.teacher a:hover {
+	color: #0d6efd;
+	text-decoration: underline;
 }

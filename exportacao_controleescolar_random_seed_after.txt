@@ -1,4 +1,4 @@
-﻿Geração concluída em: 30/09/2021 19:53
+﻿Geração concluída em: 30/09/2021 20:15
 
 A semente aleatória no final da geração é:
 	s10=1312608541, s11=345715392, s12=188598221,

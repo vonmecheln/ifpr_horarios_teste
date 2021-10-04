@@ -1,7 +1,7 @@
-﻿Geração concluída em: 03/10/2021 23:10
+﻿Geração concluída em: 03/10/2021 23:19
 
 A semente aleatória no final da geração é:
-	s10=542210802, s11=649229079, s12=3826168261,
-	s20=3526521428, s21=2379974706, s22=2787551831.
+	s10=1312608541, s11=345715392, s12=188598221,
+	s20=2459717902, s21=217067927, s22=1484415636.
 
 Esse arquivo foi gerado automaticamente por FET 6.1.6.

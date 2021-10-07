@@ -10883,7 +10883,7 @@ body {
 
 
 /* Folha de estilo CSS de exportacao_controleescolar.fet
-   Folha de estilos gerada por FET 6.1.6 em 05/10/2021 18:07 */
+   Folha de estilos gerada por FET 6.1.8 em 07/10/2021 14:33 */
 
 /* Para que as páginas sejam separadas a cada duas tabelas, delete "page-break-before: always;" em "table.even_table". */
 /* Excluir "page-break-before: always;" em "table.even_table" e em "table.odd_table" para pular as quebras de página. */
@@ -11205,18 +11205,18 @@ td.c_50 { /* Activity id: 100002160 (subject) */
  color: white;
 }
 
-td.c_51 { /* Activity id: 100002609 (subject) */
- background-color: rgb(141, 194, 10);
- color: black;
-}
-
-td.c_52 { /* Activity id: 100002208 (subject) */
+td.c_51 { /* Activity id: 100002208 (subject) */
  background-color: rgb(211, 39, 13);
  color: white;
 }
 
-td.c_53 { /* Activity id: 100002198 (subject) */
+td.c_52 { /* Activity id: 100002198 (subject) */
  background-color: rgb(202, 223, 145);
+ color: black;
+}
+
+td.c_53 { /* Activity id: 100002616 (subject) */
+ background-color: rgb(141, 194, 10);
  color: black;
 }
 
@@ -11320,29 +11320,29 @@ td.c_73 { /* Activity id: 100002040 (subject) */
  color: black;
 }
 
-td.c_74 { /* Activity id: 100002058 (subject) */
- background-color: rgb(62, 67, 92);
- color: white;
-}
-
-td.c_75 { /* Activity id: 100002044 (subject) */
+td.c_74 { /* Activity id: 100002044 (subject) */
  background-color: rgb(229, 73, 74);
  color: white;
 }
 
-td.c_76 { /* Activity id: 100002043 (subject) */
+td.c_75 { /* Activity id: 100002617 (subject) */
  background-color: rgb(23, 154, 139);
  color: white;
 }
 
-td.c_77 { /* Activity id: 100002597 (subject) */
+td.c_76 { /* Activity id: 100002597 (subject) */
  background-color: rgb(148, 99, 113);
  color: white;
 }
 
-td.c_78 { /* Activity id: 100002610 (subject) */
+td.c_77 { /* Activity id: 100002610 (subject) */
  background-color: rgb(144, 126, 174);
  color: black;
+}
+
+td.c_78 { /* Activity id: 100002618 (subject) */
+ background-color: rgb(62, 67, 92);
+ color: white;
 }
 
 td.c_79 { /* Activity id: 100002388 (subject) */
@@ -11685,7 +11685,7 @@ td.c_146 { /* Activity id: 100002524 (subject) */
  color: black;
 }
 
-td.c_147 { /* Activity id: 100002526 (subject) */
+td.c_147 { /* Activity id: 100002612 (subject) */
  background-color: rgb(52, 19, 143);
  color: white;
 }
@@ -12555,19 +12555,19 @@ td.c_320 { /* Activity id: 100002160 (subject+students) */
  color: white;
 }
 
-td.c_321 { /* Activity id: 100002609 (subject+students) */
- background-color: rgb(211, 153, 122);
- color: black;
-}
-
-td.c_322 { /* Activity id: 100002208 (subject+students) */
+td.c_321 { /* Activity id: 100002208 (subject+students) */
  background-color: rgb(92, 54, 64);
  color: white;
 }
 
-td.c_323 { /* Activity id: 100002198 (subject+students) */
+td.c_322 { /* Activity id: 100002198 (subject+students) */
  background-color: rgb(130, 125, 28);
  color: white;
+}
+
+td.c_323 { /* Activity id: 100002616 (subject+students) */
+ background-color: rgb(211, 153, 122);
+ color: black;
 }
 
 td.c_324 { /* Activity id: 100002212 (subject+students) */
@@ -12670,29 +12670,29 @@ td.c_343 { /* Activity id: 100002040 (subject+students) */
  color: white;
 }
 
-td.c_344 { /* Activity id: 100002058 (subject+students) */
- background-color: rgb(220, 53, 46);
- color: white;
-}
-
-td.c_345 { /* Activity id: 100002044 (subject+students) */
+td.c_344 { /* Activity id: 100002044 (subject+students) */
  background-color: rgb(164, 80, 59);
  color: white;
 }
 
-td.c_346 { /* Activity id: 100002043 (subject+students) */
+td.c_345 { /* Activity id: 100002617 (subject+students) */
  background-color: rgb(2, 160, 60);
  color: white;
 }
 
-td.c_347 { /* Activity id: 100002597 (subject+students) */
+td.c_346 { /* Activity id: 100002597 (subject+students) */
  background-color: rgb(208, 50, 95);
  color: white;
 }
 
-td.c_348 { /* Activity id: 100002610 (subject+students) */
+td.c_347 { /* Activity id: 100002610 (subject+students) */
  background-color: rgb(242, 145, 39);
  color: black;
+}
+
+td.c_348 { /* Activity id: 100002618 (subject+students) */
+ background-color: rgb(220, 53, 46);
+ color: white;
 }
 
 td.c_349 { /* Activity id: 100002388 (subject+students) */
@@ -13035,7 +13035,7 @@ td.c_416 { /* Activity id: 100002524 (subject+students) */
  color: black;
 }
 
-td.c_417 { /* Activity id: 100002526 (subject+students) */
+td.c_417 { /* Activity id: 100002612 (subject+students) */
  background-color: rgb(144, 86, 220);
  color: white;
 }

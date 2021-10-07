@@ -1,7 +1,7 @@
-﻿Geração iniciada em: 05/10/2021 18:07
+﻿Geração iniciada em: 07/10/2021 14:33
 
 A semente aleatória no início da geração é:
 	s10=0, s11=1, s12=2,
 	s20=3, s21=4, s22=5.
 
-Esse arquivo foi gerado automaticamente por FET 6.1.6.
+Esse arquivo foi gerado automaticamente por FET 6.1.8.

@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="6.1.6">
+<fet version="6.1.8">
 
 <Mode>Official</Mode>
 
@@ -197,10 +197,6 @@
 	<Comments>Metodologia da pesquisa</Comments>
 </Subject>
 <Subject>
-	<Name>Microbiologia e Imunologia - 2100</Name>
-	<Comments>Microbiologia e Imunologia</Comments>
-</Subject>
-<Subject>
 	<Name>Optativa 1 - 1179</Name>
 	<Comments>Optativa 1 </Comments>
 </Subject>
@@ -233,8 +229,8 @@
 	<Comments>Química Geral </Comments>
 </Subject>
 <Subject>
-	<Name>Química Geral e Orgânica - 2087</Name>
-	<Comments>Química Geral e Orgânica</Comments>
+	<Name>Química orgânica - 2106</Name>
+	<Comments>Química orgânica</Comments>
 </Subject>
 <Subject>
 	<Name>Sistemática vegetal II - 800</Name>
@@ -395,6 +391,10 @@
 <Subject>
 	<Name>Sociedade, Educação, Ética Profissional e o Mundo do Trabalho - 702</Name>
 	<Comments>Sociedade, Educação, Ética Profissional e o Mundo do Trabalho</Comments>
+</Subject>
+<Subject>
+	<Name>Irrigação e Drenagem - 1128</Name>
+	<Comments>Irrigação e Drenagem</Comments>
 </Subject>
 <Subject>
 	<Name>Matemática III - 2057</Name>
@@ -687,10 +687,6 @@
 <Subject>
 	<Name>Culturas I - 1472</Name>
 	<Comments>Culturas I</Comments>
-</Subject>
-<Subject>
-	<Name>Desenho técnico e instalações agropecuárias - 1456</Name>
-	<Comments>Desenho técnico e instalações agropecuárias</Comments>
 </Subject>
 <Subject>
 	<Name>Fertilidade, Manejo e Conservação dos Solos - 1473</Name>
@@ -2009,14 +2005,6 @@
 	<Separator> </Separator>
 </Year>
 <Year>
-	<Name>BIO2017</Name>
-	<Number_of_Students>40</Number_of_Students>
-	<Comments>Superior de Licenciatura em Ciências Biológicas</Comments>
-	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
-	<Number_of_Categories>0</Number_of_Categories>
-	<Separator> </Separator>
-</Year>
-<Year>
 	<Name>BIO2018</Name>
 	<Number_of_Students>40</Number_of_Students>
 	<Comments>Superior de Licenciatura em Ciências Biológicas</Comments>
@@ -3021,18 +3009,6 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Cesar Gomes de Freitas</Teacher>
-	<Subject>Metodologia Científica e Técnicas de Apresentação de Trabalhos - 1466</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>AGR2021</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>100002609</Id>
-	<Activity_Group_Id>1466395</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
 	<Teacher>Leiliane Cristine de Souza</Teacher>
 	<Subject>Forragicultura e pastagens - 1470</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
@@ -3065,6 +3041,18 @@
 	<Total_Duration>2</Total_Duration>
 	<Id>100002198</Id>
 	<Activity_Group_Id>1467395</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Pedro Leites Junior</Teacher>
+	<Subject>Metodologia Científica e Técnicas de Apresentação de Trabalhos - 1466</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>AGR2021</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100002616</Id>
+	<Activity_Group_Id>1466395</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -3453,18 +3441,6 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Douglas Barbosa Sousa</Teacher>
-	<Subject>PCCC 4 - Tecnologia da informação e comunicação na educação - 783</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>BIO2020</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>100002058</Id>
-	<Activity_Group_Id>783270</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
 	<Teacher>Karina Dias Espartosa</Teacher>
 	<Subject>Zoologia dos invertebrados I - 70</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
@@ -3489,13 +3465,13 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Leiliane Cristine de Souza</Teacher>
+	<Teacher>Luis Eduardo Gazal</Teacher>
 	<Subject>Parasitologia, higiene e saúde - 886</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>BIO2020</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
-	<Id>100002043</Id>
+	<Id>100002617</Id>
 	<Activity_Group_Id>886270</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3521,6 +3497,18 @@
 	<Total_Duration>2</Total_Duration>
 	<Id>100002610</Id>
 	<Activity_Group_Id>750270</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Marcia Aparecida Barbosa</Teacher>
+	<Subject>PCCC 4 - Tecnologia da informação e comunicação na educação - 783</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>BIO2020</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100002618</Id>
+	<Activity_Group_Id>783270</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -4371,7 +4359,7 @@
 	<Students>ELE2019-4SEM</Students>
 	<Duration>2</Duration>
 	<Total_Duration>4</Total_Duration>
-	<Id>100002526</Id>
+	<Id>100002612</Id>
 	<Activity_Group_Id>793419</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -4383,7 +4371,7 @@
 	<Students>ELE2019-4SEM</Students>
 	<Duration>2</Duration>
 	<Total_Duration>4</Total_Duration>
-	<Id>200002526</Id>
+	<Id>200002612</Id>
 	<Activity_Group_Id>793419</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -16947,8 +16935,8 @@
 </ConstraintTwoActivitiesOrderedIfSameDay>
 <ConstraintTwoActivitiesOrderedIfSameDay>
 	<Weight_Percentage>100</Weight_Percentage>
-	<First_Activity_Id>100002526</First_Activity_Id>
-	<Second_Activity_Id>200002526</Second_Activity_Id>
+	<First_Activity_Id>100002612</First_Activity_Id>
+	<Second_Activity_Id>200002612</Second_Activity_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTwoActivitiesOrderedIfSameDay>
@@ -16991,6 +16979,13 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<First_Activity_Id>100002276</First_Activity_Id>
 	<Second_Activity_Id>200002276</Second_Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTwoActivitiesOrderedIfSameDay>
+<ConstraintTwoActivitiesOrderedIfSameDay>
+	<Weight_Percentage>100</Weight_Percentage>
+	<First_Activity_Id>100002272</First_Activity_Id>
+	<Second_Activity_Id>200002272</Second_Activity_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTwoActivitiesOrderedIfSameDay>
@@ -17169,13 +17164,16 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTwoActivitiesOrderedIfSameDay>
-<ConstraintTwoActivitiesOrderedIfSameDay>
+<ConstraintMinDaysBetweenActivities>
 	<Weight_Percentage>100</Weight_Percentage>
-	<First_Activity_Id>100002482</First_Activity_Id>
-	<Second_Activity_Id>200002482</Second_Activity_Id>
+	<Consecutive_If_Same_Day>true</Consecutive_If_Same_Day>
+	<Number_of_Activities>2</Number_of_Activities>
+	<Activity_Id>100002482</Activity_Id>
+	<Activity_Id>200002482</Activity_Id>
+	<MinDays>1</MinDays>
 	<Active>true</Active>
 	<Comments></Comments>
-</ConstraintTwoActivitiesOrderedIfSameDay>
+</ConstraintMinDaysBetweenActivities>
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Alex Miyamoto Mussi</Teacher>
@@ -23086,7 +23084,7 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002609</Activity_Id>
+	<Activity_Id>100002616</Activity_Id>
 	<Preferred_Day>Segunda-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
@@ -23410,7 +23408,7 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002058</Activity_Id>
+	<Activity_Id>100002618</Activity_Id>
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
@@ -23437,9 +23435,9 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002043</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Activity_Id>100002617</Activity_Id>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -23447,7 +23445,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002597</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
+	<Preferred_Day>Segunda-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -23457,7 +23455,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002610</Activity_Id>
 	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24088,24 +24086,6 @@
 	<Activity_Id>200002524</Activity_Id>
 	<Preferred_Day>Sexta-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002526</Activity_Id>
-	<Preferred_Day>Quarta-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>200002526</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -25346,7 +25326,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002593</Activity_Id>
-	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -25355,7 +25335,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200002593</Activity_Id>
-	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -25609,6 +25589,24 @@
 	<Activity_Id>100002377</Activity_Id>
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002612</Activity_Id>
+	<Preferred_Day>Quarta-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>200002612</Activity_Id>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>

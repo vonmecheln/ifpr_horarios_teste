@@ -10883,7 +10883,7 @@ body {
 
 
 /* Folha de estilo CSS de exportacao_controleescolar.fet
-   Folha de estilos gerada por FET 6.1.8 em 11/10/2021 04:17 */
+   Folha de estilos gerada por FET 6.1.8 em 13/10/2021 10:55 */
 
 /* Para que as páginas sejam separadas a cada duas tabelas, delete "page-break-before: always;" em "table.even_table". */
 /* Excluir "page-break-before: always;" em "table.even_table" e em "table.odd_table" para pular as quebras de página. */
@@ -12200,44 +12200,44 @@ td.c_249 { /* Activity id: 100002270 (subject) */
  color: white;
 }
 
-td.c_250 { /* Activity id: 100002582 (subject) */
- background-color: rgb(144, 254, 196);
- color: black;
-}
-
-td.c_251 { /* Activity id: 100002587 (subject) */
- background-color: rgb(45, 216, 192);
- color: black;
-}
-
-td.c_252 { /* Activity id: 100002593 (subject) */
- background-color: rgb(45, 175, 253);
- color: black;
-}
-
-td.c_253 { /* Activity id: 100002580 (subject) */
- background-color: rgb(63, 23, 48);
- color: white;
-}
-
-td.c_254 { /* Activity id: 100002583 (subject) */
- background-color: rgb(74, 161, 48);
- color: white;
-}
-
-td.c_255 { /* Activity id: 100002584 (subject) */
- background-color: rgb(167, 63, 144);
- color: white;
-}
-
-td.c_256 { /* Activity id: 100002381 (subject) */
+td.c_250 { /* Activity id: 100002381 (subject) */
  background-color: rgb(170, 162, 80);
  color: black;
 }
 
-td.c_257 { /* Activity id: 100002467 (subject) */
+td.c_251 { /* Activity id: 100002467 (subject) */
  background-color: rgb(186, 176, 2);
  color: black;
+}
+
+td.c_252 { /* Activity id: 100002583 (subject) */
+ background-color: rgb(74, 161, 48);
+ color: white;
+}
+
+td.c_253 { /* Activity id: 100002584 (subject) */
+ background-color: rgb(167, 63, 144);
+ color: white;
+}
+
+td.c_254 { /* Activity id: 100002582 (subject) */
+ background-color: rgb(144, 254, 196);
+ color: black;
+}
+
+td.c_255 { /* Activity id: 100002587 (subject) */
+ background-color: rgb(45, 216, 192);
+ color: black;
+}
+
+td.c_256 { /* Activity id: 100002593 (subject) */
+ background-color: rgb(45, 175, 253);
+ color: black;
+}
+
+td.c_257 { /* Activity id: 100002580 (subject) */
+ background-color: rgb(63, 23, 48);
+ color: white;
 }
 
 td.c_258 { /* Activity id: 100002478 (subject) */
@@ -13550,43 +13550,43 @@ td.c_519 { /* Activity id: 100002270 (subject+students) */
  color: black;
 }
 
-td.c_520 { /* Activity id: 100002582 (subject+students) */
- background-color: rgb(146, 255, 126);
+td.c_520 { /* Activity id: 100002381 (subject+students) */
+ background-color: rgb(44, 183, 248);
  color: black;
 }
 
-td.c_521 { /* Activity id: 100002587 (subject+students) */
- background-color: rgb(106, 97, 9);
+td.c_521 { /* Activity id: 100002467 (subject+students) */
+ background-color: rgb(174, 214, 0);
+ color: black;
+}
+
+td.c_522 { /* Activity id: 100002583 (subject+students) */
+ background-color: rgb(196, 227, 188);
+ color: black;
+}
+
+td.c_523 { /* Activity id: 100002584 (subject+students) */
+ background-color: rgb(118, 70, 178);
  color: white;
 }
 
-td.c_522 { /* Activity id: 100002593 (subject+students) */
- background-color: rgb(211, 202, 138);
+td.c_524 { /* Activity id: 100002582 (subject+students) */
+ background-color: rgb(172, 114, 228);
  color: black;
 }
 
-td.c_523 { /* Activity id: 100002580 (subject+students) */
- background-color: rgb(25, 60, 111);
- color: white;
-}
-
-td.c_524 { /* Activity id: 100002583 (subject+students) */
- background-color: rgb(197, 160, 179);
+td.c_525 { /* Activity id: 100002587 (subject+students) */
+ background-color: rgb(146, 184, 191);
  color: black;
 }
 
-td.c_525 { /* Activity id: 100002584 (subject+students) */
- background-color: rgb(186, 195, 107);
+td.c_526 { /* Activity id: 100002593 (subject+students) */
+ background-color: rgb(121, 245, 202);
  color: black;
 }
 
-td.c_526 { /* Activity id: 100002381 (subject+students) */
- background-color: rgb(9, 49, 123);
- color: white;
-}
-
-td.c_527 { /* Activity id: 100002467 (subject+students) */
- background-color: rgb(190, 201, 211);
+td.c_527 { /* Activity id: 100002580 (subject+students) */
+ background-color: rgb(20, 232, 225);
  color: black;
 }
 

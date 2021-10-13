@@ -2093,14 +2093,6 @@
 	<Separator> </Separator>
 </Year>
 <Year>
-	<Name>IIN2017</Name>
-	<Number_of_Students>40</Number_of_Students>
-	<Comments>Técnico em Informática Integrado ao Ensino Médio</Comments>
-	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
-	<Number_of_Categories>0</Number_of_Categories>
-	<Separator> </Separator>
-</Year>
-<Year>
 	<Name>IIN2018</Name>
 	<Number_of_Students>40</Number_of_Students>
 	<Comments>Técnico em Informática Integrado ao Ensino Médio</Comments>
@@ -2165,24 +2157,24 @@
 	<Separator> </Separator>
 </Year>
 <Year>
-	<Name>TDS2019-2-2SEM</Name>
-	<Number_of_Students>30</Number_of_Students>
-	<Comments>Técnico Subsequente em Desenvolvimento de Sistemas</Comments>
-	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
-	<Number_of_Categories>0</Number_of_Categories>
-	<Separator> </Separator>
-</Year>
-<Year>
-	<Name>TDS2020-1-1SEM</Name>
-	<Number_of_Students>30</Number_of_Students>
-	<Comments>Técnico Subsequente em Desenvolvimento de Sistemas</Comments>
-	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
-	<Number_of_Categories>0</Number_of_Categories>
-	<Separator> </Separator>
-</Year>
-<Year>
-	<Name>TDS2021-2</Name>
+	<Name>TDS2021-2 (1 SEM)</Name>
 	<Number_of_Students>40</Number_of_Students>
+	<Comments>Técnico Subsequente em Desenvolvimento de Sistemas</Comments>
+	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+	<Number_of_Categories>0</Number_of_Categories>
+	<Separator> </Separator>
+</Year>
+<Year>
+	<Name>TDS2021-2 (2 SEM)</Name>
+	<Number_of_Students>30</Number_of_Students>
+	<Comments>Técnico Subsequente em Desenvolvimento de Sistemas</Comments>
+	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
+	<Number_of_Categories>0</Number_of_Categories>
+	<Separator> </Separator>
+</Year>
+<Year>
+	<Name>TDS2021-2 (3 SEM)</Name>
+	<Number_of_Students>30</Number_of_Students>
 	<Comments>Técnico Subsequente em Desenvolvimento de Sistemas</Comments>
 	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
 	<Number_of_Categories>0</Number_of_Categories>
@@ -2200,14 +2192,6 @@
 	<Name>TGC2021</Name>
 	<Number_of_Students>40</Number_of_Students>
 	<Comments>Curso Superior de Técnologia em Gestão Comercial</Comments>
-	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
-	<Number_of_Categories>0</Number_of_Categories>
-	<Separator> </Separator>
-</Year>
-<Year>
-	<Name>TPS2021-1</Name>
-	<Number_of_Students>40</Number_of_Students>
-	<Comments>Técnico Programador de Sistemas (FIC 240h)</Comments>
 	<!-- The information regarding categories, divisions of each category, and separator is only used in the divide year automatically by categories dialog. -->
 	<Number_of_Categories>0</Number_of_Categories>
 	<Separator> </Separator>
@@ -6035,130 +6019,10 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Alex Vinicius Faria</Teacher>
-	<Subject>Programação para Sistemas Embarcados - 725</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>TDS2019-2-2SEM</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>100002582</Id>
-	<Activity_Group_Id>725205</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Humberto Fioravante Ferro</Teacher>
-	<Subject>Inteligência Artificial e Sistemas Neurais - 724</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>TDS2019-2-2SEM</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>100002587</Id>
-	<Activity_Group_Id>724205</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Luis Henrique Manosso Von Mecheln</Teacher>
-	<Subject>Desenvolvimento para Dispositivos Móveis - 722</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>TDS2019-2-2SEM</Students>
-	<Duration>2</Duration>
-	<Total_Duration>4</Total_Duration>
-	<Id>100002593</Id>
-	<Activity_Group_Id>722205</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Luis Henrique Manosso Von Mecheln</Teacher>
-	<Subject>Desenvolvimento para Dispositivos Móveis - 722</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>TDS2019-2-2SEM</Students>
-	<Duration>2</Duration>
-	<Total_Duration>4</Total_Duration>
-	<Id>200002593</Id>
-	<Activity_Group_Id>722205</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Olavo José Luiz Junior</Teacher>
-	<Subject>Apresentação do Projeto Integrador - 729</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>TDS2019-2-2SEM</Students>
-	<Duration>1</Duration>
-	<Total_Duration>1</Total_Duration>
-	<Id>100002580</Id>
-	<Activity_Group_Id>729205</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Eduardo Alberto Felippsen</Teacher>
-	<Subject>Linguagem de Programação - 718</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>TDS2020-1-1SEM</Students>
-	<Duration>2</Duration>
-	<Total_Duration>6</Total_Duration>
-	<Id>100002583</Id>
-	<Activity_Group_Id>718290</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Eduardo Alberto Felippsen</Teacher>
-	<Subject>Linguagem de Programação - 718</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>TDS2020-1-1SEM</Students>
-	<Duration>2</Duration>
-	<Total_Duration>6</Total_Duration>
-	<Id>200002583</Id>
-	<Activity_Group_Id>718290</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Eduardo Alberto Felippsen</Teacher>
-	<Subject>Linguagem de Programação - 718</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>TDS2020-1-1SEM</Students>
-	<Duration>2</Duration>
-	<Total_Duration>6</Total_Duration>
-	<Id>300002583</Id>
-	<Activity_Group_Id>718290</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Luis Henrique Manosso Von Mecheln</Teacher>
-	<Subject>Programação Orientada a Objetos - 719</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>TDS2020-1-1SEM</Students>
-	<Duration>2</Duration>
-	<Total_Duration>4</Total_Duration>
-	<Id>100002584</Id>
-	<Activity_Group_Id>719290</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Luis Henrique Manosso Von Mecheln</Teacher>
-	<Subject>Programação Orientada a Objetos - 719</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>TDS2020-1-1SEM</Students>
-	<Duration>2</Duration>
-	<Total_Duration>4</Total_Duration>
-	<Id>200002584</Id>
-	<Activity_Group_Id>719290</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
 	<Teacher>Amilcar Machado Profeta Filho</Teacher>
 	<Subject>Sociedade, Educação, Ética Profissional e o Mundo do Trabalho - 702</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>TDS2021-2</Students>
+	<Students>TDS2021-2 (1 SEM)</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>100002381</Id>
@@ -6170,11 +6034,131 @@
 	<Teacher>Paula Letícia Santos Lima</Teacher>
 	<Subject>Informática Instrumental e Sistemas de Informação - 696</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>TDS2021-2</Students>
+	<Students>TDS2021-2 (1 SEM)</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
 	<Id>100002467</Id>
 	<Activity_Group_Id>696403</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Eduardo Alberto Felippsen</Teacher>
+	<Subject>Linguagem de Programação - 718</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>TDS2021-2 (2 SEM)</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>100002583</Id>
+	<Activity_Group_Id>718290</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Eduardo Alberto Felippsen</Teacher>
+	<Subject>Linguagem de Programação - 718</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>TDS2021-2 (2 SEM)</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>200002583</Id>
+	<Activity_Group_Id>718290</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Eduardo Alberto Felippsen</Teacher>
+	<Subject>Linguagem de Programação - 718</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>TDS2021-2 (2 SEM)</Students>
+	<Duration>2</Duration>
+	<Total_Duration>6</Total_Duration>
+	<Id>300002583</Id>
+	<Activity_Group_Id>718290</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Luis Henrique Manosso Von Mecheln</Teacher>
+	<Subject>Programação Orientada a Objetos - 719</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>TDS2021-2 (2 SEM)</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>100002584</Id>
+	<Activity_Group_Id>719290</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Luis Henrique Manosso Von Mecheln</Teacher>
+	<Subject>Programação Orientada a Objetos - 719</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>TDS2021-2 (2 SEM)</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>200002584</Id>
+	<Activity_Group_Id>719290</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Alex Vinicius Faria</Teacher>
+	<Subject>Programação para Sistemas Embarcados - 725</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>TDS2021-2 (3 SEM)</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100002582</Id>
+	<Activity_Group_Id>725205</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Humberto Fioravante Ferro</Teacher>
+	<Subject>Inteligência Artificial e Sistemas Neurais - 724</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>TDS2021-2 (3 SEM)</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100002587</Id>
+	<Activity_Group_Id>724205</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Luis Henrique Manosso Von Mecheln</Teacher>
+	<Subject>Desenvolvimento para Dispositivos Móveis - 722</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>TDS2021-2 (3 SEM)</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>100002593</Id>
+	<Activity_Group_Id>722205</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Luis Henrique Manosso Von Mecheln</Teacher>
+	<Subject>Desenvolvimento para Dispositivos Móveis - 722</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>TDS2021-2 (3 SEM)</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>200002593</Id>
+	<Activity_Group_Id>722205</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Olavo José Luiz Junior</Teacher>
+	<Subject>Apresentação do Projeto Integrador - 729</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>TDS2021-2 (3 SEM)</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>100002580</Id>
+	<Activity_Group_Id>729205</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -12102,349 +12086,6 @@
 </ConstraintStudentsSetNotAvailableTimes>
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Students>IIN2017</Students>
-	<Number_of_Not_Available_Times>84</Number_of_Not_Available_Times>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (11:55 - 13:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>13:10 - 14:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>14:00 - 14:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (14:50 - 15:05)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>15:05 - 15:55</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>15:55 - 16:45</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 18:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>18:10 - 19:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>19:00 - 19:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>19:50 - 20:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (20:40 - 21:00)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>21:00 - 21:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>21:50 - 22:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (11:55 - 13:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>13:10 - 14:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>14:00 - 14:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (14:50 - 15:05)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>15:05 - 15:55</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>15:55 - 16:45</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 18:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>18:10 - 19:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>19:00 - 19:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>19:50 - 20:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (20:40 - 21:00)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>21:00 - 21:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>21:50 - 22:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (11:55 - 13:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>13:10 - 14:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>14:00 - 14:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (14:50 - 15:05)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>15:05 - 15:55</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>15:55 - 16:45</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (16:45 - 18:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>18:10 - 19:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>19:00 - 19:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>19:50 - 20:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>Intervalo (20:40 - 21:00)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>21:00 - 21:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>21:50 - 22:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (11:55 - 13:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>13:10 - 14:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>14:00 - 14:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (14:50 - 15:05)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>15:05 - 15:55</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>15:55 - 16:45</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (16:45 - 18:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>18:10 - 19:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>19:00 - 19:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>19:50 - 20:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>Intervalo (20:40 - 21:00)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>21:00 - 21:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quinta-Feira</Day>
-		<Hour>21:50 - 22:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (11:55 - 13:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>13:10 - 14:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>14:00 - 14:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (14:50 - 15:05)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>15:05 - 15:55</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>15:55 - 16:45</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (16:45 - 18:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>18:10 - 19:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>19:00 - 19:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>19:50 - 20:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>Intervalo (20:40 - 21:00)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>21:00 - 21:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sexta-Feira</Day>
-		<Hour>21:50 - 22:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado</Day>
-		<Hour>07:30 - 08:20</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado</Day>
-		<Hour>08:20 - 09:10</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado</Day>
-		<Hour>Intervalo (09:10 - 09:25)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado</Day>
-		<Hour>09:25 - 10:15</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado</Day>
-		<Hour>10:15 - 11:05</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado</Day>
-		<Hour>11:05 - 11:55</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado</Day>
-		<Hour>Intervalo (11:55 - 13:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado</Day>
-		<Hour>13:10 - 14:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado</Day>
-		<Hour>14:00 - 14:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado</Day>
-		<Hour>Intervalo (14:50 - 15:05)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado</Day>
-		<Hour>15:05 - 15:55</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado</Day>
-		<Hour>15:55 - 16:45</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado</Day>
-		<Hour>Intervalo (16:45 - 18:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado</Day>
-		<Hour>18:10 - 19:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado</Day>
-		<Hour>19:00 - 19:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado</Day>
-		<Hour>19:50 - 20:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado</Day>
-		<Hour>Intervalo (20:40 - 21:00)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado</Day>
-		<Hour>21:00 - 21:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Sábado</Day>
-		<Hour>21:50 - 22:40</Hour>
-	</Not_Available_Time>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintStudentsSetNotAvailableTimes>
-<ConstraintStudentsSetNotAvailableTimes>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Students>IIN2018</Students>
 	<Number_of_Not_Available_Times>84</Number_of_Not_Available_Times>
 	<Not_Available_Time>
@@ -15033,7 +14674,7 @@
 </ConstraintStudentsSetNotAvailableTimes>
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Students>TDS2019-2-2SEM</Students>
+	<Students>TDS2021-2 (1 SEM)</Students>
 	<Number_of_Not_Available_Times>89</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -15396,7 +15037,7 @@
 </ConstraintStudentsSetNotAvailableTimes>
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Students>TDS2020-1-1SEM</Students>
+	<Students>TDS2021-2 (2 SEM)</Students>
 	<Number_of_Not_Available_Times>89</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -15759,7 +15400,7 @@
 </ConstraintStudentsSetNotAvailableTimes>
 <ConstraintStudentsSetNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Students>TDS2021-2</Students>
+	<Students>TDS2021-2 (3 SEM)</Students>
 	<Number_of_Not_Available_Times>89</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
@@ -17101,13 +16742,6 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTwoActivitiesConsecutive>
-<ConstraintTwoActivitiesConsecutive>
-	<Weight_Percentage>100</Weight_Percentage>
-	<First_Activity_Id>100002593</First_Activity_Id>
-	<Second_Activity_Id>200002593</Second_Activity_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintTwoActivitiesConsecutive>
 <ConstraintTwoActivitiesOrderedIfSameDay>
 	<Weight_Percentage>100</Weight_Percentage>
 	<First_Activity_Id>100002583</First_Activity_Id>
@@ -17119,6 +16753,13 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<First_Activity_Id>100002584</First_Activity_Id>
 	<Second_Activity_Id>200002584</Second_Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTwoActivitiesConsecutive>
+<ConstraintTwoActivitiesConsecutive>
+	<Weight_Percentage>100</Weight_Percentage>
+	<First_Activity_Id>100002593</First_Activity_Id>
+	<Second_Activity_Id>200002593</Second_Activity_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTwoActivitiesConsecutive>

@@ -22155,8 +22155,8 @@
 </ConstraintMinDaysBetweenActivities>
 <ConstraintTwoActivitiesConsecutive>
 	<Weight_Percentage>100</Weight_Percentage>
-	<First_Activity_Id>100002254</First_Activity_Id>
-	<Second_Activity_Id>100002257</Second_Activity_Id>
+	<First_Activity_Id>100002257</First_Activity_Id>
+	<Second_Activity_Id>100002254</Second_Activity_Id>
 	<Active>true</Active>
 	<Comments>Arranjo TADS: Afastamento Bartz - Telecomunicações e Geoprocessamento - 24 X Desenvolvimento para Dispositivos Móveis - 19</Comments>
 </ConstraintTwoActivitiesConsecutive>
@@ -24760,7 +24760,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002254</Activity_Id>
 	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24769,7 +24769,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002257</Activity_Id>
 	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>

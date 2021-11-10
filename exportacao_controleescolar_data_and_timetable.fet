@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="6.1.8">
+<fet version="6.2.2">
 
 <Mode>Official</Mode>
 
@@ -5339,7 +5339,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Paula Letícia Santos Lima</Teacher>
+	<Teacher>Douglas Barbosa Sousa</Teacher>
 	<Subject>Laboratório de Banco de Dados - 1238</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Activity_Tag>Vespertino</Activity_Tag>
@@ -22852,7 +22852,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002277</Activity_Id>
 	<Preferred_Day>Sexta-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>

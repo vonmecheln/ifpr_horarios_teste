@@ -153,10 +153,6 @@
 	<Comments>Anatomia e morfologia vegetal</Comments>
 </Subject>
 <Subject>
-	<Name>Biofísica - 2096</Name>
-	<Comments>Biofísica</Comments>
-</Subject>
-<Subject>
 	<Name>Biogeografia - 492</Name>
 	<Comments>Biogeografia</Comments>
 </Subject>
@@ -179,10 +175,6 @@
 <Subject>
 	<Name>Fisiologia vegetal - 504</Name>
 	<Comments>Fisiologia vegetal</Comments>
-</Subject>
-<Subject>
-	<Name>Física aplicada às ciências biológicas - 66</Name>
-	<Comments>Física aplicada às ciências biológicas</Comments>
 </Subject>
 <Subject>
 	<Name>Genética básica e humana - 1304</Name>
@@ -223,14 +215,6 @@
 <Subject>
 	<Name>Política educacional: organização da educação brasileira - 90</Name>
 	<Comments>Política educacional: organização da educação brasileira</Comments>
-</Subject>
-<Subject>
-	<Name>Química Geral - 2088</Name>
-	<Comments>Química Geral </Comments>
-</Subject>
-<Subject>
-	<Name>Química orgânica - 2106</Name>
-	<Comments>Química orgânica</Comments>
 </Subject>
 <Subject>
 	<Name>Sistemática vegetal II - 800</Name>
@@ -393,28 +377,12 @@
 	<Comments>Sociedade, Educação, Ética Profissional e o Mundo do Trabalho</Comments>
 </Subject>
 <Subject>
-	<Name>Filosofia III - 1999</Name>
-	<Comments>Filosofia III</Comments>
-</Subject>
-<Subject>
-	<Name>Irrigação e Drenagem - 1128</Name>
-	<Comments>Irrigação e Drenagem</Comments>
-</Subject>
-<Subject>
-	<Name>Matemática III - 2057</Name>
-	<Comments>Matemática III</Comments>
-</Subject>
-<Subject>
 	<Name>Agricultura geral - 466</Name>
 	<Comments>Agricultura geral</Comments>
 </Subject>
 <Subject>
 	<Name>Agroecologia e DRS - 470</Name>
 	<Comments>Agroecologia e DRS</Comments>
-</Subject>
-<Subject>
-	<Name>Agroecologia e Desenvolvimento Rural Sustentável - 1809</Name>
-	<Comments>Agroecologia e Desenvolvimento Rural Sustentável</Comments>
 </Subject>
 <Subject>
 	<Name>Agroindustrialização de Produtos de Origem Vegetal e Animal (APOVA) - 1094</Name>
@@ -426,10 +394,6 @@
 </Subject>
 <Subject>
 	<Name>Artes II - 614</Name>
-	<Comments>Artes II</Comments>
-</Subject>
-<Subject>
-	<Name>Artes II - 1810</Name>
 	<Comments>Artes II</Comments>
 </Subject>
 <Subject>
@@ -453,15 +417,7 @@
 	<Comments>Cultura e Cinema Nacional I</Comments>
 </Subject>
 <Subject>
-	<Name>Cultura e Cinema Nacional I - 1811</Name>
-	<Comments>Cultura e Cinema Nacional I</Comments>
-</Subject>
-<Subject>
 	<Name>Cultura e Cinema Nacional II - 1192</Name>
-	<Comments>Cultura e Cinema Nacional II</Comments>
-</Subject>
-<Subject>
-	<Name>Cultura e Cinema Nacional II - 1812</Name>
 	<Comments>Cultura e Cinema Nacional II</Comments>
 </Subject>
 <Subject>
@@ -481,23 +437,11 @@
 	<Comments>Desenho técnico e topografia</Comments>
 </Subject>
 <Subject>
-	<Name>Desenho técnico e topografia - 1814</Name>
-	<Comments>Desenho técnico e topografia</Comments>
-</Subject>
-<Subject>
 	<Name>Educação Física I - 457</Name>
 	<Comments>Educação Física I</Comments>
 </Subject>
 <Subject>
-	<Name>Educação Física I - 1815</Name>
-	<Comments>Educação Física I</Comments>
-</Subject>
-<Subject>
 	<Name>Educação Física II - 615</Name>
-	<Comments>Educação Física II</Comments>
-</Subject>
-<Subject>
-	<Name>Educação Física II - 1816</Name>
 	<Comments>Educação Física II</Comments>
 </Subject>
 <Subject>
@@ -525,15 +469,7 @@
 	<Comments>Física I</Comments>
 </Subject>
 <Subject>
-	<Name>Física I - 1828</Name>
-	<Comments>Física I</Comments>
-</Subject>
-<Subject>
 	<Name>Física II - 617</Name>
-	<Comments>Física II</Comments>
-</Subject>
-<Subject>
-	<Name>Física II - 1829</Name>
 	<Comments>Física II</Comments>
 </Subject>
 <Subject>
@@ -569,23 +505,11 @@
 	<Comments>Informática instrumental e aplicada</Comments>
 </Subject>
 <Subject>
-	<Name>Informática instrumental e aplicada - 2092</Name>
-	<Comments>Informática instrumental e aplicada</Comments>
-</Subject>
-<Subject>
 	<Name>Língua Portuguesa e Literatura I - 455</Name>
 	<Comments>Língua Portuguesa e Literatura I</Comments>
 </Subject>
 <Subject>
-	<Name>Língua Portuguesa e Literatura I - 1830</Name>
-	<Comments>Língua Portuguesa e Literatura I</Comments>
-</Subject>
-<Subject>
 	<Name>Língua Portuguesa e Literatura II - 613</Name>
-	<Comments>Língua Portuguesa e Literatura II</Comments>
-</Subject>
-<Subject>
-	<Name>Língua Portuguesa e Literatura II - 1831</Name>
 	<Comments>Língua Portuguesa e Literatura II</Comments>
 </Subject>
 <Subject>
@@ -625,10 +549,6 @@
 	<Comments>Produção Animal I</Comments>
 </Subject>
 <Subject>
-	<Name>Produção Animal I - 1818</Name>
-	<Comments>Produção Animal I</Comments>
-</Subject>
-<Subject>
 	<Name>Produção Animal II - 1093</Name>
 	<Comments>Produção Animal II</Comments>
 </Subject>
@@ -637,15 +557,7 @@
 	<Comments>Química I</Comments>
 </Subject>
 <Subject>
-	<Name>Química I - 1832</Name>
-	<Comments>Química I</Comments>
-</Subject>
-<Subject>
 	<Name>Química II - 618</Name>
-	<Comments>Química II</Comments>
-</Subject>
-<Subject>
-	<Name>Química II - 1833</Name>
 	<Comments>Química II</Comments>
 </Subject>
 <Subject>
@@ -665,10 +577,6 @@
 	<Comments>Sociologia I</Comments>
 </Subject>
 <Subject>
-	<Name>Sociologia I - 1834</Name>
-	<Comments>Sociologia I</Comments>
-</Subject>
-<Subject>
 	<Name>Sociologia Rural - 625</Name>
 	<Comments>Sociologia Rural</Comments>
 </Subject>
@@ -678,10 +586,6 @@
 </Subject>
 <Subject>
 	<Name>Zootecnia Geral - 467</Name>
-	<Comments>Zootecnia Geral</Comments>
-</Subject>
-<Subject>
-	<Name>Zootecnia Geral - 1835</Name>
 	<Comments>Zootecnia Geral</Comments>
 </Subject>
 <Subject>
@@ -765,19 +669,11 @@
 	<Comments>Desenho Técnico</Comments>
 </Subject>
 <Subject>
-	<Name>Desenho Técnico - 1840</Name>
-	<Comments>Desenho Técnico</Comments>
-</Subject>
-<Subject>
 	<Name>Educação Física 1 - 123</Name>
 	<Comments>Educação Física 1</Comments>
 </Subject>
 <Subject>
 	<Name>Educação Física 2 - 170</Name>
-	<Comments>Educação Física 2</Comments>
-</Subject>
-<Subject>
-	<Name>Educação Física 2 - 1844</Name>
 	<Comments>Educação Física 2</Comments>
 </Subject>
 <Subject>
@@ -789,14 +685,6 @@
 	<Comments>Elementos de Automação</Comments>
 </Subject>
 <Subject>
-	<Name>Elementos de Automação - 1847</Name>
-	<Comments>Elementos de Automação</Comments>
-</Subject>
-<Subject>
-	<Name>Eletricidade e Medidas Elétricas - 1338</Name>
-	<Comments>Eletricidade e Medidas Elétricas</Comments>
-</Subject>
-<Subject>
 	<Name>Eletricidade e Medidas Elétricas - 1530</Name>
 	<Comments>Eletricidade e Medidas Elétricas</Comments>
 </Subject>
@@ -805,15 +693,7 @@
 	<Comments>Eletrônica</Comments>
 </Subject>
 <Subject>
-	<Name>Eletrônica - 1748</Name>
-	<Comments>Eletrônica</Comments>
-</Subject>
-<Subject>
 	<Name>Filosofia 1 - 124</Name>
-	<Comments>Filosofia 1</Comments>
-</Subject>
-<Subject>
-	<Name>Filosofia 1 - 1755</Name>
 	<Comments>Filosofia 1</Comments>
 </Subject>
 <Subject>
@@ -833,19 +713,11 @@
 	<Comments>Física 1</Comments>
 </Subject>
 <Subject>
-	<Name>Física 1 - 1858</Name>
-	<Comments>Física 1</Comments>
-</Subject>
-<Subject>
 	<Name>Física 2 - 175</Name>
 	<Comments>Física 2</Comments>
 </Subject>
 <Subject>
 	<Name>Física 3 - 205</Name>
-	<Comments>Física 3</Comments>
-</Subject>
-<Subject>
-	<Name>Física 3 - 1860</Name>
 	<Comments>Física 3</Comments>
 </Subject>
 <Subject>
@@ -873,23 +745,11 @@
 	<Comments>História 1</Comments>
 </Subject>
 <Subject>
-	<Name>História 1 - 1826</Name>
-	<Comments>História 1</Comments>
-</Subject>
-<Subject>
 	<Name>História 2 - 178</Name>
 	<Comments>História 2</Comments>
 </Subject>
 <Subject>
-	<Name>História 2 - 1863</Name>
-	<Comments>História 2</Comments>
-</Subject>
-<Subject>
 	<Name>História 3 - 207</Name>
-	<Comments>História 3</Comments>
-</Subject>
-<Subject>
-	<Name>História 3 - 1865</Name>
 	<Comments>História 3</Comments>
 </Subject>
 <Subject>
@@ -933,18 +793,6 @@
 	<Comments>Lingua Portuguesa 4</Comments>
 </Subject>
 <Subject>
-	<Name>Língua Portuguesa 1 - 1867</Name>
-	<Comments>Língua Portuguesa 1</Comments>
-</Subject>
-<Subject>
-	<Name>Língua Portuguesa 2 - 1869</Name>
-	<Comments>Língua Portuguesa 2</Comments>
-</Subject>
-<Subject>
-	<Name>Língua Portuguesa 3 - 1872</Name>
-	<Comments>Língua Portuguesa 3</Comments>
-</Subject>
-<Subject>
 	<Name>Manutenção Industrial e Gestão da Produção - 1592</Name>
 	<Comments>Manutenção Industrial e Gestão da Produção</Comments>
 </Subject>
@@ -961,19 +809,11 @@
 	<Comments>Matemática 3</Comments>
 </Subject>
 <Subject>
-	<Name>Matemática 3 - 1876</Name>
-	<Comments>Matemática 3</Comments>
-</Subject>
-<Subject>
 	<Name>Matemática 4 - 234</Name>
 	<Comments>Matemática 4</Comments>
 </Subject>
 <Subject>
 	<Name>Metrologia - 1550</Name>
-	<Comments>Metrologia</Comments>
-</Subject>
-<Subject>
-	<Name>Metrologia - 1878</Name>
 	<Comments>Metrologia</Comments>
 </Subject>
 <Subject>
@@ -985,15 +825,7 @@
 	<Comments>Máquinas e Acionamentos</Comments>
 </Subject>
 <Subject>
-	<Name>Máquinas e Acionamentos - 1874</Name>
-	<Comments>Máquinas e Acionamentos</Comments>
-</Subject>
-<Subject>
 	<Name>Processos de Fabricação 1 - 1552</Name>
-	<Comments>Processos de Fabricação 1</Comments>
-</Subject>
-<Subject>
-	<Name>Processos de Fabricação 1 - 1883</Name>
 	<Comments>Processos de Fabricação 1</Comments>
 </Subject>
 <Subject>
@@ -1013,19 +845,11 @@
 	<Comments>Projetos e Instalações Elétricas</Comments>
 </Subject>
 <Subject>
-	<Name>Projetos e Instalações Elétricas - 1756</Name>
-	<Comments>Projetos e Instalações Elétricas</Comments>
-</Subject>
-<Subject>
 	<Name>Química 1 - 143</Name>
 	<Comments>Química 1</Comments>
 </Subject>
 <Subject>
 	<Name>Química 2 - 187</Name>
-	<Comments>Química 2</Comments>
-</Subject>
-<Subject>
-	<Name>Química 2 - 1886</Name>
 	<Comments>Química 2</Comments>
 </Subject>
 <Subject>
@@ -1045,10 +869,6 @@
 	<Comments>Sistemas Digitais</Comments>
 </Subject>
 <Subject>
-	<Name>Sistemas digitais - 1888</Name>
-	<Comments>Sistemas digitais</Comments>
-</Subject>
-<Subject>
 	<Name>Sociologia 1 - 146</Name>
 	<Comments>Sociologia 1</Comments>
 </Subject>
@@ -1063,10 +883,6 @@
 <Subject>
 	<Name>Sociologia 4 - 238</Name>
 	<Comments>Sociologia 4</Comments>
-</Subject>
-<Subject>
-	<Name>Tecnologia dos Materais - 1890</Name>
-	<Comments>Tecnologia dos Materais</Comments>
 </Subject>
 <Subject>
 	<Name>Tecnologia dos Materiais - 1531</Name>
@@ -1113,16 +929,8 @@
 	<Comments>Projetos Elétricos Industriais</Comments>
 </Subject>
 <Subject>
-	<Name>Projetos Elétricos Industriais - 1983</Name>
-	<Comments>Projetos Elétricos Industriais</Comments>
-</Subject>
-<Subject>
 	<Name>Robótica Aplicada - 350</Name>
 	<Comments>Robótica Aplicada</Comments>
-</Subject>
-<Subject>
-	<Name>Segurança no Trabalho - 1988</Name>
-	<Comments>Segurança no Trabalho </Comments>
 </Subject>
 <Subject>
 	<Name>Sistemas Digitais - 342</Name>
@@ -1181,20 +989,8 @@
 	<Comments>Sistemas Digitais (PPC2020)</Comments>
 </Subject>
 <Subject>
-	<Name>Algoritmos e Linguagem Programação - Dependência - 369</Name>
-	<Comments>Algoritmos e Linguagem Programação - Dependência</Comments>
-</Subject>
-<Subject>
 	<Name>Arte III - 1448</Name>
 	<Comments>Arte III</Comments>
-</Subject>
-<Subject>
-	<Name>Banco de Dados - 375</Name>
-	<Comments>Banco de Dados</Comments>
-</Subject>
-<Subject>
-	<Name>Biologia II - 1781</Name>
-	<Comments>Biologia II</Comments>
 </Subject>
 <Subject>
 	<Name>Biologia III - 167</Name>
@@ -1213,15 +1009,7 @@
 	<Comments>Engenharia de Software</Comments>
 </Subject>
 <Subject>
-	<Name>Filosofia II - 1782</Name>
-	<Comments>Filosofia II</Comments>
-</Subject>
-<Subject>
 	<Name>Filosofia III - 174</Name>
-	<Comments>Filosofia III</Comments>
-</Subject>
-<Subject>
-	<Name>Filosofia III - 1783</Name>
 	<Comments>Filosofia III</Comments>
 </Subject>
 <Subject>
@@ -1229,23 +1017,7 @@
 	<Comments>Filosofia IV</Comments>
 </Subject>
 <Subject>
-	<Name>Filosofia IV - 1784</Name>
-	<Comments>Filosofia IV</Comments>
-</Subject>
-<Subject>
-	<Name>Física I - 867</Name>
-	<Comments>Física I</Comments>
-</Subject>
-<Subject>
-	<Name>Física II - 1786</Name>
-	<Comments>Física II</Comments>
-</Subject>
-<Subject>
 	<Name>Física III - 165</Name>
-	<Comments>Física III</Comments>
-</Subject>
-<Subject>
-	<Name>Física III - 1787</Name>
 	<Comments>Física III</Comments>
 </Subject>
 <Subject>
@@ -1257,20 +1029,12 @@
 	<Comments>Geografia III</Comments>
 </Subject>
 <Subject>
-	<Name>História I - 1789</Name>
-	<Comments>História I</Comments>
-</Subject>
-<Subject>
 	<Name>História III - 194</Name>
 	<Comments>História III</Comments>
 </Subject>
 <Subject>
 	<Name>Lingua Estrangeira Moderna I - Inglês - 1256</Name>
 	<Comments>Lingua Estrangeira Moderna I - Inglês</Comments>
-</Subject>
-<Subject>
-	<Name>Linguagem de Programação - Dependência - 372</Name>
-	<Comments>Linguagem de Programação - Dependência</Comments>
 </Subject>
 <Subject>
 	<Name>Língua Estrang. Moderna I-Espanhol (Opc.) - 162</Name>
@@ -1281,28 +1045,12 @@
 	<Comments>Língua Estrangeira Moderna II - Inglês</Comments>
 </Subject>
 <Subject>
-	<Name>Língua Portuguesa II - Dependência - 1790</Name>
-	<Comments>Língua Portuguesa II - Dependência</Comments>
-</Subject>
-<Subject>
 	<Name>Língua Portuguesa III - 158</Name>
 	<Comments>Língua Portuguesa III</Comments>
 </Subject>
 <Subject>
-	<Name>Língua Portuguesa III - Dependência - 1791</Name>
-	<Comments>Língua Portuguesa III - Dependência</Comments>
-</Subject>
-<Subject>
 	<Name>Língua Portuguesa IV - 186</Name>
 	<Comments>Língua Portuguesa IV</Comments>
-</Subject>
-<Subject>
-	<Name>Matemática I - 1792</Name>
-	<Comments>Matemática I</Comments>
-</Subject>
-<Subject>
-	<Name>Matemática II - 1793</Name>
-	<Comments>Matemática II</Comments>
 </Subject>
 <Subject>
 	<Name>Matemática III - 156</Name>
@@ -1313,23 +1061,11 @@
 	<Comments>Matemática IV</Comments>
 </Subject>
 <Subject>
-	<Name>Matemática IV - 1794</Name>
-	<Comments>Matemática IV</Comments>
-</Subject>
-<Subject>
 	<Name>Programação Orientada a Objetos - 34</Name>
 	<Comments>Programação Orientada a Objetos</Comments>
 </Subject>
 <Subject>
-	<Name>Programação Orientada a Objetos - Dependência - 578</Name>
-	<Comments>Programação Orientada a Objetos - Dependência</Comments>
-</Subject>
-<Subject>
 	<Name>Projeto Final de Curso - 181</Name>
-	<Comments>Projeto Final de Curso</Comments>
-</Subject>
-<Subject>
-	<Name>Projeto Final de Curso - 1795</Name>
 	<Comments>Projeto Final de Curso</Comments>
 </Subject>
 <Subject>
@@ -1337,15 +1073,7 @@
 	<Comments>Projeto e Análise de Sistemas</Comments>
 </Subject>
 <Subject>
-	<Name>Química II - 1796</Name>
-	<Comments>Química II</Comments>
-</Subject>
-<Subject>
 	<Name>Química III - 163</Name>
-	<Comments>Química III</Comments>
-</Subject>
-<Subject>
-	<Name>Química III - 1797</Name>
 	<Comments>Química III</Comments>
 </Subject>
 <Subject>
@@ -1355,18 +1083,6 @@
 <Subject>
 	<Name>Redes de Computadores - 33</Name>
 	<Comments>Redes de Computadores</Comments>
-</Subject>
-<Subject>
-	<Name>Redes de Computadores - 1798</Name>
-	<Comments>Redes de Computadores</Comments>
-</Subject>
-<Subject>
-	<Name>Sistemas Operacionais - 1799</Name>
-	<Comments>Sistemas Operacionais</Comments>
-</Subject>
-<Subject>
-	<Name>Sociologia II - 1800</Name>
-	<Comments>Sociologia II</Comments>
 </Subject>
 <Subject>
 	<Name>Sociologia III - 172</Name>
@@ -1381,15 +1097,7 @@
 	<Comments>Tópicos Especiais em Linguagem de Programação</Comments>
 </Subject>
 <Subject>
-	<Name>Tópicos Especiais em Linguagem de Programação - 1801</Name>
-	<Comments>Tópicos Especiais em Linguagem de Programação</Comments>
-</Subject>
-<Subject>
 	<Name>Tópicos Especiais em Tecnologia - 35</Name>
-	<Comments>Tópicos Especiais em Tecnologia</Comments>
-</Subject>
-<Subject>
-	<Name>Tópicos Especiais em Tecnologia - 1777</Name>
 	<Comments>Tópicos Especiais em Tecnologia</Comments>
 </Subject>
 <Subject>
@@ -1405,10 +1113,6 @@
 	<Comments>Biologia I</Comments>
 </Subject>
 <Subject>
-	<Name>Biologia I - DP - 1959</Name>
-	<Comments>Biologia I - DP</Comments>
-</Subject>
-<Subject>
 	<Name>Biologia II - 1228</Name>
 	<Comments>Biologia II</Comments>
 </Subject>
@@ -1421,10 +1125,6 @@
 	<Comments>Educação Física I</Comments>
 </Subject>
 <Subject>
-	<Name>Educação Física I - 1915</Name>
-	<Comments>Educação Física I</Comments>
-</Subject>
-<Subject>
 	<Name>Educação Física II - 1227</Name>
 	<Comments>Educação Física II</Comments>
 </Subject>
@@ -1433,16 +1133,8 @@
 	<Comments>Filosofia I</Comments>
 </Subject>
 <Subject>
-	<Name>Filosofia I - Dependência - 1920</Name>
-	<Comments>Filosofia I - Dependência</Comments>
-</Subject>
-<Subject>
 	<Name>Filosofia II - 1232</Name>
 	<Comments>Filosofia II</Comments>
-</Subject>
-<Subject>
-	<Name>Fundamentos de Informática - 1922</Name>
-	<Comments>Fundamentos de Informática</Comments>
 </Subject>
 <Subject>
 	<Name>Fundamentos de informática - 1076</Name>
@@ -1451,10 +1143,6 @@
 <Subject>
 	<Name>Física I - 1070</Name>
 	<Comments>Física I</Comments>
-</Subject>
-<Subject>
-	<Name>Física I - Dependência - 1921</Name>
-	<Comments>Física I - Dependência</Comments>
 </Subject>
 <Subject>
 	<Name>Física II - 1229</Name>
@@ -1469,10 +1157,6 @@
 	<Comments>História I</Comments>
 </Subject>
 <Subject>
-	<Name>História I - Dependência - 1923</Name>
-	<Comments>História I - Dependência</Comments>
-</Subject>
-<Subject>
 	<Name>História II - 1234</Name>
 	<Comments>História II</Comments>
 </Subject>
@@ -1483,10 +1167,6 @@
 <Subject>
 	<Name>Lingua estrangeira - Inglês - 1225</Name>
 	<Comments>Lingua estrangeira - Inglês</Comments>
-</Subject>
-<Subject>
-	<Name>Linguagens de Apresentação e Estruturação de Conteúdos - Dependência - 1925</Name>
-	<Comments>Linguagens de Apresentação e Estruturação de Conteúdos - Dependência</Comments>
 </Subject>
 <Subject>
 	<Name>Linguagens de apresentação e estruturação de conteúdos - 1074</Name>
@@ -1501,16 +1181,8 @@
 	<Comments>Língua Portuguesa e Literatura I</Comments>
 </Subject>
 <Subject>
-	<Name>Língua Portuguesa e Literatura I - Dependência - 1924</Name>
-	<Comments>Língua Portuguesa e Literatura I - Dependência</Comments>
-</Subject>
-<Subject>
 	<Name>Língua Portuguesa e Literatura II - 1226</Name>
 	<Comments>Língua Portuguesa e Literatura II</Comments>
-</Subject>
-<Subject>
-	<Name>Lógica de Programação - Dependência - 1926</Name>
-	<Comments>Lógica de Programação - Dependência</Comments>
 </Subject>
 <Subject>
 	<Name>Lógica de programação - 1075</Name>
@@ -1525,10 +1197,6 @@
 	<Comments>Matemática II</Comments>
 </Subject>
 <Subject>
-	<Name>Projeto Integrador I - Dependência - 1937</Name>
-	<Comments>Projeto Integrador I - Dependência</Comments>
-</Subject>
-<Subject>
 	<Name>Projeto Integrador II - 1239</Name>
 	<Comments>Projeto Integrador II</Comments>
 </Subject>
@@ -1539,10 +1207,6 @@
 <Subject>
 	<Name>Química I - 1068</Name>
 	<Comments>Química I</Comments>
-</Subject>
-<Subject>
-	<Name>Química I - Dependência - 1938</Name>
-	<Comments>Química I - Dependência</Comments>
 </Subject>
 <Subject>
 	<Name>Química II - 1230</Name>
@@ -4245,13 +3909,13 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Paula Letícia Santos Lima</Teacher>
+	<Teacher>Rafael Gil Ferques</Teacher>
 	<Subject>Informática Instrumental - 1532</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Students>EIN2021-1ANO</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
-	<Id>100002468</Id>
+	<Id>100002658</Id>
 	<Activity_Group_Id>1532426</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -5183,6 +4847,19 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
+	<Teacher>Douglas Barbosa Sousa</Teacher>
+	<Subject>Laboratório de Banco de Dados - 1238</Subject>
+	<Activity_Tag>Matutino</Activity_Tag>
+	<Activity_Tag>Vespertino</Activity_Tag>
+	<Students>IIW2020</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100002101</Id>
+	<Activity_Group_Id>1238276</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
 	<Teacher>Eduardo Alberto Felippsen</Teacher>
 	<Subject>Desenvolvimento WEB Orientado a Objetos - 1237</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
@@ -5335,19 +5012,6 @@
 	<Total_Duration>2</Total_Duration>
 	<Id>100002080</Id>
 	<Activity_Group_Id>1239276</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Douglas Barbosa Sousa</Teacher>
-	<Subject>Laboratório de Banco de Dados - 1238</Subject>
-	<Activity_Tag>Matutino</Activity_Tag>
-	<Activity_Tag>Vespertino</Activity_Tag>
-	<Students>IIW2020</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>100002101</Id>
-	<Activity_Group_Id>1238276</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -6035,13 +5699,13 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Paula Letícia Santos Lima</Teacher>
+	<Teacher>Olavo José Luiz Junior</Teacher>
 	<Subject>Informática Instrumental e Sistemas de Informação - 696</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>TDS2021-2 (1 SEM)</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
-	<Id>100002467</Id>
+	<Id>100002636</Id>
 	<Activity_Group_Id>696403</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -6089,7 +5753,7 @@
 	<Students>TDS2021-2 (2 SEM)</Students>
 	<Duration>2</Duration>
 	<Total_Duration>4</Total_Duration>
-	<Id>100002584</Id>
+	<Id>100002631</Id>
 	<Activity_Group_Id>719290</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -6101,7 +5765,7 @@
 	<Students>TDS2021-2 (2 SEM)</Students>
 	<Duration>2</Duration>
 	<Total_Duration>4</Total_Duration>
-	<Id>200002584</Id>
+	<Id>200002631</Id>
 	<Activity_Group_Id>719290</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -16619,6 +16283,13 @@
 </ConstraintTwoActivitiesOrderedIfSameDay>
 <ConstraintTwoActivitiesOrderedIfSameDay>
 	<Weight_Percentage>100</Weight_Percentage>
+	<First_Activity_Id>100002275</First_Activity_Id>
+	<Second_Activity_Id>200002275</Second_Activity_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintTwoActivitiesOrderedIfSameDay>
+<ConstraintTwoActivitiesOrderedIfSameDay>
+	<Weight_Percentage>100</Weight_Percentage>
 	<First_Activity_Id>100002274</First_Activity_Id>
 	<Second_Activity_Id>200002274</Second_Activity_Id>
 	<Active>true</Active>
@@ -16670,7 +16341,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<First_Activity_Id>100002097</First_Activity_Id>
 	<Second_Activity_Id>200002097</Second_Activity_Id>
-	<Active>true</Active>
+	<Active>false</Active>
 	<Comments></Comments>
 </ConstraintTwoActivitiesConsecutive>
 <ConstraintTwoActivitiesOrderedIfSameDay>
@@ -16757,13 +16428,13 @@
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintTwoActivitiesOrderedIfSameDay>
-<ConstraintTwoActivitiesConsecutive>
+<ConstraintTwoActivitiesOrderedIfSameDay>
 	<Weight_Percentage>100</Weight_Percentage>
-	<First_Activity_Id>100002584</First_Activity_Id>
-	<Second_Activity_Id>200002584</Second_Activity_Id>
+	<First_Activity_Id>100002631</First_Activity_Id>
+	<Second_Activity_Id>200002631</Second_Activity_Id>
 	<Active>true</Active>
 	<Comments></Comments>
-</ConstraintTwoActivitiesConsecutive>
+</ConstraintTwoActivitiesOrderedIfSameDay>
 <ConstraintTwoActivitiesConsecutive>
 	<Weight_Percentage>100</Weight_Percentage>
 	<First_Activity_Id>100002593</First_Activity_Id>
@@ -20067,35 +19738,7 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Rafael Gil Ferques</Teacher>
-	<Number_of_Not_Available_Times>19</Number_of_Not_Available_Times>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>07:30 - 08:20</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>08:20 - 09:10</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (09:10 - 09:25)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>09:25 - 10:15</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>10:15 - 11:05</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>11:05 - 11:55</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (11:55 - 13:10)</Hour>
-	</Not_Available_Time>
+	<Number_of_Not_Available_Times>12</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Segunda-Feira</Day>
 		<Hour>13:10 - 14:00</Hour>
@@ -21139,7 +20782,7 @@
 	<Consecutive_If_Same_Day>false</Consecutive_If_Same_Day>
 	<Number_of_Activities>2</Number_of_Activities>
 	<Activity_Id>100002381</Activity_Id>
-	<Activity_Id>100002467</Activity_Id>
+	<Activity_Id>100002636</Activity_Id>
 	<MinDays>1</MinDays>
 	<Active>true</Active>
 	<Comments>Arranjo TDS</Comments>
@@ -21641,7 +21284,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<First_Activity_Id>100002097</First_Activity_Id>
 	<Second_Activity_Id>200002097</Second_Activity_Id>
-	<Active>true</Active>
+	<Active>false</Active>
 	<Comments>Arranjo TADS: 2021</Comments>
 </ConstraintTwoActivitiesConsecutive>
 <ConstraintMinDaysBetweenActivities>
@@ -22474,7 +22117,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200002550</Activity_Id>
 	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
+	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -22519,7 +22162,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002548</Activity_Id>
 	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -22654,7 +22297,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200002532</Activity_Id>
 	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
+	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -22663,7 +22306,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002171</Activity_Id>
 	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -23401,7 +23044,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002320</Activity_Id>
 	<Preferred_Day>Sexta-Feira</Preferred_Day>
-	<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
+	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -23437,7 +23080,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002369</Activity_Id>
 	<Preferred_Day>Sexta-Feira</Preferred_Day>
-	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
+	<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -23634,8 +23277,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002594</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
+	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -23652,7 +23295,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002469</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
+	<Preferred_Day>Quinta-Feira</Preferred_Day>
 	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -23662,15 +23305,15 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002333</Activity_Id>
 	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
+	<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002468</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Activity_Id>100002658</Activity_Id>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
 	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -24246,8 +23889,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002069</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
+	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24255,8 +23898,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002063</Activity_Id>
-	<Preferred_Day>Quarta-Feira</Preferred_Day>
-	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24273,8 +23916,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002531</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
+	<Preferred_Day>Quarta-Feira</Preferred_Day>
+	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24283,7 +23926,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002565</Activity_Id>
 	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
+	<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24291,8 +23934,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002072</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
+	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24318,8 +23961,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002551</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24336,7 +23979,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002097</Activity_Id>
-	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Day>Segunda-Feira</Preferred_Day>
 	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -24345,7 +23988,7 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200002097</Activity_Id>
-	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Day>Segunda-Feira</Preferred_Day>
 	<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -24400,7 +24043,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002530</Activity_Id>
 	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24436,7 +24079,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200002567</Activity_Id>
 	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
+	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24983,7 +24626,7 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002467</Activity_Id>
+	<Activity_Id>100002636</Activity_Id>
 	<Preferred_Day>Segunda-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
@@ -25019,7 +24662,7 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002584</Activity_Id>
+	<Activity_Id>100002631</Activity_Id>
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
@@ -25028,7 +24671,7 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>200002584</Activity_Id>
+	<Activity_Id>200002631</Activity_Id>
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>

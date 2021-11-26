@@ -20108,15 +20108,7 @@
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Tiago Amaral Silva</Teacher>
-	<Number_of_Not_Available_Times>38</Number_of_Not_Available_Times>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>07:30 - 08:20</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Quarta-Feira</Day>
-		<Hour>08:20 - 09:10</Hour>
-	</Not_Available_Time>
+	<Number_of_Not_Available_Times>36</Number_of_Not_Available_Times>
 	<Not_Available_Time>
 		<Day>Quarta-Feira</Day>
 		<Hour>Intervalo (09:10 - 09:25)</Hour>
@@ -21794,8 +21786,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002199</Activity_Id>
-	<Preferred_Day>Quarta-Feira</Preferred_Day>
-	<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
+	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Hour>13:10 - 14:00</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -21948,7 +21940,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002184</Activity_Id>
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
-	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
+	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -21957,7 +21949,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200002184</Activity_Id>
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
-	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -21965,8 +21957,8 @@
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002179</Activity_Id>
-	<Preferred_Day>Sexta-Feira</Preferred_Day>
-	<Preferred_Hour>13:10 - 14:00</Preferred_Hour>
+	<Preferred_Day>Quarta-Feira</Preferred_Day>
+	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>

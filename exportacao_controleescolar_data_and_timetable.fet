@@ -3534,21 +3534,9 @@
 	<Subject>Máquinas e Acionamentos - 1575</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Students>EIN2019-3ANO</Students>
-	<Duration>2</Duration>
+	<Duration>3</Duration>
 	<Total_Duration>3</Total_Duration>
 	<Id>100002295</Id>
-	<Activity_Group_Id>1575130</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Wylliam Salviano Gongora</Teacher>
-	<Subject>Máquinas e Acionamentos - 1575</Subject>
-	<Activity_Tag>Matutino</Activity_Tag>
-	<Students>EIN2019-3ANO</Students>
-	<Duration>1</Duration>
-	<Total_Duration>3</Total_Duration>
-	<Id>200002295</Id>
 	<Activity_Group_Id>1575130</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -22762,7 +22750,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002302</Activity_Id>
 	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
+	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -22816,7 +22804,7 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002295</Activity_Id>
 	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
+	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -24689,15 +24677,6 @@
 	<Activity_Id>100002377</Activity_Id>
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>200002295</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>

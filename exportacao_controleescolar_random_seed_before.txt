@@ -4,4 +4,4 @@ A semente aleatória no início da geração é:
 	s10=0, s11=1, s12=2,
 	s20=3, s21=4, s22=5.
 
-Esse arquivo foi gerado automaticamente por FET 6.2.2.
+Esse arquivo foi gerado automaticamente por FET 6.2.5.

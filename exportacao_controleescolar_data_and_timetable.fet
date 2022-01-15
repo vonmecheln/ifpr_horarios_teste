@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 
-<fet version="6.2.2">
+<fet version="6.2.5">
 
 <Mode>Official</Mode>
 
@@ -375,6 +375,10 @@
 <Subject>
 	<Name>Sociedade, Educação, Ética Profissional e o Mundo do Trabalho - 702</Name>
 	<Comments>Sociedade, Educação, Ética Profissional e o Mundo do Trabalho</Comments>
+</Subject>
+<Subject>
+	<Name>Plantas espontâneas e defensivos agrícolas - 1125</Name>
+	<Comments>Plantas espontâneas e defensivos agrícolas</Comments>
 </Subject>
 <Subject>
 	<Name>Agricultura geral - 466</Name>
@@ -1329,13 +1333,6 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>Edvaldo Luis Rossini</Name>
-	<Target_Number_of_Hours>20</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
 	<Name>Eliana Peliçon Pereira Figueira</Name>
 	<Target_Number_of_Hours>20</Target_Number_of_Hours>
 	<Qualified_Subjects>
@@ -1344,6 +1341,13 @@
 </Teacher>
 <Teacher>
 	<Name>Elias Franco</Name>
+	<Target_Number_of_Hours>20</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Elizangela Cavazzini Cesca</Name>
 	<Target_Number_of_Hours>20</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -1364,21 +1368,7 @@
 	<Comments></Comments>
 </Teacher>
 <Teacher>
-	<Name>Fábio Fernandes da Silva</Name>
-	<Target_Number_of_Hours>20</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
 	<Name>Grazielli Bueno</Name>
-	<Target_Number_of_Hours>20</Target_Number_of_Hours>
-	<Qualified_Subjects>
-	</Qualified_Subjects>
-	<Comments></Comments>
-</Teacher>
-<Teacher>
-	<Name>Guilherme Masquetti Pelz</Name>
 	<Target_Number_of_Hours>20</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -1470,6 +1460,20 @@
 </Teacher>
 <Teacher>
 	<Name>Marcia Aparecida Barbosa</Name>
+	<Target_Number_of_Hours>20</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Marcos Aurelio Freire Ferraz Passos</Name>
+	<Target_Number_of_Hours>20</Target_Number_of_Hours>
+	<Qualified_Subjects>
+	</Qualified_Subjects>
+	<Comments></Comments>
+</Teacher>
+<Teacher>
+	<Name>Mauro Buss</Name>
 	<Target_Number_of_Hours>20</Target_Number_of_Hours>
 	<Qualified_Subjects>
 	</Qualified_Subjects>
@@ -1860,6 +1864,19 @@
 </Students_List>
 
 <Activities_List>
+<Activity>
+	<Teacher>Elias Franco</Teacher>
+	<Subject>Plantas espontâneas e defensivos agrícolas - 1125</Subject>
+	<Activity_Tag>Matutino</Activity_Tag>
+	<Activity_Tag>Vespertino</Activity_Tag>
+	<Students>AGI2018-3ANO</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100002661</Id>
+	<Activity_Group_Id>112580</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
 <Activity>
 	<Teacher>Carla Melli Tambarussi</Teacher>
 	<Subject>Matemática III - 1086</Subject>
@@ -2446,14 +2463,14 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Edvaldo Luis Rossini</Teacher>
+	<Teacher>Elizangela Cavazzini Cesca</Teacher>
 	<Subject>Química I - 461</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Activity_Tag>Vespertino</Activity_Tag>
 	<Students>AGO2021</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
-	<Id>100002222</Id>
+	<Id>100002669</Id>
 	<Activity_Group_Id>461394</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3206,13 +3223,13 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Edvaldo Luis Rossini</Teacher>
+	<Teacher>Elizangela Cavazzini Cesca</Teacher>
 	<Subject>Química 4 - 235</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Students>EIN2018-4ANO</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
-	<Id>100002344</Id>
+	<Id>100002665</Id>
 	<Activity_Group_Id>23589</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3226,18 +3243,6 @@
 	<Total_Duration>1</Total_Duration>
 	<Id>100002392</Id>
 	<Activity_Group_Id>23889</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Fábio Fernandes da Silva</Teacher>
-	<Subject>Processos de Fabricação 3 - 1590</Subject>
-	<Activity_Tag>Matutino</Activity_Tag>
-	<Students>EIN2018-4ANO</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>100002349</Id>
-	<Activity_Group_Id>159089</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -3314,6 +3319,18 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
+	<Teacher>Mauro Buss</Teacher>
+	<Subject>Processos de Fabricação 3 - 1590</Subject>
+	<Activity_Tag>Matutino</Activity_Tag>
+	<Students>EIN2018-4ANO</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100002349</Id>
+	<Activity_Group_Id>159089</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
 	<Teacher>Mauro César de Souza Siena</Teacher>
 	<Subject>Matemática 4 - 234</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
@@ -3386,13 +3403,13 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Edvaldo Luis Rossini</Teacher>
+	<Teacher>Elizangela Cavazzini Cesca</Teacher>
 	<Subject>Química 3 - 211</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Students>EIN2019-3ANO</Students>
 	<Duration>1</Duration>
 	<Total_Duration>1</Total_Duration>
-	<Id>100002342</Id>
+	<Id>100002667</Id>
 	<Activity_Group_Id>211130</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3422,15 +3439,15 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Fábio Fernandes da Silva</Teacher>
-	<Subject>Processos de Fabricação 2 - 1573</Subject>
+	<Teacher>Grazielli Bueno</Teacher>
+	<Subject>Projetos e Instalações Elétricas - 200</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Students>EIN2019-3ANO</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
-	<Id>100002352</Id>
-	<Activity_Group_Id>1573130</Activity_Group_Id>
-	<Active>true</Active>
+	<Id>100002429</Id>
+	<Activity_Group_Id>200130</Activity_Group_Id>
+	<Active>false</Active>
 	<Comments></Comments>
 </Activity>
 <Activity>
@@ -3482,14 +3499,14 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Luiz Inácio Chaves</Teacher>
-	<Subject>Projetos e Instalações Elétricas - 200</Subject>
+	<Teacher>Mauro Buss</Teacher>
+	<Subject>Processos de Fabricação 2 - 1573</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Students>EIN2019-3ANO</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
-	<Id>100002429</Id>
-	<Activity_Group_Id>200130</Activity_Group_Id>
+	<Id>100002352</Id>
+	<Activity_Group_Id>1573130</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -3578,13 +3595,13 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Edvaldo Luis Rossini</Teacher>
+	<Teacher>Elizangela Cavazzini Cesca</Teacher>
 	<Subject>Química 2 - 187</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Students>EIN2020-2ANO</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
-	<Id>100002343</Id>
+	<Id>100002668</Id>
 	<Activity_Group_Id>187274</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -3610,30 +3627,6 @@
 	<Total_Duration>1</Total_Duration>
 	<Id>100002369</Id>
 	<Activity_Group_Id>170274</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Fábio Fernandes da Silva</Teacher>
-	<Subject>Processos de Fabricação 1 - 1552</Subject>
-	<Activity_Tag>Matutino</Activity_Tag>
-	<Students>EIN2020-2ANO</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>100002351</Id>
-	<Activity_Group_Id>1552274</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Guilherme Masquetti Pelz</Teacher>
-	<Subject>Sistemas Digitais - 1553</Subject>
-	<Activity_Tag>Matutino</Activity_Tag>
-	<Students>EIN2020-2ANO</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>100002421</Id>
-	<Activity_Group_Id>1553274</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -3682,6 +3675,30 @@
 	<Total_Duration>2</Total_Duration>
 	<Id>100002488</Id>
 	<Activity_Group_Id>154274</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Marcos Aurelio Freire Ferraz Passos</Teacher>
+	<Subject>Sistemas Digitais - 1553</Subject>
+	<Activity_Tag>Matutino</Activity_Tag>
+	<Students>EIN2020-2ANO</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100002421</Id>
+	<Activity_Group_Id>1553274</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mauro Buss</Teacher>
+	<Subject>Processos de Fabricação 1 - 1552</Subject>
+	<Activity_Tag>Matutino</Activity_Tag>
+	<Students>EIN2020-2ANO</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100002351</Id>
+	<Activity_Group_Id>1552274</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -3770,18 +3787,6 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Edvaldo Luis Rossini</Teacher>
-	<Subject>Química 1 - 143</Subject>
-	<Activity_Tag>Matutino</Activity_Tag>
-	<Students>EIN2021-1ANO</Students>
-	<Duration>1</Duration>
-	<Total_Duration>1</Total_Duration>
-	<Id>100002341</Id>
-	<Activity_Group_Id>143426</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
 	<Teacher>Eliana Peliçon Pereira Figueira</Teacher>
 	<Subject>Biologia 1 - 122</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
@@ -3790,6 +3795,18 @@
 	<Total_Duration>1</Total_Duration>
 	<Id>100002291</Id>
 	<Activity_Group_Id>122426</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Elizangela Cavazzini Cesca</Teacher>
+	<Subject>Química 1 - 143</Subject>
+	<Activity_Tag>Matutino</Activity_Tag>
+	<Students>EIN2021-1ANO</Students>
+	<Duration>1</Duration>
+	<Total_Duration>1</Total_Duration>
+	<Id>100002663</Id>
+	<Activity_Group_Id>143426</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -3814,30 +3831,6 @@
 	<Total_Duration>1</Total_Duration>
 	<Id>100002368</Id>
 	<Activity_Group_Id>123426</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Fábio Fernandes da Silva</Teacher>
-	<Subject>Tecnologia dos Materiais - 1531</Subject>
-	<Activity_Tag>Matutino</Activity_Tag>
-	<Students>EIN2021-1ANO</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>100002350</Id>
-	<Activity_Group_Id>1531426</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Guilherme Masquetti Pelz</Teacher>
-	<Subject>Eletricidade e Medidas Elétricas - 1530</Subject>
-	<Activity_Tag>Matutino</Activity_Tag>
-	<Students>EIN2021-1ANO</Students>
-	<Duration>3</Duration>
-	<Total_Duration>3</Total_Duration>
-	<Id>100002420</Id>
-	<Activity_Group_Id>1530426</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -3874,6 +3867,18 @@
 	<Total_Duration>1</Total_Duration>
 	<Id>100002594</Id>
 	<Activity_Group_Id>121426</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mauro Buss</Teacher>
+	<Subject>Tecnologia dos Materiais - 1531</Subject>
+	<Activity_Tag>Matutino</Activity_Tag>
+	<Students>EIN2021-1ANO</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100002350</Id>
+	<Activity_Group_Id>1531426</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -3938,6 +3943,18 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
+	<Teacher>Tiago Henrique dos Santos</Teacher>
+	<Subject>Eletricidade e Medidas Elétricas - 1530</Subject>
+	<Activity_Tag>Matutino</Activity_Tag>
+	<Students>EIN2021-1ANO</Students>
+	<Duration>3</Duration>
+	<Total_Duration>3</Total_Duration>
+	<Id>100002420</Id>
+	<Activity_Group_Id>1530426</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
 	<Teacher>Alex Miyamoto Mussi</Teacher>
 	<Subject>Instalações Elétricas - 691</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
@@ -3958,18 +3975,6 @@
 	<Total_Duration>4</Total_Duration>
 	<Id>200002529</Id>
 	<Activity_Group_Id>691419</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Alex Miyamoto Mussi</Teacher>
-	<Subject>Projetos Elétricos Industriais - 794</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>ELE2019-4SEM</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>100002527</Id>
-	<Activity_Group_Id>794419</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -4010,30 +4015,6 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Tiago Henrique dos Santos</Teacher>
-	<Subject>Eletrônica de Potência - 793</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>ELE2019-4SEM</Students>
-	<Duration>2</Duration>
-	<Total_Duration>4</Total_Duration>
-	<Id>100002612</Id>
-	<Activity_Group_Id>793419</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Tiago Henrique dos Santos</Teacher>
-	<Subject>Eletrônica de Potência - 793</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>ELE2019-4SEM</Students>
-	<Duration>2</Duration>
-	<Total_Duration>4</Total_Duration>
-	<Id>200002612</Id>
-	<Activity_Group_Id>793419</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
 	<Teacher>Wylliam Salviano Gongora</Teacher>
 	<Subject>Acionamentos Elétricos - 1132</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
@@ -4054,6 +4035,42 @@
 	<Total_Duration>4</Total_Duration>
 	<Id>200002525</Id>
 	<Activity_Group_Id>1132419</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Alex Miyamoto Mussi</Teacher>
+	<Subject>Projetos Elétricos Industriais - 794</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>ELE2019-4SEM</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100002527</Id>
+	<Activity_Group_Id>794419</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Tiago Henrique dos Santos</Teacher>
+	<Subject>Eletrônica de Potência - 793</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>ELE2019-4SEM</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>100002612</Id>
+	<Activity_Group_Id>793419</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Tiago Henrique dos Santos</Teacher>
+	<Subject>Eletrônica de Potência - 793</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>ELE2019-4SEM</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>200002612</Id>
+	<Activity_Group_Id>793419</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -4118,7 +4135,19 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Guilherme Masquetti Pelz</Teacher>
+	<Teacher>Kátia Cristiane Kobus Novaes</Teacher>
+	<Subject>Português Instrumental - 1548</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>ELE2021-2SEM</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100002523</Id>
+	<Activity_Group_Id>1548420</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Marcos Aurelio Freire Ferraz Passos</Teacher>
 	<Subject>Análise de Circuitos - 689</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>ELE2021-2SEM</Students>
@@ -4130,7 +4159,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Guilherme Masquetti Pelz</Teacher>
+	<Teacher>Marcos Aurelio Freire Ferraz Passos</Teacher>
 	<Subject>Análise de Circuitos - 689</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>ELE2021-2SEM</Students>
@@ -4138,18 +4167,6 @@
 	<Total_Duration>4</Total_Duration>
 	<Id>200002517</Id>
 	<Activity_Group_Id>689420</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Kátia Cristiane Kobus Novaes</Teacher>
-	<Subject>Português Instrumental - 1548</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>ELE2021-2SEM</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>100002523</Id>
-	<Activity_Group_Id>1548420</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -4174,42 +4191,6 @@
 	<Total_Duration>4</Total_Duration>
 	<Id>200002518</Id>
 	<Activity_Group_Id>1766420</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Fábio Fernandes da Silva</Teacher>
-	<Subject>Circuitos Hidráulicos e Pneumáticos - 347</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>ELM2020</Students>
-	<Duration>2</Duration>
-	<Total_Duration>4</Total_Duration>
-	<Id>100002498</Id>
-	<Activity_Group_Id>347249</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Fábio Fernandes da Silva</Teacher>
-	<Subject>Circuitos Hidráulicos e Pneumáticos - 347</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>ELM2020</Students>
-	<Duration>2</Duration>
-	<Total_Duration>4</Total_Duration>
-	<Id>200002498</Id>
-	<Activity_Group_Id>347249</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Fábio Fernandes da Silva</Teacher>
-	<Subject>Elementos de Máquinas - 349</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>ELM2020</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>100002499</Id>
-	<Activity_Group_Id>349249</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -4250,7 +4231,55 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Novo Professor de Elétrica PSS - 40h</Teacher>
+	<Teacher>Marcos Aurelio Freire Ferraz Passos</Teacher>
+	<Subject>Robótica Aplicada - 350</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>ELM2020</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100002502</Id>
+	<Activity_Group_Id>350249</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mauro Buss</Teacher>
+	<Subject>Circuitos Hidráulicos e Pneumáticos - 347</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>ELM2020</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>100002498</Id>
+	<Activity_Group_Id>347249</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mauro Buss</Teacher>
+	<Subject>Circuitos Hidráulicos e Pneumáticos - 347</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>ELM2020</Students>
+	<Duration>2</Duration>
+	<Total_Duration>4</Total_Duration>
+	<Id>200002498</Id>
+	<Activity_Group_Id>347249</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mauro Buss</Teacher>
+	<Subject>Elementos de Máquinas - 349</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>ELM2020</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100002499</Id>
+	<Activity_Group_Id>349249</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Marcos Aurelio Freire Ferraz Passos</Teacher>
 	<Subject>Projetos Elétricos Industriais - 346</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>ELM2020</Students>
@@ -4262,7 +4291,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Novo Professor de Elétrica PSS - 40h</Teacher>
+	<Teacher>Marcos Aurelio Freire Ferraz Passos</Teacher>
 	<Subject>Projetos Elétricos Industriais - 346</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>ELM2020</Students>
@@ -4270,18 +4299,6 @@
 	<Total_Duration>4</Total_Duration>
 	<Id>200002501</Id>
 	<Activity_Group_Id>346249</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Novo Professor de Elétrica PSS - 40h</Teacher>
-	<Subject>Robótica Aplicada - 350</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>ELM2020</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>100002502</Id>
-	<Activity_Group_Id>350249</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -4322,19 +4339,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Fábio Fernandes da Silva</Teacher>
-	<Subject>Processos de Fabricação II - 344</Subject>
-	<Activity_Tag>Noturno</Activity_Tag>
-	<Students>ELM2021</Students>
-	<Duration>2</Duration>
-	<Total_Duration>2</Total_Duration>
-	<Id>100002271</Id>
-	<Activity_Group_Id>344421</Activity_Group_Id>
-	<Active>true</Active>
-	<Comments></Comments>
-</Activity>
-<Activity>
-	<Teacher>Guilherme Masquetti Pelz</Teacher>
+	<Teacher>Marcos Aurelio Freire Ferraz Passos</Teacher>
 	<Subject>Análise de Circuitos - 341</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>ELM2021</Students>
@@ -4346,7 +4351,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Guilherme Masquetti Pelz</Teacher>
+	<Teacher>Marcos Aurelio Freire Ferraz Passos</Teacher>
 	<Subject>Análise de Circuitos - 341</Subject>
 	<Activity_Tag>Noturno</Activity_Tag>
 	<Students>ELM2021</Students>
@@ -4354,6 +4359,18 @@
 	<Total_Duration>4</Total_Duration>
 	<Id>200002274</Id>
 	<Activity_Group_Id>341421</Activity_Group_Id>
+	<Active>true</Active>
+	<Comments></Comments>
+</Activity>
+<Activity>
+	<Teacher>Mauro Buss</Teacher>
+	<Subject>Processos de Fabricação II - 344</Subject>
+	<Activity_Tag>Noturno</Activity_Tag>
+	<Students>ELM2021</Students>
+	<Duration>2</Duration>
+	<Total_Duration>2</Total_Duration>
+	<Id>100002271</Id>
+	<Activity_Group_Id>344421</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
@@ -5125,14 +5142,14 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Edvaldo Luis Rossini</Teacher>
+	<Teacher>Elizangela Cavazzini Cesca</Teacher>
 	<Subject>Química I - 1068</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Activity_Tag>Vespertino</Activity_Tag>
 	<Students>IIW2021</Students>
 	<Duration>2</Duration>
 	<Total_Duration>2</Total_Duration>
-	<Id>100002113</Id>
+	<Id>100002670</Id>
 	<Activity_Group_Id>1068335</Activity_Group_Id>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -17932,157 +17949,6 @@
 </ConstraintTeacherNotAvailableTimes>
 <ConstraintTeacherNotAvailableTimes>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Teacher>Guilherme Masquetti Pelz</Teacher>
-	<Number_of_Not_Available_Times>36</Number_of_Not_Available_Times>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (09:10 - 09:25)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>09:25 - 10:15</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>10:15 - 11:05</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>11:05 - 11:55</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (11:55 - 13:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>13:10 - 14:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>14:00 - 14:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (14:50 - 15:05)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>15:05 - 15:55</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>15:55 - 16:45</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (16:45 - 18:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>18:10 - 19:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>19:00 - 19:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>19:50 - 20:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>Intervalo (20:40 - 21:00)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>21:00 - 21:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Segunda-Feira</Day>
-		<Hour>21:50 - 22:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>07:30 - 08:20</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>08:20 - 09:10</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (09:10 - 09:25)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>09:25 - 10:15</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>10:15 - 11:05</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>11:05 - 11:55</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (11:55 - 13:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>13:10 - 14:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>14:00 - 14:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (14:50 - 15:05)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>15:05 - 15:55</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>15:55 - 16:45</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (16:45 - 18:10)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>18:10 - 19:00</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>19:00 - 19:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>19:50 - 20:40</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>Intervalo (20:40 - 21:00)</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>21:00 - 21:50</Hour>
-	</Not_Available_Time>
-	<Not_Available_Time>
-		<Day>Terça-Feira</Day>
-		<Hour>21:50 - 22:40</Hour>
-	</Not_Available_Time>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintTeacherNotAvailableTimes>
-<ConstraintTeacherNotAvailableTimes>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Teacher>Humberto Fioravante Ferro</Teacher>
 	<Number_of_Not_Available_Times>19</Number_of_Not_Available_Times>
 	<Not_Available_Time>
@@ -21596,6 +21462,15 @@
 </ConstraintActivitiesNotOverlapping>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002661</Activity_Id>
+	<Preferred_Day>Quarta-Feira</Preferred_Day>
+	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002539</Activity_Id>
 	<Preferred_Day>Segunda-Feira</Preferred_Day>
 	<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
@@ -22001,7 +21876,7 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002222</Activity_Id>
+	<Activity_Id>100002669</Activity_Id>
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
 	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
@@ -22559,7 +22434,7 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002344</Activity_Id>
+	<Activity_Id>100002665</Activity_Id>
 	<Preferred_Day>Quinta-Feira</Preferred_Day>
 	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
@@ -22571,15 +22446,6 @@
 	<Activity_Id>100002392</Activity_Id>
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
 	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002349</Activity_Id>
-	<Preferred_Day>Quarta-Feira</Preferred_Day>
-	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -22640,6 +22506,15 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002349</Activity_Id>
+	<Preferred_Day>Quarta-Feira</Preferred_Day>
+	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002375</Activity_Id>
 	<Preferred_Day>Sexta-Feira</Preferred_Day>
 	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
@@ -22694,7 +22569,7 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002342</Activity_Id>
+	<Activity_Id>100002667</Activity_Id>
 	<Preferred_Day>Sexta-Feira</Preferred_Day>
 	<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
@@ -22721,8 +22596,8 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002352</Activity_Id>
-	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Activity_Id>100002431</Activity_Id>
+	<Preferred_Day>Segunda-Feira</Preferred_Day>
 	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -22733,15 +22608,6 @@
 	<Activity_Id>100002337</Activity_Id>
 	<Preferred_Day>Segunda-Feira</Preferred_Day>
 	<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002431</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -22766,8 +22632,8 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002429</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Activity_Id>100002352</Activity_Id>
+	<Preferred_Day>Sexta-Feira</Preferred_Day>
 	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -22838,7 +22704,7 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002343</Activity_Id>
+	<Activity_Id>100002668</Activity_Id>
 	<Preferred_Day>Sexta-Feira</Preferred_Day>
 	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
@@ -22859,24 +22725,6 @@
 	<Activity_Id>100002369</Activity_Id>
 	<Preferred_Day>Sexta-Feira</Preferred_Day>
 	<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002351</Activity_Id>
-	<Preferred_Day>Quarta-Feira</Preferred_Day>
-	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002421</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -22912,6 +22760,24 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002488</Activity_Id>
 	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002421</Activity_Id>
+	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002351</Activity_Id>
+	<Preferred_Day>Quarta-Feira</Preferred_Day>
 	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -22982,8 +22848,8 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002341</Activity_Id>
-	<Preferred_Day>Quarta-Feira</Preferred_Day>
+	<Activity_Id>100002291</Activity_Id>
+	<Preferred_Day>Quinta-Feira</Preferred_Day>
 	<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -22991,8 +22857,8 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002291</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Activity_Id>100002663</Activity_Id>
+	<Preferred_Day>Quarta-Feira</Preferred_Day>
 	<Preferred_Hour>08:20 - 09:10</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -23012,24 +22878,6 @@
 	<Activity_Id>100002368</Activity_Id>
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
 	<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002350</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>false</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002420</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -23057,6 +22905,15 @@
 	<Activity_Id>100002594</Activity_Id>
 	<Preferred_Day>Quinta-Feira</Preferred_Day>
 	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002350</Activity_Id>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
+	<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -23108,6 +22965,15 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002420</Activity_Id>
+	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002529</Activity_Id>
 	<Preferred_Day>Terça-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
@@ -23119,15 +22985,6 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200002529</Activity_Id>
 	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002527</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -23162,24 +23019,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002612</Activity_Id>
-	<Preferred_Day>Quarta-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>200002612</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002525</Activity_Id>
 	<Preferred_Day>Quinta-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
@@ -23198,9 +23037,27 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002520</Activity_Id>
+	<Activity_Id>100002527</Activity_Id>
+	<Preferred_Day>Segunda-Feira</Preferred_Day>
+	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002612</Activity_Id>
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>200002612</Activity_Id>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
+	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -23225,33 +23082,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002517</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>200002517</Activity_Id>
-	<Preferred_Day>Sexta-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002523</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002519</Activity_Id>
 	<Preferred_Day>Segunda-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
@@ -23270,6 +23100,42 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002520</Activity_Id>
+	<Preferred_Day>Quarta-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002523</Activity_Id>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002517</Activity_Id>
+	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>200002517</Activity_Id>
+	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002518</Activity_Id>
 	<Preferred_Day>Quinta-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
@@ -23281,6 +23147,42 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200002518</Activity_Id>
 	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002496</Activity_Id>
+	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002497</Activity_Id>
+	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>200002497</Activity_Id>
+	<Preferred_Day>Sexta-Feira</Preferred_Day>
+	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002502</Activity_Id>
+	<Preferred_Day>Terça-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -23315,33 +23217,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002496</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002497</Activity_Id>
-	<Preferred_Day>Sexta-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>200002497</Activity_Id>
-	<Preferred_Day>Sexta-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002501</Activity_Id>
 	<Preferred_Day>Segunda-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
@@ -23360,17 +23235,8 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002502</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002500</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
+	<Preferred_Day>Quinta-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -23396,15 +23262,6 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002271</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002274</Activity_Id>
 	<Preferred_Day>Sexta-Feira</Preferred_Day>
 	<Preferred_Hour>19:00 - 19:50</Preferred_Hour>
@@ -23416,6 +23273,15 @@
 	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>200002274</Activity_Id>
 	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002271</Activity_Id>
+	<Preferred_Day>Segunda-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
@@ -23684,6 +23550,24 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002100</Activity_Id>
+	<Preferred_Day>Segunda-Feira</Preferred_Day>
+	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>200002100</Activity_Id>
+	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
 	<Activity_Id>100002066</Activity_Id>
 	<Preferred_Day>Quinta-Feira</Preferred_Day>
 	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
@@ -23714,24 +23598,6 @@
 	<Activity_Id>100002072</Activity_Id>
 	<Preferred_Day>Segunda-Feira</Preferred_Day>
 	<Preferred_Hour>11:05 - 11:55</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002100</Activity_Id>
-	<Preferred_Day>Segunda-Feira</Preferred_Day>
-	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>200002100</Activity_Id>
-	<Preferred_Day>Quinta-Feira</Preferred_Day>
-	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>
@@ -23981,7 +23847,7 @@
 </ConstraintActivityPreferredStartingTime>
 <ConstraintActivityPreferredStartingTime>
 	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002113</Activity_Id>
+	<Activity_Id>100002670</Activity_Id>
 	<Preferred_Day>Terça-Feira</Preferred_Day>
 	<Preferred_Hour>09:25 - 10:15</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
@@ -24677,15 +24543,6 @@
 	<Activity_Id>100002377</Activity_Id>
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
-	<Permanently_Locked>false</Permanently_Locked>
-	<Active>true</Active>
-	<Comments></Comments>
-</ConstraintActivityPreferredStartingTime>
-<ConstraintActivityPreferredStartingTime>
-	<Weight_Percentage>100</Weight_Percentage>
-	<Activity_Id>100002350</Activity_Id>
-	<Preferred_Day>Terça-Feira</Preferred_Day>
-	<Preferred_Hour>10:15 - 11:05</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>

@@ -3403,7 +3403,7 @@
 	<Comments></Comments>
 </Activity>
 <Activity>
-	<Teacher>Grazielli Bueno</Teacher>
+	<Teacher>Luiz Inácio Chaves</Teacher>
 	<Subject>Projetos e Instalações Elétricas - 200</Subject>
 	<Activity_Tag>Matutino</Activity_Tag>
 	<Students>EIN2019-3ANO</Students>
@@ -3411,7 +3411,7 @@
 	<Total_Duration>2</Total_Duration>
 	<Id>100002429</Id>
 	<Activity_Group_Id>200130</Activity_Group_Id>
-	<Active>false</Active>
+	<Active>true</Active>
 	<Comments></Comments>
 </Activity>
 <Activity>
@@ -23674,6 +23674,15 @@
 	<Activity_Id>100002377</Activity_Id>
 	<Preferred_Day>Quarta-Feira</Preferred_Day>
 	<Preferred_Hour>21:00 - 21:50</Preferred_Hour>
+	<Permanently_Locked>false</Permanently_Locked>
+	<Active>true</Active>
+	<Comments></Comments>
+</ConstraintActivityPreferredStartingTime>
+<ConstraintActivityPreferredStartingTime>
+	<Weight_Percentage>100</Weight_Percentage>
+	<Activity_Id>100002429</Activity_Id>
+	<Preferred_Day>Quinta-Feira</Preferred_Day>
+	<Preferred_Hour>07:30 - 08:20</Preferred_Hour>
 	<Permanently_Locked>false</Permanently_Locked>
 	<Active>true</Active>
 	<Comments></Comments>

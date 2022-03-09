@@ -1,7 +1,7 @@
 ﻿Geração iniciada em: --/--/---- --:--
 
 A semente aleatória no início da geração é:
-	s10=1646852888, s11=624644751, s12=0,
-	s20=1646852888, s21=624644771, s22=0.
+	s10=0, s11=1, s12=2,
+	s20=3, s21=4, s22=5.
 
 Esse arquivo foi gerado automaticamente por FET 6.3.0.

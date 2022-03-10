@@ -8,7 +8,7 @@
 </Activity>
 <Activity>
 	<Id>100002874</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room>Laboratório de Física</Room>
 </Activity>
@@ -26,49 +26,49 @@
 </Activity>
 <Activity>
 	<Id>100002928</Id>
-	<Day>Sexta-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>13:10 - 14:00</Hour>
 	<Room>Laboratório de Informatica B</Room>
 </Activity>
 <Activity>
 	<Id>100002940</Id>
 	<Day>Sexta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Sala 13-2</Room>
 </Activity>
 <Activity>
 	<Id>100002966</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
-	<Room>Sala 3-1</Room>
-</Activity>
-<Activity>
-	<Id>200002966</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>11:05 - 11:55</Hour>
-	<Room>Sala 3-1</Room>
-</Activity>
-<Activity>
-	<Id>100002967</Id>
 	<Day>Sexta-Feira</Day>
 	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 3-1</Room>
 </Activity>
 <Activity>
+	<Id>200002966</Id>
+	<Day>Terça-Feira</Day>
+	<Hour>11:05 - 11:55</Hour>
+	<Room>Sala 3-1</Room>
+</Activity>
+<Activity>
+	<Id>100002967</Id>
+	<Day>Terça-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
+	<Room>Sala 3-1</Room>
+</Activity>
+<Activity>
 	<Id>100003056</Id>
-	<Day>Quinta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>100003047</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 16-2</Room>
 </Activity>
 <Activity>
 	<Id>200003047</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 16-2</Room>
 </Activity>
@@ -93,67 +93,67 @@
 <Activity>
 	<Id>100002685</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
-	<Room>Laboratório de Informatica A</Room>
+	<Hour>19:00 - 19:50</Hour>
+	<Room>Laboratório de Informatica B</Room>
 </Activity>
 <Activity>
 	<Id>100002873</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Hour>21:00 - 21:50</Hour>
 	<Room>Laboratório de Informatica C</Room>
 </Activity>
 <Activity>
 	<Id>100002950</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>13:10 - 14:00</Hour>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Laboratório de Informatica A</Room>
 </Activity>
 <Activity>
 	<Id>100002963</Id>
 	<Day>Quarta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 3-1</Room>
 </Activity>
 <Activity>
 	<Id>100002946</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>11:05 - 11:55</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 11-2</Room>
 </Activity>
 <Activity>
 	<Id>100002907</Id>
 	<Day>Quarta-Feira</Day>
 	<Hour>09:25 - 10:15</Hour>
-	<Room>BioPark-02</Room>
+	<Room>BioPark-01</Room>
 </Activity>
 <Activity>
 	<Id>100002925</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Segunda-Feira</Day>
 	<Hour>11:05 - 11:55</Hour>
 	<Room>Sala 12-2</Room>
 </Activity>
 <Activity>
 	<Id>200002925</Id>
 	<Day>Terça-Feira</Day>
-	<Hour>15:05 - 15:55</Hour>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 12-2</Room>
 </Activity>
 <Activity>
 	<Id>100002958</Id>
 	<Day>Terça-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 3-1</Room>
 </Activity>
 <Activity>
 	<Id>100002953</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>08:20 - 09:10</Hour>
 	<Room>Sala 13-2</Room>
 </Activity>
 <Activity>
 	<Id>200002953</Id>
 	<Day>Terça-Feira</Day>
-	<Hour>08:20 - 09:10</Hour>
+	<Hour>11:05 - 11:55</Hour>
 	<Room>Sala 13-2</Room>
 </Activity>
 <Activity>
@@ -170,26 +170,26 @@
 </Activity>
 <Activity>
 	<Id>100002919</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>15:05 - 15:55</Hour>
 	<Room>Laboratório de Biologia</Room>
 </Activity>
 <Activity>
 	<Id>100002727</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Day>Sexta-Feira</Day>
+	<Hour>13:10 - 14:00</Hour>
 	<Room>Laboratório de Biologia</Room>
 </Activity>
 <Activity>
 	<Id>100002893</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 11-2</Room>
 </Activity>
 <Activity>
 	<Id>100003040</Id>
 	<Day>Quarta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 11-2</Room>
 </Activity>
 <Activity>
@@ -200,8 +200,8 @@
 </Activity>
 <Activity>
 	<Id>100002805</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Laboratório de Física</Room>
 </Activity>
 <Activity>
@@ -212,19 +212,19 @@
 </Activity>
 <Activity>
 	<Id>100002840</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
-	<Room>Laboratório de Física</Room>
-</Activity>
-<Activity>
-	<Id>100002856</Id>
 	<Day>Sexta-Feira</Day>
 	<Hour>10:15 - 11:05</Hour>
 	<Room>Laboratório de Física</Room>
 </Activity>
 <Activity>
+	<Id>100002856</Id>
+	<Day>Sexta-Feira</Day>
+	<Hour>07:30 - 08:20</Hour>
+	<Room>Laboratório de Física</Room>
+</Activity>
+<Activity>
 	<Id>100002872</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>Laboratório de Física</Room>
 </Activity>
@@ -248,7 +248,7 @@
 </Activity>
 <Activity>
 	<Id>100002902</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 12-2</Room>
 </Activity>
@@ -262,49 +262,49 @@
 	<Id>200002912</Id>
 	<Day>Quarta-Feira</Day>
 	<Hour>07:30 - 08:20</Hour>
-	<Room>BioPark-02</Room>
+	<Room>BioPark-01</Room>
 </Activity>
 <Activity>
 	<Id>100002742</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Sexta-Feira</Day>
 	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 14-2</Room>
 </Activity>
 <Activity>
 	<Id>100002743</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>15:05 - 15:55</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>13:10 - 14:00</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>100002744</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>13:10 - 14:00</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>15:05 - 15:55</Hour>
 	<Room>Sala 16-2</Room>
 </Activity>
 <Activity>
 	<Id>100002961</Id>
-	<Day>Quinta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Sexta-Feira</Day>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Sala 3-1</Room>
 </Activity>
 <Activity>
 	<Id>200002961</Id>
-	<Day>Quinta-Feira</Day>
-	<Hour>11:05 - 11:55</Hour>
+	<Day>Sexta-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 3-1</Room>
 </Activity>
 <Activity>
 	<Id>100002886</Id>
-	<Day>Quinta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
-	<Room>Sala 7-2</Room>
+	<Day>Sexta-Feira</Day>
+	<Hour>19:00 - 19:50</Hour>
+	<Room>Sala 9-2</Room>
 </Activity>
 <Activity>
 	<Id>200002886</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>19:50 - 20:40</Hour>
-	<Room>Sala 9-2</Room>
+	<Day>Quinta-Feira</Day>
+	<Hour>19:00 - 19:50</Hour>
+	<Room>Sala 7-2</Room>
 </Activity>
 <Activity>
 	<Id>100003055</Id>
@@ -326,21 +326,21 @@
 </Activity>
 <Activity>
 	<Id>100003100</Id>
-	<Day>Quinta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>19:00 - 19:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>200003100</Id>
-	<Day>Segunda-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>100002899</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
-	<Room>Sala 7-2</Room>
+	<Hour>21:00 - 21:50</Hour>
+	<Room>Sala 9-2</Room>
 </Activity>
 <Activity>
 	<Id>100002908</Id>
@@ -351,7 +351,7 @@
 <Activity>
 	<Id>100002959</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 3-1</Room>
 </Activity>
 <Activity>
@@ -369,37 +369,37 @@
 <Activity>
 	<Id>100002741</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 14-2</Room>
 </Activity>
 <Activity>
 	<Id>100003053</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>200003053</Id>
 	<Day>Sexta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>100003102</Id>
 	<Day>Quarta-Feira</Day>
-	<Hour>11:05 - 11:55</Hour>
+	<Hour>08:20 - 09:10</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>100003103</Id>
 	<Day>Quarta-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Hour>09:25 - 10:15</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
 	<Id>100003104</Id>
 	<Day>Quarta-Feira</Day>
-	<Hour>08:20 - 09:10</Hour>
+	<Hour>11:05 - 11:55</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
@@ -422,13 +422,13 @@
 </Activity>
 <Activity>
 	<Id>100003058</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Day>Sexta-Feira</Day>
+	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>200003058</Id>
-	<Day>Sexta-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
@@ -440,44 +440,44 @@
 </Activity>
 <Activity>
 	<Id>100002944</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Segunda-Feira</Day>
 	<Hour>07:30 - 08:20</Hour>
-	<Room>Laboratório de Informatica A</Room>
+	<Room>Laboratório de Informatica B</Room>
 </Activity>
 <Activity>
 	<Id>100002681</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>15:05 - 15:55</Hour>
-	<Room>Laboratório de Informatica C</Room>
+	<Hour>13:10 - 14:00</Hour>
+	<Room>Laboratório de Informatica B</Room>
 </Activity>
 <Activity>
 	<Id>100002682</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>13:10 - 14:00</Hour>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 12-2</Room>
 </Activity>
 <Activity>
 	<Id>100002962</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 3-1</Room>
 </Activity>
 <Activity>
 	<Id>100002952</Id>
 	<Day>Quinta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Laboratório de Informatica A</Room>
 </Activity>
 <Activity>
 	<Id>100002677</Id>
 	<Day>Quinta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
-	<Room>Laboratório de Informatica A</Room>
+	<Room>Laboratório de Informatica B</Room>
 </Activity>
 <Activity>
 	<Id>100002920</Id>
 	<Day>Quarta-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Laboratório de Informatica A</Room>
 </Activity>
 <Activity>
@@ -490,7 +490,7 @@
 	<Id>200002909</Id>
 	<Day>Quinta-Feira</Day>
 	<Hour>10:15 - 11:05</Hour>
-	<Room>BioPark-02</Room>
+	<Room>BioPark-01</Room>
 </Activity>
 <Activity>
 	<Id>100002938</Id>
@@ -512,74 +512,74 @@
 </Activity>
 <Activity>
 	<Id>100002754</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>08:20 - 09:10</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Laboratório de Biologia</Room>
 </Activity>
 <Activity>
 	<Id>100002725</Id>
-	<Day>Segunda-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>13:10 - 14:00</Hour>
 	<Room>Laboratório de Biologia</Room>
 </Activity>
 <Activity>
 	<Id>100002900</Id>
-	<Day>Quarta-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 12-2</Room>
 </Activity>
 <Activity>
 	<Id>200002900</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 12-2</Room>
 </Activity>
 <Activity>
 	<Id>100002694</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>13:10 - 14:00</Hour>
+	<Day>Sexta-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 16-2</Room>
 </Activity>
 <Activity>
 	<Id>100002695</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Sexta-Feira</Day>
 	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>100002697</Id>
-	<Day>Quinta-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
-	<Room>Sala 14-2</Room>
-</Activity>
-<Activity>
-	<Id>200002697</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 14-2</Room>
 </Activity>
 <Activity>
+	<Id>200002697</Id>
+	<Day>Sexta-Feira</Day>
+	<Hour>19:00 - 19:50</Hour>
+	<Room>Sala 14-2</Room>
+</Activity>
+<Activity>
 	<Id>100002696</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Day>Quarta-Feira</Day>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>100002748</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
-	<Room>Sala 16-2</Room>
-</Activity>
-<Activity>
-	<Id>200002748</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Sexta-Feira</Day>
 	<Hour>11:05 - 11:55</Hour>
 	<Room>Sala 16-2</Room>
 </Activity>
 <Activity>
-	<Id>100002812</Id>
-	<Day>Segunda-Feira</Day>
+	<Id>200002748</Id>
+	<Day>Quarta-Feira</Day>
 	<Hour>09:25 - 10:15</Hour>
+	<Room>Sala 16-2</Room>
+</Activity>
+<Activity>
+	<Id>100002812</Id>
+	<Day>Terça-Feira</Day>
+	<Hour>11:05 - 11:55</Hour>
 	<Room>Laboratório de Química</Room>
 </Activity>
 <Activity>
@@ -602,103 +602,103 @@
 </Activity>
 <Activity>
 	<Id>100002676</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Laboratório de Química</Room>
 </Activity>
 <Activity>
 	<Id>100002747</Id>
-	<Day>Segunda-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>13:10 - 14:00</Hour>
 	<Room>Laboratório de Química</Room>
 </Activity>
 <Activity>
 	<Id>100002813</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 6-2</Room>
 </Activity>
 <Activity>
 	<Id>100002833</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>08:20 - 09:10</Hour>
 	<Room>Sala 7-2</Room>
 </Activity>
 <Activity>
 	<Id>100002851</Id>
-	<Day>Quinta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Day>Quarta-Feira</Day>
+	<Hour>08:20 - 09:10</Hour>
 	<Room>Sala 8-2</Room>
 </Activity>
 <Activity>
 	<Id>100002866</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>11:05 - 11:55</Hour>
 	<Room>Sala 9-2</Room>
 </Activity>
 <Activity>
 	<Id>100002916</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>11:05 - 11:55</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 11-2</Room>
 </Activity>
 <Activity>
 	<Id>200002916</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Sexta-Feira</Day>
 	<Hour>11:05 - 11:55</Hour>
 	<Room>Sala 11-2</Room>
 </Activity>
 <Activity>
 	<Id>100002799</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
-	<Room>Sala 14-2</Room>
-</Activity>
-<Activity>
-	<Id>200002799</Id>
 	<Day>Quinta-Feira</Day>
 	<Hour>15:05 - 15:55</Hour>
 	<Room>Sala 14-2</Room>
 </Activity>
 <Activity>
-	<Id>100002942</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>11:05 - 11:55</Hour>
-	<Room>Sala 13-2</Room>
+	<Id>200002799</Id>
+	<Day>Quarta-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
+	<Room>Sala 14-2</Room>
 </Activity>
 <Activity>
-	<Id>200002942</Id>
-	<Day>Quinta-Feira</Day>
+	<Id>100002942</Id>
+	<Day>Sexta-Feira</Day>
 	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 13-2</Room>
 </Activity>
 <Activity>
-	<Id>100002965</Id>
+	<Id>200002942</Id>
 	<Day>Quarta-Feira</Day>
-	<Hour>08:20 - 09:10</Hour>
+	<Hour>11:05 - 11:55</Hour>
+	<Room>Sala 13-2</Room>
+</Activity>
+<Activity>
+	<Id>100002965</Id>
+	<Day>Quinta-Feira</Day>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Sala 3-1</Room>
 </Activity>
 <Activity>
 	<Id>100002800</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>11:05 - 11:55</Hour>
 	<Room>Educação Física / Sala 4 B2</Room>
 </Activity>
 <Activity>
 	<Id>100002819</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>11:05 - 11:55</Hour>
-	<Room>Educação Física / Sala 4 B2</Room>
-</Activity>
-<Activity>
-	<Id>100002837</Id>
 	<Day>Terça-Feira</Day>
 	<Hour>11:05 - 11:55</Hour>
 	<Room>Educação Física / Sala 4 B2</Room>
 </Activity>
 <Activity>
+	<Id>100002837</Id>
+	<Day>Quinta-Feira</Day>
+	<Hour>11:05 - 11:55</Hour>
+	<Room>Educação Física / Sala 4 B2</Room>
+</Activity>
+<Activity>
 	<Id>100002943</Id>
-	<Day>Quarta-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>07:30 - 08:20</Hour>
 	<Room>Educação Física / Sala 4 B2</Room>
 </Activity>
@@ -710,13 +710,13 @@
 </Activity>
 <Activity>
 	<Id>100002728</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>07:30 - 08:20</Hour>
 	<Room>Educação Física / Sala 4 B2</Room>
 </Activity>
 <Activity>
 	<Id>100002921</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>07:30 - 08:20</Hour>
 	<Room>Educação Física / Sala 4 B2</Room>
 </Activity>
@@ -729,97 +729,97 @@
 <Activity>
 	<Id>100002687</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Hour>21:00 - 21:50</Hour>
 	<Room>Laboratório de Informatica A</Room>
 </Activity>
 <Activity>
 	<Id>200002687</Id>
 	<Day>Quinta-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
-	<Room>Laboratório de Informatica B</Room>
+	<Room>Laboratório de Informatica A</Room>
 </Activity>
 <Activity>
 	<Id>100003052</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
-	<Room>Laboratório de Informatica C</Room>
-</Activity>
-<Activity>
-	<Id>200003052</Id>
 	<Day>Quinta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room>Laboratório de Informatica C</Room>
 </Activity>
 <Activity>
+	<Id>200003052</Id>
+	<Day>Segunda-Feira</Day>
+	<Hour>19:00 - 19:50</Hour>
+	<Room>Laboratório de Informatica C</Room>
+</Activity>
+<Activity>
 	<Id>100002806</Id>
 	<Day>Quarta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Hour>08:20 - 09:10</Hour>
 	<Room>Sala 6-2</Room>
 </Activity>
 <Activity>
 	<Id>100002824</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>08:20 - 09:10</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 7-2</Room>
 </Activity>
 <Activity>
 	<Id>100002841</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Quarta-Feira</Day>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 8-2</Room>
 </Activity>
 <Activity>
 	<Id>100002857</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 9-2</Room>
 </Activity>
 <Activity>
 	<Id>100002734</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>13:10 - 14:00</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>15:05 - 15:55</Hour>
 	<Room>Sala 14-2</Room>
 </Activity>
 <Activity>
 	<Id>100002735</Id>
 	<Day>Quarta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>100002957</Id>
-	<Day>Quarta-Feira</Day>
+	<Day>Segunda-Feira</Day>
 	<Hour>11:05 - 11:55</Hour>
 	<Room>Sala 3-1</Room>
 </Activity>
 <Activity>
 	<Id>100002903</Id>
 	<Day>Quarta-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 12-2</Room>
 </Activity>
 <Activity>
 	<Id>100002836</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Laboratório de Biologia</Room>
 </Activity>
 <Activity>
 	<Id>100002885</Id>
-	<Day>Quinta-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
-	<Room>Sala 11-2</Room>
-</Activity>
-<Activity>
-	<Id>200002885</Id>
 	<Day>Segunda-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 11-2</Room>
 </Activity>
 <Activity>
-	<Id>100002887</Id>
-	<Day>Quinta-Feira</Day>
+	<Id>200002885</Id>
+	<Day>Terça-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
+	<Room>Sala 11-2</Room>
+</Activity>
+<Activity>
+	<Id>100002887</Id>
+	<Day>Terça-Feira</Day>
+	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 11-2</Room>
 </Activity>
 <Activity>
@@ -831,90 +831,90 @@
 <Activity>
 	<Id>100002929</Id>
 	<Day>Quinta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Laboratório de Química</Room>
 </Activity>
 <Activity>
 	<Id>100002745</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>100002746</Id>
 	<Day>Sexta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Hour>13:10 - 14:00</Hour>
 	<Room>Laboratório de Química</Room>
 </Activity>
 <Activity>
 	<Id>100002939</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Sexta-Feira</Day>
 	<Hour>07:30 - 08:20</Hour>
 	<Room>Laboratório de Química</Room>
 </Activity>
 <Activity>
 	<Id>100002964</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>11:05 - 11:55</Hour>
 	<Room>Laboratório de Química</Room>
 </Activity>
 <Activity>
 	<Id>100003054</Id>
-	<Day>Segunda-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>100002947</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>15:05 - 15:55</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>13:10 - 14:00</Hour>
 	<Room>Sala 11-2</Room>
 </Activity>
 <Activity>
 	<Id>100003059</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>100003049</Id>
-	<Day>Segunda-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 16-2</Room>
 </Activity>
 <Activity>
 	<Id>200003049</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 16-2</Room>
 </Activity>
 <Activity>
 	<Id>100002765</Id>
 	<Day>Terça-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 7-2</Room>
 </Activity>
 <Activity>
 	<Id>100002826</Id>
-	<Day>Segunda-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>08:20 - 09:10</Hour>
 	<Room>Sala 7-2</Room>
 </Activity>
 <Activity>
 	<Id>100002843</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Segunda-Feira</Day>
 	<Hour>11:05 - 11:55</Hour>
 	<Room>Sala 8-2</Room>
 </Activity>
 <Activity>
 	<Id>100002859</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Quarta-Feira</Day>
+	<Hour>11:05 - 11:55</Hour>
 	<Room>Sala 9-2</Room>
 </Activity>
 <Activity>
 	<Id>100002810</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 6-2</Room>
 </Activity>
@@ -926,31 +926,31 @@
 </Activity>
 <Activity>
 	<Id>100002844</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 8-2</Room>
 </Activity>
 <Activity>
 	<Id>100002860</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
-	<Room>Sala 9-2</Room>
-</Activity>
-<Activity>
-	<Id>100002867</Id>
 	<Day>Sexta-Feira</Day>
 	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 9-2</Room>
 </Activity>
 <Activity>
+	<Id>100002867</Id>
+	<Day>Sexta-Feira</Day>
+	<Hour>11:05 - 11:55</Hour>
+	<Room>Sala 9-2</Room>
+</Activity>
+<Activity>
 	<Id>100002702</Id>
-	<Day>Quarta-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 13-2</Room>
 </Activity>
 <Activity>
 	<Id>200002702</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 13-2</Room>
 </Activity>
@@ -968,56 +968,56 @@
 </Activity>
 <Activity>
 	<Id>100002700</Id>
-	<Day>Quinta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>200002700</Id>
-	<Day>Quinta-Feira</Day>
-	<Hour>11:05 - 11:55</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>15:05 - 15:55</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>100002698</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>13:10 - 14:00</Hour>
 	<Room>Sala 16-2</Room>
 </Activity>
 <Activity>
 	<Id>200002698</Id>
-	<Day>Quarta-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>11:05 - 11:55</Hour>
 	<Room>Sala 16-2</Room>
 </Activity>
 <Activity>
 	<Id>100002699</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 16-2</Room>
 </Activity>
 <Activity>
 	<Id>100002854</Id>
 	<Day>Quinta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Laboratório de Biologia</Room>
 </Activity>
 <Activity>
 	<Id>100002930</Id>
 	<Day>Quinta-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Laboratório de Biologia</Room>
 </Activity>
 <Activity>
 	<Id>100003096</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>Laboratório de Química</Room>
 </Activity>
 <Activity>
 	<Id>100002891</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>21:00 - 21:50</Hour>
 	<Room>Laboratório de Biologia</Room>
 </Activity>
 <Activity>
@@ -1035,7 +1035,7 @@
 <Activity>
 	<Id>200002896</Id>
 	<Day>Quinta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 12-2</Room>
 </Activity>
 <Activity>
@@ -1046,20 +1046,20 @@
 </Activity>
 <Activity>
 	<Id>100002789</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
-	<Room>BioPark-03</Room>
-</Activity>
-<Activity>
-	<Id>200002789</Id>
 	<Day>Segunda-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>BioPark-03</Room>
 </Activity>
 <Activity>
-	<Id>300002789</Id>
+	<Id>200002789</Id>
 	<Day>Quarta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
+	<Room>BioPark-03</Room>
+</Activity>
+<Activity>
+	<Id>300002789</Id>
+	<Day>Quarta-Feira</Day>
+	<Hour>19:00 - 19:50</Hour>
 	<Room>BioPark-03</Room>
 </Activity>
 <Activity>
@@ -1082,85 +1082,85 @@
 </Activity>
 <Activity>
 	<Id>100002918</Id>
-	<Day>Quarta-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 12-2</Room>
 </Activity>
 <Activity>
 	<Id>200002918</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>11:05 - 11:55</Hour>
+	<Day>Sexta-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 12-2</Room>
 </Activity>
 <Activity>
 	<Id>100002753</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 6-2</Room>
 </Activity>
 <Activity>
 	<Id>100002816</Id>
-	<Day>Segunda-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 7-2</Room>
 </Activity>
 <Activity>
 	<Id>100002853</Id>
 	<Day>Terça-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Hour>08:20 - 09:10</Hour>
 	<Room>Sala 9-2</Room>
 </Activity>
 <Activity>
 	<Id>100002724</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>11:05 - 11:55</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Sala 14-2</Room>
 </Activity>
 <Activity>
 	<Id>200002724</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>08:20 - 09:10</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>15:05 - 15:55</Hour>
 	<Room>Sala 14-2</Room>
 </Activity>
 <Activity>
 	<Id>100002721</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>200002721</Id>
-	<Day>Quarta-Feira</Day>
+	<Day>Sexta-Feira</Day>
 	<Hour>11:05 - 11:55</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>100002723</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>15:55 - 16:45</Hour>
 	<Room>Sala 14-2</Room>
 </Activity>
 <Activity>
 	<Id>100002722</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>15:05 - 15:55</Hour>
+	<Day>Sexta-Feira</Day>
+	<Hour>15:55 - 16:45</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>100002720</Id>
-	<Day>Segunda-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>15:55 - 16:45</Hour>
 	<Room>Sala 16-2</Room>
 </Activity>
 <Activity>
 	<Id>100002769</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Day>Sexta-Feira</Day>
+	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 6-2</Room>
 </Activity>
 <Activity>
 	<Id>200002769</Id>
-	<Day>Sexta-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 6-2</Room>
 </Activity>
@@ -1172,20 +1172,20 @@
 </Activity>
 <Activity>
 	<Id>100002863</Id>
-	<Day>Quinta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Quarta-Feira</Day>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 9-2</Room>
 </Activity>
 <Activity>
 	<Id>100002846</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Laboratório de Máquinas e Acionamentos Elétricos B4</Room>
 </Activity>
 <Activity>
 	<Id>200002846</Id>
-	<Day>Quinta-Feira</Day>
-	<Hour>08:20 - 09:10</Hour>
+	<Day>Quarta-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Laboratório de Máquinas e Acionamentos Elétricos B4</Room>
 </Activity>
 <Activity>
@@ -1196,8 +1196,8 @@
 </Activity>
 <Activity>
 	<Id>100002848</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 8-2</Room>
 </Activity>
 <Activity>
@@ -1208,13 +1208,13 @@
 </Activity>
 <Activity>
 	<Id>100003095</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>19:50 - 20:40</Hour>
 	<Room>Laboratório de Informatica C</Room>
 </Activity>
 <Activity>
 	<Id>100002894</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 11-2</Room>
 </Activity>
@@ -1226,8 +1226,8 @@
 </Activity>
 <Activity>
 	<Id>100002777</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>19:00 - 19:50</Hour>
 	<Room>BioPark-01</Room>
 </Activity>
 <Activity>
@@ -1239,8 +1239,8 @@
 <Activity>
 	<Id>100002688</Id>
 	<Day>Sexta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
-	<Room>Laboratório de Informatica A</Room>
+	<Hour>19:00 - 19:50</Hour>
+	<Room>Laboratório de Informatica B</Room>
 </Activity>
 <Activity>
 	<Id>100002689</Id>
@@ -1251,37 +1251,37 @@
 <Activity>
 	<Id>200002689</Id>
 	<Day>Sexta-Feira</Day>
-	<Hour>19:50 - 20:40</Hour>
-	<Room>Laboratório de Informatica B</Room>
+	<Hour>21:00 - 21:50</Hour>
+	<Room>Laboratório de Informatica A</Room>
 </Activity>
 <Activity>
 	<Id>100002691</Id>
 	<Day>Sexta-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
-	<Room>Laboratório de Informatica B</Room>
+	<Hour>21:50 - 22:40</Hour>
+	<Room>Laboratório de Informatica A</Room>
 </Activity>
 <Activity>
 	<Id>110002870</Id>
 	<Day>Sexta-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Hour>21:00 - 21:50</Hour>
 	<Room>Laboratório de Física</Room>
 </Activity>
 <Activity>
 	<Id>120002870</Id>
 	<Day>Sexta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Hour>19:00 - 19:50</Hour>
 	<Room>Laboratório de Física</Room>
 </Activity>
 <Activity>
 	<Id>210002870</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>19:00 - 19:50</Hour>
 	<Room>Laboratório de Física</Room>
 </Activity>
 <Activity>
 	<Id>220002870</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>21:00 - 21:50</Hour>
 	<Room>Laboratório de Física</Room>
 </Activity>
 <Activity>
@@ -1292,19 +1292,19 @@
 </Activity>
 <Activity>
 	<Id>200002877</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 8-2</Room>
 </Activity>
 <Activity>
 	<Id>100002767</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 6-2</Room>
 </Activity>
 <Activity>
 	<Id>200002767</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 6-2</Room>
 </Activity>
@@ -1317,37 +1317,37 @@
 <Activity>
 	<Id>110002869</Id>
 	<Day>Sexta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Hour>19:00 - 19:50</Hour>
 	<Room>Laboratório de Desenho Técnico / Sala 5-2</Room>
 </Activity>
 <Activity>
 	<Id>120002869</Id>
 	<Day>Sexta-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
-	<Room>Laboratório de Desenho Técnico / Sala 5-2</Room>
-</Activity>
-<Activity>
-	<Id>210002869</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
-	<Room>Laboratório de Desenho Técnico / Sala 5-2</Room>
-</Activity>
-<Activity>
-	<Id>220002869</Id>
-	<Day>Quarta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room>Laboratório de Desenho Técnico / Sala 5-2</Room>
 </Activity>
 <Activity>
+	<Id>210002869</Id>
+	<Day>Terça-Feira</Day>
+	<Hour>21:00 - 21:50</Hour>
+	<Room>Laboratório de Desenho Técnico / Sala 5-2</Room>
+</Activity>
+<Activity>
+	<Id>220002869</Id>
+	<Day>Terça-Feira</Day>
+	<Hour>19:00 - 19:50</Hour>
+	<Room>Laboratório de Desenho Técnico / Sala 5-2</Room>
+</Activity>
+<Activity>
 	<Id>100002847</Id>
-	<Day>Sexta-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>07:30 - 08:20</Hour>
 	<Room>Laboratório de Usinagem B4</Room>
 </Activity>
 <Activity>
 	<Id>100002864</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Laboratório de Usinagem B4</Room>
 </Activity>
 <Activity>
@@ -1358,19 +1358,19 @@
 </Activity>
 <Activity>
 	<Id>100002814</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Day>Sexta-Feira</Day>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 6-2</Room>
 </Activity>
 <Activity>
 	<Id>100003057</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>200003057</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
@@ -1383,30 +1383,30 @@
 <Activity>
 	<Id>100002811</Id>
 	<Day>Terça-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 6-2</Room>
 </Activity>
 <Activity>
 	<Id>100002828</Id>
 	<Day>Quinta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 7-2</Room>
 </Activity>
 <Activity>
 	<Id>100002845</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 8-2</Room>
 </Activity>
 <Activity>
 	<Id>100002862</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 9-2</Room>
 </Activity>
 <Activity>
 	<Id>200002862</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>11:05 - 11:55</Hour>
 	<Room>Sala 9-2</Room>
 </Activity>
@@ -1420,66 +1420,66 @@
 	<Id>100003067</Id>
 	<Day>Sexta-Feira</Day>
 	<Hour>15:05 - 15:55</Hour>
-	<Room>BioPark-01</Room>
+	<Room>BioPark-02</Room>
 </Activity>
 <Activity>
 	<Id>100002809</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Sexta-Feira</Day>
 	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 6-2</Room>
 </Activity>
 <Activity>
 	<Id>100002968</Id>
 	<Day>Sexta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Hour>13:10 - 14:00</Hour>
 	<Room>Sala 12-2</Room>
 </Activity>
 <Activity>
 	<Id>100002949</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>15:05 - 15:55</Hour>
 	<Room>Sala 11-2</Room>
 </Activity>
 <Activity>
 	<Id>200002949</Id>
 	<Day>Sexta-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 11-2</Room>
 </Activity>
 <Activity>
 	<Id>100002926</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Sexta-Feira</Day>
 	<Hour>10:15 - 11:05</Hour>
 	<Room>Sala 12-2</Room>
 </Activity>
 <Activity>
 	<Id>200002926</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>15:05 - 15:55</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>13:10 - 14:00</Hour>
 	<Room>Sala 12-2</Room>
 </Activity>
 <Activity>
 	<Id>100002740</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>13:10 - 14:00</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>200002740</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>13:10 - 14:00</Hour>
+	<Day>Sexta-Feira</Day>
+	<Hour>15:05 - 15:55</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>100002935</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Sala 13-2</Room>
 </Activity>
 <Activity>
 	<Id>100002807</Id>
 	<Day>Terça-Feira</Day>
-	<Hour>08:20 - 09:10</Hour>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Sala 6-2</Room>
 </Activity>
 <Activity>
@@ -1490,8 +1490,8 @@
 </Activity>
 <Activity>
 	<Id>100002842</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>11:05 - 11:55</Hour>
 	<Room>Sala 8-2</Room>
 </Activity>
 <Activity>
@@ -1503,32 +1503,32 @@
 <Activity>
 	<Id>100002749</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Hour>11:05 - 11:55</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>200002749</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>11:05 - 11:55</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>08:20 - 09:10</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>100002750</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>11:05 - 11:55</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Sala 16-2</Room>
 </Activity>
 <Activity>
 	<Id>200002750</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>15:05 - 15:55</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 16-2</Room>
 </Activity>
 <Activity>
 	<Id>100003068</Id>
 	<Day>Sexta-Feira</Day>
 	<Hour>07:30 - 08:20</Hour>
-	<Room>BioPark-01</Room>
+	<Room>BioPark-02</Room>
 </Activity>
 <Activity>
 	<Id>100003070</Id>
@@ -1538,80 +1538,80 @@
 </Activity>
 <Activity>
 	<Id>100002804</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 6-2</Room>
 </Activity>
 <Activity>
 	<Id>100002821</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>11:05 - 11:55</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>08:20 - 09:10</Hour>
 	<Room>Sala 7-2</Room>
 </Activity>
 <Activity>
 	<Id>100002839</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>10:15 - 11:05</Hour>
 	<Room>Sala 8-2</Room>
 </Activity>
 <Activity>
 	<Id>100002855</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>08:20 - 09:10</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 9-2</Room>
 </Activity>
 <Activity>
 	<Id>100002915</Id>
-	<Day>Sexta-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 11-2</Room>
 </Activity>
 <Activity>
 	<Id>200002915</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>11:05 - 11:55</Hour>
 	<Room>Sala 11-2</Room>
 </Activity>
 <Activity>
 	<Id>100002823</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>11:05 - 11:55</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 14-2</Room>
 </Activity>
 <Activity>
 	<Id>200002823</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>15:05 - 15:55</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 14-2</Room>
 </Activity>
 <Activity>
 	<Id>100002922</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Quarta-Feira</Day>
+	<Hour>11:05 - 11:55</Hour>
 	<Room>Sala 12-2</Room>
 </Activity>
 <Activity>
 	<Id>100002834</Id>
 	<Day>Terça-Feira</Day>
-	<Hour>14:00 - 14:50</Hour>
+	<Hour>15:55 - 16:45</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>200002834</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>100002835</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>11:05 - 11:55</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>15:05 - 15:55</Hour>
 	<Room>Sala 16-2</Room>
 </Activity>
 <Activity>
 	<Id>200002835</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Day>Quarta-Feira</Day>
+	<Hour>08:20 - 09:10</Hour>
 	<Room>Sala 16-2</Room>
 </Activity>
 <Activity>
@@ -1622,50 +1622,50 @@
 </Activity>
 <Activity>
 	<Id>200002932</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>08:20 - 09:10</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Sala 13-2</Room>
 </Activity>
 <Activity>
 	<Id>100002955</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>08:20 - 09:10</Hour>
 	<Room>Sala 3-1</Room>
 </Activity>
 <Activity>
 	<Id>100002707</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>Laboratório de Desenho Técnico / Sala 5-2</Room>
 </Activity>
 <Activity>
 	<Id>100002706</Id>
-	<Day>Quinta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Laboratório de Desenho Técnico / Sala 5-2</Room>
 </Activity>
 <Activity>
 	<Id>100002803</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 13-2</Room>
 </Activity>
 <Activity>
 	<Id>100002703</Id>
-	<Day>Quinta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Day>Quarta-Feira</Day>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Sala 16-2</Room>
 </Activity>
 <Activity>
 	<Id>100002711</Id>
-	<Day>Quinta-Feira</Day>
-	<Hour>13:10 - 14:00</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>100002704</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Day>Quarta-Feira</Day>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 16-2</Room>
 </Activity>
 <Activity>
@@ -1684,102 +1684,102 @@
 	<Id>100002913</Id>
 	<Day>Quinta-Feira</Day>
 	<Hour>07:30 - 08:20</Hour>
-	<Room>BioPark-01</Room>
+	<Room>BioPark-02</Room>
 </Activity>
 <Activity>
 	<Id>100002761</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>15:05 - 15:55</Hour>
 	<Room>BioPark-01</Room>
 </Activity>
 <Activity>
 	<Id>200002761</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>13:10 - 14:00</Hour>
 	<Room>BioPark-01</Room>
 </Activity>
 <Activity>
 	<Id>300002761</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>15:05 - 15:55</Hour>
-	<Room>BioPark-01</Room>
-</Activity>
-<Activity>
-	<Id>400002761</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>13:10 - 14:00</Hour>
 	<Room>BioPark-01</Room>
 </Activity>
 <Activity>
+	<Id>400002761</Id>
+	<Day>Quinta-Feira</Day>
+	<Hour>15:05 - 15:55</Hour>
+	<Room>BioPark-01</Room>
+</Activity>
+<Activity>
 	<Id>100002817</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>11:05 - 11:55</Hour>
 	<Room>Laboratório de Biologia</Room>
 </Activity>
 <Activity>
 	<Id>100002889</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Day>Quarta-Feira</Day>
+	<Hour>19:00 - 19:50</Hour>
 	<Room>Laboratório de Biologia</Room>
 </Activity>
 <Activity>
 	<Id>200002889</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>19:00 - 19:50</Hour>
 	<Room>Laboratório de Biologia</Room>
 </Activity>
 <Activity>
 	<Id>100002914</Id>
-	<Day>Segunda-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>07:30 - 08:20</Hour>
 	<Room>Laboratório de Biologia</Room>
 </Activity>
 <Activity>
 	<Id>100002954</Id>
 	<Day>Quarta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Hour>11:05 - 11:55</Hour>
 	<Room>Laboratório de Biologia</Room>
 </Activity>
 <Activity>
 	<Id>100002898</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 12-2</Room>
 </Activity>
 <Activity>
 	<Id>100003043</Id>
 	<Day>Quarta-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 11-2</Room>
 </Activity>
 <Activity>
 	<Id>200003043</Id>
 	<Day>Quarta-Feira</Day>
-	<Hour>19:50 - 20:40</Hour>
+	<Hour>21:50 - 22:40</Hour>
 	<Room>Sala 11-2</Room>
 </Activity>
 <Activity>
 	<Id>100002868</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 9-2</Room>
 </Activity>
 <Activity>
 	<Id>100002960</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Segunda-Feira</Day>
 	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 3-1</Room>
 </Activity>
 <Activity>
 	<Id>200002960</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>11:05 - 11:55</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 3-1</Room>
 </Activity>
 <Activity>
 	<Id>100002739</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Sala 14-2</Room>
 </Activity>
 <Activity>
@@ -1791,7 +1791,7 @@
 <Activity>
 	<Id>100002738</Id>
 	<Day>Quinta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 16-2</Room>
 </Activity>
 <Activity>
@@ -1802,20 +1802,20 @@
 </Activity>
 <Activity>
 	<Id>100003101</Id>
+	<Day>Segunda-Feira</Day>
+	<Hour>21:00 - 21:50</Hour>
+	<Room></Room>
+</Activity>
+<Activity>
+	<Id>200003101</Id>
 	<Day>Quinta-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room></Room>
 </Activity>
 <Activity>
-	<Id>200003101</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>18:10 - 19:00</Hour>
-	<Room></Room>
-</Activity>
-<Activity>
 	<Id>100002945</Id>
 	<Day>Terça-Feira</Day>
-	<Hour>13:10 - 14:00</Hour>
+	<Hour>15:05 - 15:55</Hour>
 	<Room>Laboratório de Física</Room>
 </Activity>
 <Activity>
@@ -1832,69 +1832,69 @@
 </Activity>
 <Activity>
 	<Id>100002732</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>13:10 - 14:00</Hour>
 	<Room>Laboratório de Física</Room>
 </Activity>
 <Activity>
 	<Id>100002733</Id>
 	<Day>Terça-Feira</Day>
-	<Hour>15:05 - 15:55</Hour>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Laboratório de Física</Room>
 </Activity>
 <Activity>
 	<Id>100002933</Id>
 	<Day>Terça-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Laboratório de Física</Room>
 </Activity>
 <Activity>
 	<Id>100002956</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Day>Quarta-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 3-1</Room>
 </Activity>
 <Activity>
 	<Id>100002917</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Sexta-Feira</Day>
 	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 12-2</Room>
 </Activity>
 <Activity>
 	<Id>200002917</Id>
-	<Day>Sexta-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>10:15 - 11:05</Hour>
 	<Room>Sala 12-2</Room>
 </Activity>
 <Activity>
 	<Id>100002774</Id>
-	<Day>Sexta-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>BioPark-01</Room>
 </Activity>
 <Activity>
 	<Id>200002774</Id>
-	<Day>Sexta-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room>BioPark-01</Room>
 </Activity>
 <Activity>
 	<Id>300002774</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Day>Sexta-Feira</Day>
+	<Hour>21:00 - 21:50</Hour>
 	<Room>BioPark-01</Room>
 </Activity>
 <Activity>
 	<Id>100002948</Id>
 	<Day>Terça-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
-	<Room>Laboratório de Informatica A</Room>
+	<Hour>07:30 - 08:20</Hour>
+	<Room>Laboratório de Informatica B</Room>
 </Activity>
 <Activity>
 	<Id>200002948</Id>
 	<Day>Sexta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
-	<Room>Laboratório de Informatica C</Room>
+	<Hour>09:25 - 10:15</Hour>
+	<Room>Laboratório de Informatica B</Room>
 </Activity>
 <Activity>
 	<Id>100002790</Id>
@@ -1911,18 +1911,18 @@
 <Activity>
 	<Id>100002783</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
-	<Room>BioPark-02</Room>
-</Activity>
-<Activity>
-	<Id>200002783</Id>
-	<Day>Quarta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room>BioPark-02</Room>
 </Activity>
 <Activity>
+	<Id>200002783</Id>
+	<Day>Quinta-Feira</Day>
+	<Hour>19:00 - 19:50</Hour>
+	<Room>BioPark-02</Room>
+</Activity>
+<Activity>
 	<Id>300002783</Id>
-	<Day>Quarta-Feira</Day>
+	<Day>Segunda-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>BioPark-02</Room>
 </Activity>
@@ -1934,32 +1934,32 @@
 </Activity>
 <Activity>
 	<Id>100002785</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>BioPark-02</Room>
 </Activity>
 <Activity>
 	<Id>200002785</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room>BioPark-02</Room>
 </Activity>
 <Activity>
 	<Id>100002776</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>19:50 - 20:40</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>21:00 - 21:50</Hour>
 	<Room>BioPark-01</Room>
 </Activity>
 <Activity>
 	<Id>100002924</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Sala 12-2</Room>
 </Activity>
 <Activity>
 	<Id>100002934</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>11:05 - 11:55</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 13-2</Room>
 </Activity>
 <Activity>
@@ -1982,38 +1982,38 @@
 </Activity>
 <Activity>
 	<Id>100002784</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>21:50 - 22:40</Hour>
 	<Room>BioPark-02</Room>
 </Activity>
 <Activity>
 	<Id>100002709</Id>
 	<Day>Terça-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 13-2</Room>
 </Activity>
 <Activity>
 	<Id>200002709</Id>
 	<Day>Quarta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 13-2</Room>
 </Activity>
 <Activity>
 	<Id>100002710</Id>
 	<Day>Terça-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 14-2</Room>
 </Activity>
 <Activity>
 	<Id>100002708</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Quarta-Feira</Day>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Sala 14-2</Room>
 </Activity>
 <Activity>
 	<Id>100002764</Id>
 	<Day>Terça-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 7-2</Room>
 </Activity>
 <Activity>
@@ -2025,25 +2025,25 @@
 <Activity>
 	<Id>100002951</Id>
 	<Day>Terça-Feira</Day>
-	<Hour>15:05 - 15:55</Hour>
+	<Hour>13:10 - 14:00</Hour>
 	<Room>Sala 11-2</Room>
 </Activity>
 <Activity>
 	<Id>200002951</Id>
 	<Day>Quarta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Sala 11-2</Room>
 </Activity>
 <Activity>
 	<Id>100002927</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>15:05 - 15:55</Hour>
 	<Room>Sala 12-2</Room>
 </Activity>
 <Activity>
 	<Id>200002927</Id>
-	<Day>Terça-Feira</Day>
-	<Hour>13:10 - 14:00</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 12-2</Room>
 </Activity>
 <Activity>
@@ -2061,19 +2061,19 @@
 <Activity>
 	<Id>110002755</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Laboratório de Desenho Técnico / Sala 5-2</Room>
 </Activity>
 <Activity>
 	<Id>120002755</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Laboratório de Desenho Técnico / Sala 5-2</Room>
 </Activity>
 <Activity>
 	<Id>210002755</Id>
 	<Day>Quinta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Laboratório de Desenho Técnico / Sala 5-2</Room>
 </Activity>
 <Activity>
@@ -2085,13 +2085,13 @@
 <Activity>
 	<Id>110003061</Id>
 	<Day>Quinta-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Hour>21:00 - 21:50</Hour>
 	<Room>Laboratório de Desenho Técnico / Sala 5-2</Room>
 </Activity>
 <Activity>
 	<Id>120003061</Id>
 	<Day>Quinta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Hour>19:00 - 19:50</Hour>
 	<Room>Laboratório de Desenho Técnico / Sala 5-2</Room>
 </Activity>
 <Activity>
@@ -2108,32 +2108,32 @@
 </Activity>
 <Activity>
 	<Id>100002879</Id>
-	<Day>Terça-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>Laboratório de Metrologia B4</Room>
 </Activity>
 <Activity>
 	<Id>100002829</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>11:05 - 11:55</Hour>
 	<Room>Laboratório de Metrologia B4</Room>
 </Activity>
 <Activity>
 	<Id>100002713</Id>
-	<Day>Segunda-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Day>Sexta-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>200002713</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>08:20 - 09:10</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
 	<Id>100002712</Id>
 	<Day>Sexta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 16-2</Room>
 </Activity>
 <Activity>
@@ -2162,38 +2162,38 @@
 </Activity>
 <Activity>
 	<Id>100002715</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 14-2</Room>
 </Activity>
 <Activity>
 	<Id>100002716</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Day>Terça-Feira</Day>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Sala 14-2</Room>
 </Activity>
 <Activity>
 	<Id>100002718</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
-	<Room>Sala 14-2</Room>
-</Activity>
-<Activity>
-	<Id>100002717</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
-	<Room>Sala 14-2</Room>
-</Activity>
-<Activity>
-	<Id>100002719</Id>
-	<Day>Quarta-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 14-2</Room>
 </Activity>
 <Activity>
-	<Id>200002719</Id>
-	<Day>Quarta-Feira</Day>
+	<Id>100002717</Id>
+	<Day>Quinta-Feira</Day>
+	<Hour>09:25 - 10:15</Hour>
+	<Room>Sala 14-2</Room>
+</Activity>
+<Activity>
+	<Id>100002719</Id>
+	<Day>Quinta-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
+	<Room>Sala 14-2</Room>
+</Activity>
+<Activity>
+	<Id>200002719</Id>
+	<Day>Terça-Feira</Day>
+	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 14-2</Room>
 </Activity>
 <Activity>
@@ -2210,8 +2210,8 @@
 </Activity>
 <Activity>
 	<Id>200002798</Id>
-	<Day>Sexta-Feira</Day>
-	<Hour>09:25 - 10:15</Hour>
+	<Day>Quinta-Feira</Day>
+	<Hour>11:05 - 11:55</Hour>
 	<Room>Sala 15-2</Room>
 </Activity>
 <Activity>
@@ -2228,38 +2228,38 @@
 </Activity>
 <Activity>
 	<Id>110002757</Id>
-	<Day>Quinta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
-	<Room>Laboratório de Física</Room>
-</Activity>
-<Activity>
-	<Id>120002757</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Segunda-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>Laboratório de Física</Room>
 </Activity>
 <Activity>
-	<Id>210002757</Id>
+	<Id>120002757</Id>
 	<Day>Segunda-Feira</Day>
+	<Hour>21:00 - 21:50</Hour>
+	<Room>Laboratório de Física</Room>
+</Activity>
+<Activity>
+	<Id>210002757</Id>
+	<Day>Quinta-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>Laboratório de Física</Room>
 </Activity>
 <Activity>
 	<Id>220002757</Id>
-	<Day>Segunda-Feira</Day>
+	<Day>Quinta-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room>Laboratório de Física</Room>
 </Activity>
 <Activity>
 	<Id>110002802</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Hour>10:15 - 11:05</Hour>
 	<Room>Laboratório de Física</Room>
 </Activity>
 <Activity>
 	<Id>120002802</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Hour>07:30 - 08:20</Hour>
 	<Room>Laboratório de Física</Room>
 </Activity>
 <Activity>
@@ -2271,18 +2271,18 @@
 <Activity>
 	<Id>220002802</Id>
 	<Day>Quinta-Feira</Day>
-	<Hour>07:30 - 08:20</Hour>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Laboratório de Física</Room>
 </Activity>
 <Activity>
 	<Id>100002820</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>10:15 - 11:05</Hour>
 	<Room>Laboratório de Física</Room>
 </Activity>
 <Activity>
 	<Id>200002820</Id>
-	<Day>Quinta-Feira</Day>
+	<Day>Quarta-Feira</Day>
 	<Hour>09:25 - 10:15</Hour>
 	<Room>Laboratório de Física</Room>
 </Activity>
@@ -2294,7 +2294,7 @@
 </Activity>
 <Activity>
 	<Id>100002838</Id>
-	<Day>Segunda-Feira</Day>
+	<Day>Sexta-Feira</Day>
 	<Hour>07:30 - 08:20</Hour>
 	<Room>Sala 8-2</Room>
 </Activity>
@@ -2306,37 +2306,37 @@
 </Activity>
 <Activity>
 	<Id>100002861</Id>
-	<Day>Quarta-Feira</Day>
+	<Day>Segunda-Feira</Day>
 	<Hour>11:05 - 11:55</Hour>
 	<Room>Sala 9-2</Room>
 </Activity>
 <Activity>
 	<Id>100002881</Id>
-	<Day>Segunda-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 8-2</Room>
 </Activity>
 <Activity>
 	<Id>200002881</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 8-2</Room>
 </Activity>
 <Activity>
 	<Id>100002830</Id>
 	<Day>Segunda-Feira</Day>
-	<Hour>10:15 - 11:05</Hour>
+	<Hour>09:25 - 10:15</Hour>
 	<Room>Laboratório de Usinagem B4</Room>
 </Activity>
 <Activity>
 	<Id>100002882</Id>
-	<Day>Quarta-Feira</Day>
-	<Hour>19:00 - 19:50</Hour>
+	<Day>Sexta-Feira</Day>
+	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 8-2</Room>
 </Activity>
 <Activity>
 	<Id>200002882</Id>
-	<Day>Sexta-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>21:00 - 21:50</Hour>
 	<Room>Sala 8-2</Room>
 </Activity>
@@ -2348,14 +2348,14 @@
 </Activity>
 <Activity>
 	<Id>100002772</Id>
-	<Day>Segunda-Feira</Day>
+	<Day>Terça-Feira</Day>
 	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 6-2</Room>
 </Activity>
 <Activity>
 	<Id>200002772</Id>
-	<Day>Quinta-Feira</Day>
-	<Hour>21:00 - 21:50</Hour>
+	<Day>Segunda-Feira</Day>
+	<Hour>19:00 - 19:50</Hour>
 	<Room>Sala 6-2</Room>
 </Activity>
 <Activity>

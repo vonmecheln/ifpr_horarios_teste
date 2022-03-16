@@ -1,12 +1,13 @@
 ﻿Conflitos leves de exportacao_controleescolar.fet
 Gerado com FET 6.3.0 em --/--/---- --:--
 
-Número de restrições leves quebradas: 16
-Total de conflitos leves: 2.54
+Número de restrições leves quebradas: 17
+Total de conflitos leves: 4.52
 
 Conflitos leves em ordem decrescente:
 
-Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Terça-Feira, horário 11:05 - 11:55. Isso aumenta em 0.5 o total de conflitos
+Restrição de tempo "janelas de horário preferenciais" não atendida para atividade com id=100002736 (2 - Cesar Gomes de Freitas - Gestão e Empreendedorismo Rural - 1095 - Matutino,Vespertino,Assis Chateaubriand - AGO2020) em 2 horas, aumenta conflitos totais em 1.98
+Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Terça-Feira, horário 10:15 - 11:05. Isso aumenta em 0.5 o total de conflitos
 Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Quarta-Feira, horário 11:05 - 11:55. Isso aumenta em 0.5 o total de conflitos
 Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Quinta-Feira, horário 10:15 - 11:05. Isso aumenta em 0.5 o total de conflitos
 Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Quinta-Feira, horário 11:05 - 11:55. Isso aumenta em 0.5 o total de conflitos

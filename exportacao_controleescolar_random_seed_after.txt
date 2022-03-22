@@ -1,7 +1,7 @@
 ﻿Geração concluída em: --/--/---- --:--
 
 A semente aleatória no final da geração é:
-	s10=3604197113, s11=2211781260, s12=1077089128,
-	s20=2260812965, s21=3998297665, s22=1201590954.
+	s10=2561439932, s11=3731080936, s12=3915398970,
+	s20=3760529216, s21=726664590, s22=3335268931.
 
 Esse arquivo foi gerado automaticamente por FET 6.3.0.

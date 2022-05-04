@@ -1,7 +1,7 @@
 ﻿Conflitos leves de exportacao_controleescolar.fet
-Gerado com FET 6.3.0 em --/--/---- --:--
+Gerado com FET 6.3.3 em --/--/---- --:--
 
-Número de restrições leves quebradas: 16
+Número de restrições leves quebradas: 15
 Total de conflitos leves: 2.8
 
 Conflitos leves em ordem decrescente:
@@ -19,7 +19,6 @@ Restrição de espaço "sala com horários indisponíveis" não atendida para sa
 Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Sexta-Feira, horário 15:05 - 15:55. Isso aumenta em 0.01 o total de conflitos
 Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Sexta-Feira, horário 15:55 - 16:45. Isso aumenta em 0.01 o total de conflitos
 Restrição de tempo "mínimo de dias entre as atividades" não atendida: atividade com id=200002835 (    1/2 - Fabio Antônio da Silva - Filosofia III - 1088 - Matutino,Vespertino,Assis Chateaubriand - AGO2020) conflita com a atividade com id=100002835 (    1/2 - Fabio Antônio da Silva - Filosofia III - 1088 - Matutino,Vespertino,Assis Chateaubriand - AGO2020), sendo 1 dia(s) muito próximo(s), nos dias Sexta-Feira e Sexta-Feira, incremento no fator de conflitos=0. As atividades estão colocadas consecutivamente na grade de horário, pois você escolheu essa opção no caso de as atividades estarem no mesmo dia
-Restrição de tempo "mínimo de dias entre as atividades" não atendida: atividade com id=200002896 (    1/3 - Amilcar Machado Profeta Filho - PCCC 7  - Temas transversais - 1549 - Noturno,Assis Chateaubriand - BIO2019) conflita com a atividade com id=100002896 (    2/3 - Amilcar Machado Profeta Filho - PCCC 7  - Temas transversais - 1549 - Noturno,Assis Chateaubriand - BIO2019), sendo 1 dia(s) muito próximo(s), nos dias Terça-Feira e Terça-Feira, incremento no fator de conflitos=0. As atividades estão colocadas consecutivamente na grade de horário, pois você escolheu essa opção no caso de as atividades estarem no mesmo dia
 Restrição de tempo "mínimo de dias entre as atividades" não atendida: atividade com id=200002966 (    1/3 - Alex Vinicius Faria - Tópicos Especiais em Linguagem de Programação - 36 - Matutino,Assis Chateaubriand - IIN2019) conflita com a atividade com id=100002966 (    2/3 - Alex Vinicius Faria - Tópicos Especiais em Linguagem de Programação - 36 - Matutino,Assis Chateaubriand - IIN2019), sendo 1 dia(s) muito próximo(s), nos dias Terça-Feira e Terça-Feira, incremento no fator de conflitos=0. As atividades estão colocadas consecutivamente na grade de horário, pois você escolheu essa opção no caso de as atividades estarem no mesmo dia
 Restrição de tempo "mínimo de dias entre as atividades" não atendida: atividade com id=200002934 (    1/2 - Renato Lada Guerreiro - Geografia II - 1247 - Matutino,Vespertino,Assis Chateaubriand - IIW2020) conflita com a atividade com id=100002934 (    1/2 - Renato Lada Guerreiro - Geografia II - 1247 - Matutino,Vespertino,Assis Chateaubriand - IIW2020), sendo 1 dia(s) muito próximo(s), nos dias Segunda-Feira e Segunda-Feira, incremento no fator de conflitos=0. As atividades estão colocadas consecutivamente na grade de horário, pois você escolheu essa opção no caso de as atividades estarem no mesmo dia
 

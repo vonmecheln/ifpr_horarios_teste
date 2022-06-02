@@ -1,19 +1,18 @@
 ﻿Conflitos leves de exportacao_controleescolar.fet
 Gerado com FET 6.3.3 em --/--/---- --:--
 
-Número de restrições leves quebradas: 15
-Total de conflitos leves: 2.8
+Número de restrições leves quebradas: 14
+Total de conflitos leves: 3.1
 
 Conflitos leves em ordem decrescente:
 
 Restrição de tempo mín intervalos entre atividades não atendida: atividade com id=100002745 (2 - Kathia Regina Kunzler Bechlin - Química II - 618 - Matutino,Vespertino,Assis Chateaubriand - AGO2021) em conflito com atividade com id=100002743 (2 - Carla Melli Tambarussi - Matemática II - 622 - Matutino,Vespertino,Assis Chateaubriand - AGO2021), elas estão no mesmo dia Quinta-Feira e necessita mais 1 horas entre elas, Incremento no fator de conflitos=0.99.
 Restrição "tempo de início preferido" não atendida para atividade com id=100002729 (2 - Tiago Amaral Silva - Educação Física II - 615 - Matutino,Vespertino,Assis Chateaubriand - AGO2021), aumenta total de conflitos em 0.99
+Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Sexta-Feira, horário 10:15 - 11:05. Isso aumenta em 0.5 o total de conflitos
 Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Terça-Feira, horário 07:30 - 08:20. Isso aumenta em 0.1 o total de conflitos
 Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Terça-Feira, horário 08:20 - 09:10. Isso aumenta em 0.1 o total de conflitos
 Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Quarta-Feira, horário 07:30 - 08:20. Isso aumenta em 0.1 o total de conflitos
 Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Quarta-Feira, horário 08:20 - 09:10. Isso aumenta em 0.1 o total de conflitos
-Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Quinta-Feira, horário 07:30 - 08:20. Isso aumenta em 0.1 o total de conflitos
-Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Quinta-Feira, horário 08:20 - 09:10. Isso aumenta em 0.1 o total de conflitos
 Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Sexta-Feira, horário 07:30 - 08:20. Isso aumenta em 0.1 o total de conflitos
 Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Sexta-Feira, horário 08:20 - 09:10. Isso aumenta em 0.1 o total de conflitos
 Restrição de espaço "sala com horários indisponíveis" não atendida para sala Educação Física / Sala 4 B2, no dia Sexta-Feira, horário 15:05 - 15:55. Isso aumenta em 0.01 o total de conflitos

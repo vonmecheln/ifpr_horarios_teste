@@ -1,5 +1,5 @@
 ﻿Conflitos leves de exportacao_controleescolar.fet
-Gerado com FET 6.3.3 em --/--/---- --:--
+Gerado com FET 6.5.3 em --/--/---- --:--
 
 Número de restrições leves quebradas: 14
 Total de conflitos leves: 3.1

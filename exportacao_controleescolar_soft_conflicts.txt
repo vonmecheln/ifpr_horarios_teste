@@ -1,10 +1,14 @@
 ﻿Conflitos leves de exportacao_controleescolar.fet
 Gerado com FET 6.5.3 em --/--/---- --:--
 
-Número de restrições leves quebradas: 0
+Número de restrições leves quebradas: 4
 Total de conflitos leves: 0
 
 Conflitos leves em ordem decrescente:
 
+Restrição de tempo "mínimo de dias entre as atividades" não atendida: atividade com id=200006414 (    1/2 - Fabio Antônio da Silva - Filosofia II - 624 - Matutino,Vespertino,Assis Chateaubriand - AGO2021) conflita com a atividade com id=100006414 (    1/2 - Fabio Antônio da Silva - Filosofia II - 624 - Matutino,Vespertino,Assis Chateaubriand - AGO2021), sendo 1 dia(s) muito próximo(s), nos dias Quinta-Feira e Quinta-Feira, incremento no fator de conflitos=0. As atividades estão colocadas consecutivamente na grade de horário, pois você escolheu essa opção no caso de as atividades estarem no mesmo dia
+Restrição de tempo "mínimo de dias entre as atividades" não atendida: atividade com id=200002991 (    1/3 - Tiago Henrique dos Santos - Eletrônica - 1554 - Matutino,Assis Chateaubriand - EIN2021) conflita com a atividade com id=100002991 (    2/3 - Tiago Henrique dos Santos - Eletrônica - 1554 - Matutino,Assis Chateaubriand - EIN2021), sendo 1 dia(s) muito próximo(s), nos dias Segunda-Feira e Segunda-Feira, incremento no fator de conflitos=0. As atividades estão colocadas consecutivamente na grade de horário, pois você escolheu essa opção no caso de as atividades estarem no mesmo dia
+Restrição de tempo "mínimo de dias entre as atividades" não atendida: atividade com id=200003014 (    1/3 - Wylliam Salviano Gongora - Máquinas e Acionamentos - 1575 - Matutino,Assis Chateaubriand - EIN2020) conflita com a atividade com id=100003014 (    2/3 - Wylliam Salviano Gongora - Máquinas e Acionamentos - 1575 - Matutino,Assis Chateaubriand - EIN2020), sendo 1 dia(s) muito próximo(s), nos dias Terça-Feira e Terça-Feira, incremento no fator de conflitos=0. As atividades estão colocadas consecutivamente na grade de horário, pois você escolheu essa opção no caso de as atividades estarem no mesmo dia
+Restrição de tempo "mínimo de dias entre as atividades" não atendida: atividade com id=200003251 (    1/2 - Fabio Antônio da Silva - Filosofia III - 1245 - Matutino,Vespertino,Assis Chateaubriand - IIW2020) conflita com a atividade com id=100003251 (    1/2 - Fabio Antônio da Silva - Filosofia III - 1245 - Matutino,Vespertino,Assis Chateaubriand - IIW2020), sendo 1 dia(s) muito próximo(s), nos dias Segunda-Feira e Segunda-Feira, incremento no fator de conflitos=0. As atividades estão colocadas consecutivamente na grade de horário, pois você escolheu essa opção no caso de as atividades estarem no mesmo dia
 
 Final do arquivo.
